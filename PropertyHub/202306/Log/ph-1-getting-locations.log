@@ -1,0 +1,26 @@
+46.9s 1 curl: /opt/conda/lib/libcurl.so.4: no version information available (required by curl)
+85.4s 2 Google Chrome 114.0.5735.198
+86.5s 3 ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052})
+87.0s 4 Start getting locations ...
+121.5s 5 Done getting names for 11 train lines (243 stations with 283229 for-rents and 126285 for-sales)
+620.9s 6 Done getting names for 3 school types (430 schools with 805301 for-rents and 362637 for-sales)
+749.1s 7 Done getting names for 77 provinces (288 areas with 110242 for-rents and 47264 for-sales)
+877.9s 8 Done getting names for 77 provinces (927 districts with 162292 for-rents and 70751 for-sales)
+877.9s 9 ------------------------------------------------------------
+877.9s 10 Total dataset: len of 893 with 984000.5 links
+877.9s 11 Average (total/4): 246000.125
+877.9s 12 ------------------------------------------------------------
+877.9s 13 Dataset 1: len of 15 with 250140.0 links, starting from index 0
+877.9s 14 Dataset 2: len of 34 with 244301.0 links, starting from index 15
+877.9s 15 Dataset 3: len of 70 with 243968.5 links, starting from index 49
+877.9s 16 Dataset 4: len of 774 with 245591.0 links, starting from index 119
+881.4s 17 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+881.4s 18 warn(
+881.4s 19 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+881.5s 20 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+882.0s 21 [NbConvertApp] Writing 22103 bytes to __notebook__.ipynb
+884.0s 22 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+884.0s 23 warn(
+884.0s 24 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+884.1s 25 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+885.2s 26 [NbConvertApp] Writing 348355 bytes to __results__.html
