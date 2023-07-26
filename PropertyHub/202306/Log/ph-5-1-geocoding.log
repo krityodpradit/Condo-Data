@@ -1,0 +1,1717 @@
+46.7s 1 curl: /opt/conda/lib/libcurl.so.4: no version information available (required by curl)
+86.3s 2 Google Chrome 114.0.5735.198
+87.4s 3 ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052})
+88.1s 4 Data imported Project: 1664 records
+89.2s 5 Web driver is set up
+97.5s 6 1st lat and lon adjustments are calculated
+113.5s 7 2nd lat and lon adjustments are calculated
+113.5s 8 Start scraping geocodes ...
+113.5s 9 ------------------------------
+119.4s 10 Done 0: (13.787405132432392,100.6318833259578) 101 Mansion, Bang Kapi Bangkok
+124.9s 11 Done 1: (18.750808532432394,99.0358666259578) 103 Central Condominium, 155/4 Saraphi Chiang Mai
+130.2s 12 Done 2: (18.79581413243239,98.9634255259578) 103 Condominium 2, Muang Chiang Mai Chiang Mai
+135.5s 13 Done 3: (18.79899353243239,98.9654242259578) 103 Condominium 3, Muang Chiang Mai Chiang Mai
+151.1s 14 Done 4: (13.65613877106645,100.6063992928716) 107 Baring Condo, Muang Samut Prakarn Samut Prakarn
+156.9s 15 Done 5: (13.722589832432392,100.5337761259578) 125 SATHORN, Sathon Bangkok
+172.1s 16 Done 6: (13.74582707106645,100.55868089287159) 15 Suite, Watthana Bangkok
+178.0s 17 Done 7: (13.742003132432393,100.5580810259578) 15 Sukhumvit Residences, Watthana Bangkok
+183.9s 18 Done 8: (13.716995832432392,100.5762800259578) 168 Sukhumvit 36, Khlong Toei Bangkok
+237.2s 19 Done 9: (13.735390532432392,100.5392834259578) 185 Ratchadamri Condo,
+242.5s 20 Done 10: (14.566488732432392,101.2968644259578) 23 Degree Condo, Pak Chong Nakhon Ratchasima
+248.1s 21 Done 11: (13.746732532432393,100.5440410259578) 28 Chidlom, Pathum Wan Bangkok
+253.8s 22 Done 12: (13.735788332432392,100.5683302259578) 33 Tower, Watthana Bangkok
+259.7s 23 Done 13: (13.806811432432392,100.5195989259578) 333 Riverside, Bang Sue Bangkok
+265.8s 24 Done 14: (13.718218732432392,100.5779599259578) 38 Mansion, Khlong Toei Bangkok
+271.4s 25 Done 15: (13.736717732432393,100.5743650259578) 39 Suite, Watthana Bangkok
+277.0s 26 Done 16: (13.731744732432393,100.5704197259578) 39 by Sansiri, Watthana Bangkok
+283.1s 27 Done 17: (13.730522032432393,100.5756162259578) 49 Plus, Watthana Bangkok
+289.3s 28 Done 18: (13.730522032432393,100.5756162259578) 49 Plus 2, Watthana Bangkok
+294.8s 29 Done 19: (13.729459032432393,100.5760061259578) 49 Suite, Watthana Bangkok
+300.5s 30 Done 20: (13.724468632432393,100.5818067259578) 59 Heritage, Watthana Bangkok
+306.8s 31 Done 21: (13.766523232432393,100.6492294259578) 624 Condolette Ladprao, Bang Kapi Bangkok
+313.4s 32 Done 22: (13.822095332432392,100.5767487259578) 624 Condolette Ratchada 36, Chatuchak Bangkok
+319.1s 33 Done 23: (13.791762232432392,100.4740223259578) 88 The Terminal, Bang Kruai Nonthaburi
+404.1s 34 Done 24: (13.15595137106645,100.9346756928716) 9 Sriracha CondoSi Racha Chonburi
+409.7s 35 Done 25: (13.741672632432392,100.5469343259578) 98 wireless, Pathum Wan Bangkok
+425.3s 36 Done 26: (13.68789257106645,100.6243242928716) @ City Sukhumvit 101/1, Phra Khanong Bangkok
+430.9s 37 Done 27: (13.859562032432393,100.5069372259578) A Plus 2 @ Rattanathibet, Muang Nonthaburi Nonthaburi
+446.3s 38 Done 28: (13.85390587106645,100.5122406928716) A Plus Condo, Muang Nonthaburi Nonthaburi
+452.2s 39 Done 29: (13.664338532432392,100.6316697259578) A Pool Bangna, Bang Na Bangkok
+457.9s 40 Done 30: (13.756893432432392,100.5602191259578) A Space Asoke - Ratchada, Din Daeng Bangkok
+463.8s 41 Done 31: (13.756893432432392,100.5602191259578) A Space Hideaway Asoke - Ratchada, Din Daeng Bangkok
+469.4s 42 Done 32: (13.756893432432392,100.5602191259578) A Space ID Asoke - Ratchada, Din Daeng Bangkok
+475.2s 43 Done 33: (13.832849632432392,100.6164663259578) A Space Kaset - Nawamin, Lat Phrao Bangkok
+480.5s 44 Done 34: (13.640080432432393,100.6806890259578) A Space ME Bangna, Bang Plee Samut Prakarn
+485.5s 45 Done 35: (13.863347332432392,100.4976082259578) A Space Me Rattanathibet, Muang Nonthaburi Nonthaburi
+491.3s 46 Done 36: (13.713241432432392,100.6346895259578) A Space Me Sukhumvit 77, Suan Luang Bangkok
+496.4s 47 Done 37: (13.641702332432393,100.6785835259578) A Space Mega 2, Bang Plee Samut Prakarn
+502.5s 48 Done 38: (13.789645232432392,100.5890624259578) A Space Play Ratchada - Sutthisarn, Huai Khwang Bangkok
+508.0s 49 Done 39: (13.713592332432393,100.6330416259578) A Space Sukhumvit 77, Suan Luang Bangkok
+513.8s 50 Done 40: (13.641223632432393,100.6790563259578) A space mega, Bang Plee Samut Prakarn
+528.7s 51 Done 41: (12.87149567106645,99.9162190928716) A.D Resort, Cha-Am Petchburi
+543.5s 52 Done 42: (12.76373527106645,100.9025040928716) AD Bangsaray Lake & Resort, Sattahip Chonburi
+558.2s 53 Done 43: (12.96254627106645,100.8912960928716) AD Hyatt, Bang Lamung Chonburi
+563.7s 54 Done 44: (13.161169632432392,100.9315313259578) AD Racha Residence, Bang Lamung Chonburi
+569.3s 55 Done 45: (12.914622032432392,100.8664451259578) AD Wongamat, Bang Lamung Chonburi
+574.6s 56 Done 46: (12.817892532432392,100.91603532595781) ALBAR PENINSULA, Sattahip Chonburi
+595.4s 57 Done 47: (13.793743332432392,100.5513100259578) AMF Condominium, Bangkok
+600.6s 58 Done 48: (12.918912532432392,100.8595845259578) ANDROMEDA Khao Phra Tamnak, Bang Lamung Chonburi
+606.7s 59 Done 49: (12.935573432432392,100.8964414259578) APUS Condominium, Bang Lamung Chonburi
+612.9s 60 Done 50: (13.750318832432393,100.5831486259578) AQ Alix Residence Soonvijai, Huai Khwang Bangkok
+698.0s 61 Done 51: (13.870645732432392,100.5775627259578) ARC Condo, Lak Si Bangkok
+713.4s 62 Done 52: (13.801176571066451,100.5716510928716) ARISE Condo Ratchada 19, Din Daeng Bangkok
+719.1s 63 Done 53: (12.891577732432392,100.8736174259578) AROM JOMTIEN - PATTAYA, Bang Lamung Chonburi
+724.4s 64 Done 54: (12.965124032432392,100.88428862595781) AROM WONGAMAT, Bang Lamung Chonburi
+767.3s 65 Done 55: (13.755558832432392,100.4809944259578) AROON Condo,
+772.8s 66 Done 56: (13.729438732432392,100.5964475259578) ARTi Sukhumvit 71, Watthana Bangkok
+778.9s 67 Done 57: (13.792044732432393,100.5811327259578) ASHER PRIVÉ SUTTHISAN, Huai Khwang Bangkok
+785.2s 68 Done 58: (13.785971532432393,100.5848242259578) ASHER Ratchada - Huai Khwang, Huai Khwang Bangkok
+791.3s 69 Done 59: (13.860515832432393,100.5083269259578) ASPIRE Rattanathibet-Weston, Muang Nonthaburi Nonthaburi
+796.7s 70 Done 60: (13.725051032432393,100.5720373259578) Aashiana Sukhumvit 26, Khlong Toei Bangkok
+802.7s 71 Done 61: (13.751799132432392,100.6286936259578) Abac Condotown, Saphan Sung Bangkok
+807.8s 72 Done 62: (13.615749032432392,100.8456820259578) Abaconi Living Condo (ABAC Bangna Campus), Bang Bo Samut Prakarn
+814.3s 73 Done 63: (13.804572632432393,100.5784722259578) Ables Ladprao 27, Chatuchak Bangkok
+820.7s 74 Done 64: (13.817683432432393,100.5650900259578) Abstracts Phahonyothin Park, Chatuchak Bangkok
+827.0s 75 Done 65: (13.679785432432393,100.6071202259578) Abstracts Sukhumvit 66/1, Bang Na Bangkok
+833.0s 76 Done 66: (13.729444132432393,100.5729051259578) Acadamia Grand Tower, Watthana Bangkok
+838.9s 77 Done 67: (12.893254232432392,100.8760015259578) Acqua, Bang Lamung Chonburi
+860.0s 78 Done 68: (13.779412132432393,100.5392343259578) Adamas Phahonyotin, Bangkok
+865.6s 79 Done 69: (13.904919932432392,100.5315469259578) Addera Chaengwattana, Pak Kret Nonthaburi
+872.1s 80 Done 70: (13.727680732432393,100.5754730259578) Aequa Sukhumvit 49, Watthana Bangkok
+877.6s 81 Done 71: (12.871145132432392,100.8896353259578) Aeras Pattaya, Bang Lamung Chonburi
+883.2s 82 Done 72: (13.725067032432392,100.5647482259578) Aguston Sukhumvit 22, Khlong Toei Bangkok
+889.2s 83 Done 73: (13.736357432432392,100.74463642595781) Airlink Residence, Lat Krabang Bangkok
+899.9s 84 Done 74: (18.751268332432396,98.9557311259578) Airport Home Condominium, Mai
+905.9s 85 Done 75: (13.857763932432393,100.5267902259578) Akesin Place, Muang Nonthaburi Nonthaburi
+911.1s 86 Done 76: (13.857763932432393,100.5267902259578) Akesin Tower, Muang Nonthaburi Nonthaburi
+916.6s 87 Done 77: (8.040660932432392,98.2890389259578) Akra Collection Layan, Thalang Phuket
+922.3s 88 Done 78: (13.974422332432393,100.3358071259578) Aland Condo, Sai Noi Nonthaburi
+928.6s 89 Done 79: (13.650521332432392,100.6301549259578) Alisha Court, Bang Na Bangkok
+934.0s 90 Done 80: (13.855046332432392,100.51935622595781) Aliss Tiwanon, Muang Nonthaburi Nonthaburi
+940.4s 91 Done 81: (13.723279432432392,100.4927348259578) Aliss Wongwianyai, Khlong San Bangkok
+945.9s 92 Done 82: (13.739525432432393,100.5484390259578) All Season Mansion, Pathum Wan Bangkok
+952.8s 93 Done 83: (13.731817432432392,100.5261195259578) Altitude Define, Bang Rak Bangkok
+958.7s 94 Done 84: (13.731818032432393,100.5260768259578) Altitude Samyan - Silom, Bang Rak Bangkok
+965.6s 95 Done 85: (13.709952532432393,100.5139348259578) Altitude Symphony Charoenkrung, Bang Kho Laem Bangkok
+972.0s 96 Done 86: (13.712921732432392,100.47487562595781) Altitude Unicorn Sathorn - Thapra, Thon Buri Bangkok
+978.2s 97 Done 87: (13.723017932432393,100.5511658259578) Amanta Lumpini, Sathon Bangkok
+984.4s 98 Done 88: (13.765293632432392,100.5673905259578) Amanta Ratchada, Din Daeng Bangkok
+990.1s 99 Done 89: (13.779407332432392,100.5759490259578) Amaranta Residence, Huai Khwang Bangkok
+995.5s 100 Done 90: (12.531212032432393,99.9681867259578) Amari Residence Huahin, Hua Hin Prachaubkirikhan
+1000.7s 101 Done 91: (12.923284532432392,100.8635753259578) Amari Residences Pattaya, Bang Lamung Chonburi
+1011.7s 102 Done 92: (7.886665032432393,98.2856970259578) Amari Residences Phuket, Phuket
+1027.5s 103 Done 93: (13.410256571066451,101.0435882928716) Amata Miracle Condo, Muang Chon Buri Chonburi
+1033.4s 104 Done 94: (12.887676932432392,100.8880600259578) Amazon Residence Pattaya, Bang Lamung Chonburi
+1039.3s 105 Done 95: (13.839399632432393,100.51551962595781) Amber by Eastern Star, Muang Nonthaburi Nonthaburi
+1055.1s 106 Done 96: (13.740930071066451,100.5401340928716) Anantara Baan Rajprasong, Pathum Wan Bangkok
+1060.3s 107 Done 97: (12.965718632432392,100.8850538259578) Ananya Beachfront Naklua, Bang Lamung Chonburi
+1065.4s 108 Done 98: (12.965718632432392,100.8850538259578) Ananya Beachfront Wong Amat, Bang Lamung Chonburi
+1070.5s 109 Done 99: (7.9884159324323925,98.2944741259578) Andaman Riviera, Thalang Phuket
+1076.4s 110 Done 100: (12.890513032432393,100.8847623259578) Angket Condominium, Bang Lamung Chonburi
+1082.2s 111 Done 101: (18.791136232432393,99.0301355259578) Angket Pavillian, Muang Chiang Mai Chiang Mai
+1088.4s 112 Done 102: (13.721078132432392,100.5259027259578) Anil Sathorn 12, Bang Rak Bangkok
+1093.8s 113 Done 103: (13.854631332432392,100.4386641259578) Anna Condo Bang Phlu, Bang Yai Nonthaburi
+1099.5s 114 Done 104: (13.799976332432392,100.6326705259578) Anna Condo Ladprao, Bang Kapi Bangkok
+1161.6s 115 Done 105: (13.75673497106645,100.5309959928716) Anusoawaree Condominium Condo,
+1187.1s 116 Done 106: (13.650225732432393,100.6161341259578) Apple Sukhumvit - Bearing, Prakarn
+1192.8s 117 Done 107: (12.913999732432393,100.87397712595781) Arcadia Beach Continental, Bang Lamung Chonburi
+1268.1s 118 Done 108: (12.913116671066451,100.8743649928716) Arcadia Beach Resort CondoBang Lamung Chonburi
+1274.0s 119 Done 109: (12.917352632432392,100.8706043259578) Arcadia Center Suites, Bang Lamung Chonburi
+1279.9s 120 Done 110: (12.920633432432393,100.8810867259578) Arcadia Millennium Tower, Bang Lamung Chonburi
+1285.2s 121 Done 111: (13.730607032432392,100.5796933259578) Arcadia Tower, Watthana Bangkok
+1290.9s 122 Done 112: (13.780676932432392,100.5433188259578) Aree Place Phahonyothin, Phaya Thai Bangkok
+1296.9s 123 Done 113: (13.724449132432392,100.5708945259578) Aree Place Sukhumvit 26, Khlong Toei Bangkok
+1302.2s 124 Done 114: (18.763334932432393,98.98954122595781) Arise Condo Mahidol, Muang Chiang Mai Chiang Mai
+1317.3s 125 Done 115: (7.88571527106645,98.2983658928716) Art @ Patong, Kathu Phuket
+1323.5s 126 Done 116: (13.740101032432392,100.5809288259578) Art @ Thonglor 25, Watthana Bangkok
+1329.1s 127 Done 117: (12.913214332432393,100.8658675259578) Art on the Hill, Bang Lamung Chonburi
+1334.6s 128 Done 118: (13.711590032432392,100.6046276259578) Artemis Sukhumvit 77, Suan Luang Bangkok
+1340.2s 129 Done 119: (13.769141132432393,100.5827864259578) Artisan Ratchada, Huai Khwang Bangkok
+1345.4s 130 Done 120: (12.910726032432393,100.8621673259578) Arunothai Condo, Bang Lamung Chonburi
+1351.1s 131 Done 121: (13.732244332432392,100.5637990259578) Arunroj Tower, Khlong Toei Bangkok
+1356.5s 132 Done 122: (14.309472032432392,100.6453569259578) Asa Ayuthaya - Rojana, Bang Pa-In Phra Nakhon Sri Ayutthaya
+1377.8s 133 Done 123: (13.727059332432393,100.5678334259578) Asa Garden, Bangkok
+1383.4s 134 Done 124: (13.803426032432393,100.72388942595781) Asakan City Ramkhamhaeng 186, Min Buri Bangkok
+1418.9s 135 Done 125: (13.73459397106645,100.64160379287159) Asakan Place Ladprao 85, Wang Thonglang Bangkok
+1424.1s 136 Done 126: (13.766160532432393,100.6528913259578) Asakan Place Ramkhamhaeng - Wongwean, Saphan Sung Bangkok
+1429.7s 137 Done 127: (13.766160532432393,100.6528913259578) Asakan Place Ramkhamhaeng 105/1, Bang Kapi Bangkok
+1435.4s 138 Done 128: (13.734592832432392,100.6416051259578) Asakan Place Srinakarindra, Suan Luang Bangkok
+1441.7s 139 Done 129: (13.720575432432392,100.5282106259578) Ascott Sathorn, Sathon Bangkok
+1566.0s 140 Done 130: (6.99409197106645,100.4857845928716) Asean Condominium Condo, Hat Yai Songkhla
+1571.4s 141 Done 131: (6.994090832432392,100.4857859259578) Asean city resort, Hat Yai Songkhla
+1577.1s 142 Done 132: (13.785971532432393,100.5848242259578) Asher  Ratchada, Huai Khwang Bangkok
+1582.9s 143 Done 133: (13.794020032432392,100.5864431259578) Asher Sutthisan, Huai Khwang Bangkok
+1588.4s 144 Done 134: (13.738654532432392,100.5615072259578) Ashton Asoke, Watthana Bangkok
+1594.0s 145 Done 135: (13.756014132432393,100.5638738259578) Ashton Asoke - Rama 9, Din Daeng Bangkok
+1599.6s 146 Done 136: (13.731301532432392,100.53101512595781) Ashton Chula - Silom, Bang Rak Bangkok
+1605.3s 147 Done 137: (13.720978532432392,100.5791081259578) Ashton Morph 38, Khlong Toei Bangkok
+1610.6s 148 Done 138: (13.732988432432393,100.5726914259578) Ashton Residence 41, Watthana Bangkok
+1616.4s 149 Done 139: (13.726300432432392,100.5268737259578) Ashton Silom, Bang Rak Bangkok
+1689.2s 150 Done 140: (13.741654732432393,100.5621252259578) Asoke Place CondoWatthana Bangkok
+1704.5s 151 Done 141: (13.745483871066451,100.5624027928716) Asoke Tower, Watthana Bangkok
+1719.5s 152 Done 142: (13.65535367106645,100.6462948928716) Aspen Lasalle, Bang Na Bangkok
+1725.5s 153 Done 143: (13.764132332432393,100.48411522595781) Aspire  Pinklao - Arunammarin, Bangkok Noi Bangkok
+1747.1s 154 Done 144: (13.764246932432393,100.5608957259578) Aspire Asoke - Ratchada, Bangkok
+1752.9s 155 Done 145: (13.621478532432393,100.5897612259578) Aspire Erawan, Muang Samut Prakarn Samut Prakarn
+1758.1s 156 Done 146: (13.621478532432393,100.5897612259578) Aspire Erawan Prime, Muang Samut Prakarn Samut Prakarn
+1773.6s 157 Done 147: (13.769743571066451,100.63891759287159) Aspire Ladprao 113, Bang Kapi Bangkok
+1779.4s 158 Done 148: (13.856258232432392,100.5478988259578) Aspire Ngamwongwan, Lak Si Bangkok
+1785.5s 159 Done 149: (13.707608732432393,100.5997188259578) Aspire Onnut Station, Khlong Toei Bangkok
+1791.1s 160 Done 150: (13.711996732432393,100.5844484259578) Aspire Rama 4, Khlong Toei Bangkok
+1796.6s 161 Done 151: (13.754691032432392,100.5668759259578) Aspire Rama 9, Huai Khwang Bangkok
+1802.3s 162 Done 152: (13.830708932432392,100.52528202595781) Aspire Ratchada - Wongsawang, Bang Sue Bangkok
+1807.7s 163 Done 153: (13.831294532432393,100.5688108259578) Aspire Ratchayothin, Chatuchak Bangkok
+1823.2s 164 Done 154: (13.86051697106645,100.5083255928716) Aspire Rattanathibet, Muang Nonthaburi Nonthaburi
+1829.3s 165 Done 155: (13.859553632432393,100.5080815259578) Aspire Rattanathibet 2, Muang Nonthaburi Nonthaburi
+1844.6s 166 Done 156: (13.71639867106645,100.4584834928716) Aspire Sathorn - Ratchapruek, Phasi Charoen Bangkok
+1850.1s 167 Done 157: (13.712010332432392,100.4634017259578) Aspire Sathorn - Taksin (Brick Zone), Thon Buri Bangkok
+1855.9s 168 Done 158: (13.712629832432393,100.4643492259578) Aspire Sathorn - Taksin (Copper Zone), Chom Thong Bangkok
+1861.1s 169 Done 159: (13.713236132432392,100.4639820259578) Aspire Sathorn - Taksin (Timber Zone), Thon Buri Bangkok
+1867.6s 170 Done 160: (13.715509432432393,100.4801336259578) Aspire Sathorn - Thapra, Thon Buri Bangkok
+1872.8s 171 Done 161: (13.697078632432392,100.6508185259578) Aspire Srinakarin, Prawet Bangkok
+1878.8s 172 Done 162: (13.712221232432393,100.6147807259578) Aspire Sukhumvit - Onnut, Suan Luang Bangkok
+1884.5s 173 Done 163: (13.711996732432393,100.5844484259578) Aspire Sukhumvit - Rama 4, Khlong Toei Bangkok
+1890.3s 174 Done 164: (13.711078632432393,100.5939192259578) Aspire Sukhumvit 48, Khlong Toei Bangkok
+1895.8s 175 Done 165: (17.413667632432393,102.7762143259578) Aspire Udon Thani, Muang Udon Thani Udon Thani
+1901.7s 176 Done 166: (13.713957932432393,100.4718331259578) Aspire Wutthakat, Thon Buri Bangkok
+1907.3s 177 Done 167: (18.77252383243239,98.9986628259578) Astra Sky River, Muang Chiang Mai Chiang Mai
+1913.3s 178 Done 168: (13.903864532432392,100.5305916259578) Astro Chaeng Wattana, Pak Kret Nonthaburi
+1918.9s 179 Done 169: (14.524587632432393,100.9311405259578) At First Sight, Muang Saraburi Saraburi
+1924.1s 180 Done 170: (7.7740873324323925,98.3184502259578) At The Tree Condominium, Muang Phuket Phuket
+1930.2s 181 Done 171: (13.741378432432393,100.5493219259578) Athenee Residence, Pathum Wan Bangkok
+1935.7s 182 Done 172: (12.887296232432393,100.8827080259578) Atlantis Condo Resort Pattaya, Bang Lamung Chonburi
+1941.0s 183 Done 173: (13.664127232432392,100.6502992259578) Atmoz Bangna, Bang Na Bangkok
+1946.3s 184 Done 174: (13.896858032432393,100.5543915259578) Atmoz Chaengwattana, Pak Kret Nonthaburi
+1951.5s 185 Done 175: (13.811665532432393,100.7219015259578) Atmoz Flow Minburi, Min Buri Bangkok
+1967.0s 186 Done 176: (13.81463087106645,100.5706115928716) Atmoz Ladprao 15, Chatuchak Bangkok
+1973.1s 187 Done 177: (13.816191032432393,100.6104023259578) Atmoz Ladprao 71, Lat Phrao Bangkok
+1978.7s 188 Done 178: (13.769202432432392,100.5965971259578) Atmoz Ratchada - Huaikwang, Wang Thonglang Bangkok
+1999.8s 189 Done 179: (13.787783232432393,100.5527468259578) Atrium Phahol - Suthisarn, Bangkok
+2004.9s 190 Done 180: (14.514897332432392,101.4337156259578) Atta\xa0Lakeside Resort Suite, Pak Chong Nakhon Ratchasima
+2010.0s 191 Done 181: (14.038209632432393,100.6175182259578) Attitude BU, Khlong Luang Pathumthani
+2035.1s 192 Done 182: (13.773067832432393,100.5834223259578) Aue Pracha Condotown, Bangkok
+2041.1s 193 Done 183: (13.699029032432392,100.4964308259578) August Charoenkrung 80, Bang Kho Laem Bangkok
+2046.8s 194 Done 184: (12.918986532432392,100.8613840259578) Aurora Pratumnak, Bang Lamung Chonburi
+2052.1s 195 Done 185: (12.511107932432392,99.9732144259578) Autumn Hua Hin, Hua Hin Prachaubkirikhan
+2057.4s 196 Done 186: (12.930989732432392,100.8852203259578) Avatara jomtien, Bang Lamung Chonburi
+2062.9s 197 Done 187: (13.724834132432392,100.5826603259578) Avenue 61, Watthana Bangkok
+2078.0s 198 Done 188: (12.92766857106645,100.8806138928716) Avenue Residence, Bang Lamung Chonburi
+2083.3s 199 Done 189: (13.637527232432392,100.5952426259578) B - Loft Lite Sukhumvit 115, Muang Samut Prakarn Samut Prakarn
+2108.8s 200 Done 190: (13.658623632432393,100.6060597259578) B - Loft Sukhumvit 107, Prakarn
+2114.6s 201 Done 191: (13.650688532432392,100.6055309259578) B - Loft Sukhumvit 109, Muang Samut Prakarn Samut Prakarn
+2129.5s 202 Done 192: (13.63752837106645,100.5952412928716) B - Loft Sukhumvit 115, Muang Samut Prakarn Samut Prakarn
+2135.2s 203 Done 193: (13.858438932432392,100.5451189259578) B Campus, Muang Nonthaburi Nonthaburi
+2140.8s 204 Done 194: (13.663697632432392,100.6603588259578) B Condo, Bang Plee Samut Prakarn
+2146.3s 205 Done 195: (13.657588832432392,100.6064985259578) B Loft lite sukhumvit 107, Muang Samut Prakarn Samut Prakarn
+2152.2s 206 Done 196: (13.684332432432392,100.6245608259578) B Republic, Phra Khanong Bangkok
+2157.3s 207 Done 197: (13.924951532432393,100.5263405259578) B-Live Tiwanon, Pak Kret Nonthaburi
+2172.6s 208 Done 198: (13.768416871066451,100.6386454928716) B.R. Condo, Bang Kapi Bangkok
+2187.7s 209 Done 199: (13.70840787106645,100.4117486928716) BANGKAE CITY, Bang Khae Bangkok
+2192.6s 210 Done 200: (8.082434432432393,98.2870693259578) BEACHFRONT BLISS, Thalang Phuket
+2197.6s 211 Done 201: (12.759255732432392,99.9680070259578) BLU Diamond Cha Am - Hua Hin, Cha-Am Petchburi
+2203.5s 212 Done 202: (13.656926532432392,100.6022468259578) BRIXTON Pet & Play Sukhumvit 107, Muang Samut Prakarn Samut Prakarn
+2218.2s 213 Done 203: (13.65655197106645,100.6021723928716) BROMPTON Pet Friendly Sukhumvit 107, Muang Samut Prakarn Samut Prakarn
+2233.2s 214 Done 204: (13.79578847106645,100.5581823928716) BTS Residence, Chatuchak Bangkok
+2247.8s 215 Done 205: (18.765500071066448,99.0137039928716) Baan  Aue Arthorn Chiang Mai (Pha Tan), Muang Chiang Mai Chiang Mai
+2253.4s 216 Done 206: (13.727955532432393,100.5841277259578) Baan Ananda, Watthana Bangkok
+2317.7s 217 Done 207: (12.537240732432393,99.9588127259578) Baan Aua Arthorn Hua Hin 3 Condo,
+2367.2s 218 Done 208: (14.02816917106645,100.6635979928716) Baan Aua Arthorn Thatumnak
+2373.0s 219 Done 209: (13.863050232432393,100.5038903259578) Baan Aua Artorn Rattanathibet (Thaeat), Muang Nonthaburi Nonthaburi
+2388.0s 220 Done 210: (13.843784771066451,100.5467448928716) Baan Aue Arthorn Pracha Niwet, Muang Nonthaburi Nonthaburi
+2402.7s 221 Done 211: (12.76255757106645,100.8973087928716) Baan Bang Saray, Sattahip Chonburi
+2408.2s 222 Done 212: (13.770589932432392,100.6138934259578) Baan Bodin, Wang Thonglang Bangkok
+2413.5s 223 Done 213: (12.755851032432393,99.9682323259578) Baan Chaan Talay, Cha-Am Petchburi
+2419.2s 224 Done 214: (13.739252232432392,100.5856941259578) Baan Chan, Watthana Bangkok
+2440.9s 225 Done 215: (13.732729832432392,100.5094215259578) Baan Chao Praya, Bangkok
+2445.8s 226 Done 216: (12.620863832432393,101.37368342595781) Baan Chaytalay Rayong, Muang Rayong Rayong
+2451.6s 227 Done 217: (13.711671832432392,100.6150743259578) Baan Chom Dao Condominium, Suan Luang Bangkok
+2535.2s 228 Done 218: (18.76880333243239,98.9874844259578) Baan Eua Ar Thorn Chiang Mai (Nong Hoi) CondoMuang Chiang Mai Chiang Mai
+2595.6s 229 Done 219: (13.595252032432393,100.6071685259578) Baan Eua Ar Thorn Kha Jon Wit CondoMuang Samut Prakarn Samut Prakarn
+2630.4s 230 Done 220: (13.883568571066451,100.5341495928716) Baan Eua Ar Thorn Nonthaburi (Wad Ku 2), Nonthaburi
+2635.7s 231 Done 221: (13.862275732432392,100.6129690259578) Baan Eua Ar Thorn Raminthra (Khu Bon), Bang Khen Bangkok
+2641.0s 232 Done 222: (14.028168032432392,100.6635993259578) Baan Eua Ar Thorn Rom Klao, Lat Krabang Bangkok
+2675.8s 233 Done 223: (13.804718971066452,100.2799296928716) Baan Eua Ar Thorn Suvarnabhumi 2 (Bangna), Prakarn
+2680.8s 234 Done 224: (13.921478032432393,100.6545993259578) Baan Eua Arthorn Saimai, Sai Mai Bangkok
+2686.3s 235 Done 225: (12.920910932432392,100.7872326259578) Baan I-Talay, Muang Chon Buri Chonburi
+2691.4s 236 Done 226: (12.528797432432393,99.9680650259578) Baan Imm Aim Hua Hin, Hua Hin Prachaubkirikhan
+2706.2s 237 Done 227: (18.747227471066452,99.03409969287159) Baan Karnkanok 3, Muang Chiang Mai Chiang Mai
+2711.9s 238 Done 228: (13.748638632432392,100.5295734259578) Baan Kasemsan 1, Pathum Wan Bangkok
+2717.4s 239 Done 229: (12.537240732432393,99.9588127259578) Baan Kiang Fah, Hua Hin Prachaubkirikhan
+2723.4s 240 Done 230: (13.752033632432392,100.5328066259578) Baan Klang Krung Siam - Pathumwan, Ratchathewi Bangkok
+2799.2s 241 Done 231: (13.713254432432393,100.5857908259578) Baan Kluai Nam Condo, Khlong Toei Bangkok
+2814.1s 242 Done 232: (12.54111447106645,99.9629057928716) Baan Koo Kiang Hua Hin, Hua Hin Prachaubkirikhan
+2828.9s 243 Done 233: (12.56843637106645,99.9555303928716) Baan Kun Koey Hua Hin, Hua Hin Prachaubkirikhan
+2834.4s 244 Done 234: (13.715399832432393,100.5505462259578) Baan Lux - Sathon, Yan Nawa Bangkok
+2839.3s 245 Done 235: (8.153804732432393,98.2970551259578) Baan Mai Khao Phuket, Thalang Phuket
+2844.7s 246 Done 236: (13.743942532432392,100.5716463259578) Baan Mitra, Watthana Bangkok
+2849.9s 247 Done 237: (13.741266832432393,100.5434466259578) Baan Na Varang, Pathum Wan Bangkok
+2855.2s 248 Done 238: (13.825373432432393,100.6295756259578) Baan Navatara, Bueng Kum Bangkok
+2861.2s 249 Done 239: (13.706144732432392,100.5365525259578) Baan Nonsee, Sathon Bangkok
+2876.2s 250 Done 240: (12.465179971066451,99.9748948928716) Baan Nub Kluen, Hua Hin Prachaubkirikhan
+2930.5s 251 Done 241: (13.75600307106645,100.4986632928716) Baan Nuntaporn
+2935.9s 252 Done 242: (13.721870132432393,100.5439495259578) Baan Nunthasiri, Sathon Bangkok
+2950.6s 253 Done 243: (13.71993627106645,100.6163180928716) Baan On Nut Sukhumvit 77, Suan Luang Bangkok
+2955.9s 254 Done 244: (13.783020532432392,100.5468223259578) Baan Paholyothin Place, Phaya Thai Bangkok
+3017.5s 255 Done 245: (13.75498067106645,100.5323780928716) Baan Pathumwan Condo,
+3022.5s 256 Done 246: (12.514677532432392,99.9758409259578) Baan Peang Ploen, Hua Hin Prachaubkirikhan
+3037.2s 257 Done 247: (13.820618171066451,100.5882769928716) Baan Phayapirom Condominium, Chatuchak Bangkok
+3089.3s 258 Done 248: (13.722744032432393,100.5374030259578) Baan Piya Sathorn Condo,
+3110.4s 259 Done 249: (12.969774332432392,100.8850556259578) Baan Plai Haad Pattaya, Chonburi
+3116.0s 260 Done 250: (13.736981432432392,100.5505727259578) Baan Ploenchit, Pathum Wan Bangkok
+3122.2s 261 Done 251: (13.782761832432392,100.5440833259578) Baan Prachachuen, Bang Sue Bangkok
+3127.4s 262 Done 252: (13.840896232432392,100.5486207259578) Baan Prachaniwet, Chatuchak Bangkok
+3133.2s 263 Done 253: (13.738466532432392,100.5563362259578) Baan Prida, Khlong Toei Bangkok
+3138.8s 264 Done 254: (13.742978632432392,100.5720936259578) Baan Prompong, Watthana Bangkok
+3153.9s 265 Done 255: (13.72043037106645,100.5385573928716) Baan Prueksasiri Suanplu, Sathon Bangkok
+3169.1s 266 Done 256: (13.73887487106645,100.54101529287159) Baan Rajprasong, Pathum Wan Bangkok
+3174.7s 267 Done 257: (13.735159432432393,100.5391060259578) Baan Ratchadamri, Pathum Wan Bangkok
+3180.5s 268 Done 258: (13.753692632432392,100.5336926259578) Baan Ratchathawi Ville, Ratchathewi Bangkok
+3185.6s 269 Done 259: (12.952118432432393,100.8832893259578) Baan Rimpha, Bang Lamung Chonburi
+3191.4s 270 Done 260: (13.670193032432392,100.6429457259578) Baan Ruanrom Bangna, Bang Na Bangkok
+3197.4s 271 Done 261: (12.831985132432392,99.9968856259578) Baan Ruenrom, Cha-Am Petchburi
+3203.1s 272 Done 262: (13.791016332432392,100.5162448259578) Baan Samsen, Dusit Bangkok
+3210.1s 273 Done 263: (12.663211932432393,99.9567300259578) Baan San Kraam, Cha-Am Petchburi
+3215.3s 274 Done 264: (12.649523632432393,99.9554157259578) Baan San Ngam HuaHin, Cha-Am Petchburi
+3220.7s 275 Done 265: (12.528567332432392,99.9692129259578) Baan San Suk, Hua Hin Prachaubkirikhan
+3226.2s 276 Done 266: (12.558900432432392,99.9609603259578) Baan Sandao Hua Hin, Hua Hin Prachaubkirikhan
+3231.6s 277 Done 267: (13.740148732432392,100.5420722259578) Baan Sansiri, Pathum Wan Bangkok
+3237.1s 278 Done 268: (13.745953932432393,100.5691153259578) Baan Saraan Sukhumvit 31, Watthana Bangkok
+3267.9s 279 Done 269: (13.72060027106645,100.5455573928716) Baan Sathorn, Bangkok
+3273.4s 280 Done 270: (13.718917832432393,100.50913902595781) Baan Sathorn Chaopraya, Khlong San Bangkok
+3288.5s 281 Done 271: (13.73826277106645,100.5434482928716) Baan Sindhorn, Pathum Wan Bangkok
+3293.8s 282 Done 272: (13.726191632432393,100.5679407259578) Baan Siri 24, Khlong Toei Bangkok
+3299.8s 283 Done 273: (13.737881732432392,100.5663366259578) Baan Siri 31, Watthana Bangkok
+3305.5s 284 Done 274: (13.741228832432393,100.5497257259578) Baan Siri Ruedee, Pathum Wan Bangkok
+3311.0s 285 Done 275: (13.708731132432392,100.5382077259578) Baan Siri Sathon Suanplu, Sathon Bangkok
+3372.7s 286 Done 276: (13.72062187106645,100.5211886928716) Baan Siri Sathorn Condo,
+3378.3s 287 Done 277: (13.720620732432392,100.52119002595781) Baan Siri Silom, Bang Rak Bangkok
+3384.2s 288 Done 278: (13.736989832432393,100.5567620259578) Baan Siri Sukhumvit 10, Khlong Toei Bangkok
+3389.7s 289 Done 279: (13.747488232432392,100.5583734259578) Baan Siri Sukhumvit 13, Watthana Bangkok
+3452.1s 290 Done 280: (13.72619277106645,100.5679393928716) Baan Siriyenakat Condo,
+3467.1s 291 Done 281: (12.81657657106645,100.91254659287159) Baan Somprasong, Sattahip Chonburi
+3472.2s 292 Done 282: (13.739087732432392,100.5406050259578) Baan Somthavil, Pathum Wan Bangkok
+3477.5s 293 Done 283: (13.753986632432392,100.4763945259578) Baan Suan Bangkhen, Bang Khen Bangkok
+3482.9s 294 Done 284: (13.940763432432393,100.5663964259578) Baan Suan Chaengwattana, Don Mueang Bangkok
+3488.6s 295 Done 285: (18.82314843243239,98.96144562595781) Baan Suan Greenery Hill, Muang Chiang Mai Chiang Mai
+3494.3s 296 Done 286: (13.654552232432392,100.6451215259578) Baan Suan La Salle, Bang Na Bangkok
+3499.7s 297 Done 287: (12.876277932432393,100.89307632595781) Baan Suan Lalana, Bang Lamung Chonburi
+3520.9s 298 Done 288: (12.876277932432393,100.89307632595781) Baan Suan Lalana - Suan Luang, Bangkok
+3526.3s 299 Done 289: (13.840216432432392,100.5096992259578) Baan Suan Palm, Pak Kret Nonthaburi
+3532.1s 300 Done 290: (13.706835932432393,100.6327420259578) Baan Suan Sukhumvit, Suan Luang Bangkok
+3547.2s 301 Done 291: (13.82670197106645,100.5834441928716) Baan Suan Thon, Thung Khru Bangkok
+3552.8s 302 Done 292: (13.826700832432392,100.5834455259578) Baan Suan Thon Ratchada, Chatuchak Bangkok
+3558.4s 303 Done 293: (13.731739432432393,100.5714887259578) Baan Suanpetch, Watthana Bangkok
+3563.6s 304 Done 294: (13.641290832432393,100.6505437259578) Baan Suanthon Srinakarin, Bang Plee Samut Prakarn
+3569.9s 305 Done 295: (13.749842732432393,100.5328326259578) Baan Sukhothai, Dusit Bangkok
+3575.2s 306 Done 296: (13.757671632432393,100.6343320259578) Baan Sukhothai Ramkhamhaeng, Bang Kapi Bangkok
+3605.7s 307 Done 297: (13.718851671066451,100.5754773928716) Baan Sukhumvit, Bangkok
+3620.8s 308 Done 298: (13.71844817106645,100.5734720928716) Baan Sukhumvit ,Sukhumvit 34, Watthana Bangkok
+3625.8s 309 Done 299: (13.743045032432393,100.5646932259578) Baan Suksan, Watthana Bangkok
+3651.1s 310 Done 300: (7.8745280324323925,98.3863973259578) Baan Tanarak Phuket, Phuket
+3656.5s 311 Done 301: (13.745953932432393,100.5691153259578) Baan Thanon Sarasin, Pathum Wan Bangkok
+3671.3s 312 Done 302: (13.59953647106645,100.6790646928716) Baan Thepharak, Muang Samut Prakarn Samut Prakarn
+3676.4s 313 Done 303: (12.771817932432393,99.9728927259578) Baan Thew Lom Cha Am, Cha-Am Petchburi
+3681.5s 314 Done 304: (12.759279132432393,99.9694820259578) Baan Thew Talay Aquamarine, Cha-Am Petchburi
+3686.5s 315 Done 305: (12.757048032432392,99.9706193259578) Baan Thew Talay Blue Sapphire (Phase II), Cha-Am Petchburi
+3692.0s 316 Done 306: (13.728871732432392,100.5668096259578) Baan Thippayadej, Khlong Toei Bangkok
+3697.2s 317 Done 307: (13.711442732432392,100.5435645259578) Baan Yen Akard, Yan Nawa Bangkok
+3702.4s 318 Done 308: (7.779648432432393,98.3307332259578) Babylon Sky Garden, Muang Phuket Phuket
+3746.6s 319 Done 309: (13.557098032432393,100.7663393259578) Ban Auea Arthorn Muang Mai Bang Phli
+3819.9s 320 Done 310: (14.02816917106645,100.6635979928716) Ban Auea Arthorn Na Chom Thian Condo,
+3825.6s 321 Done 311: (12.671511732432393,101.0546801259578) Ban Chang Cliff Beach, Ban Chang Rayong
+3903.1s 322 Done 312: (8.154121032432393,98.2978603259578) Ban Uae R-Thorn Phuket (Sirea) Authority CondoThalang Phuket
+3908.5s 323 Done 313: (13.804033532432392,100.5137366259578) Bang Aor Riverside Tower, Bang Phlat Bangkok
+3923.3s 324 Done 314: (13.84695587106645,100.5607074928716) Bang Khen Housing (Klong Thanon ), Sai Mai Bangkok
+3928.3s 325 Done 315: (13.301119032432393,100.9007657259578) Bang Saen Condotel, Muang Chon Buri Chonburi
+3934.1s 326 Done 316: (12.765193932432393,100.8967011259578) Bang Saray Beach Resort, Sattahip Chonburi
+3979.3s 327 Done 317: (12.765000371066451,100.8968769928716) Bang Saray Condominium
+3984.9s 328 Done 318: (13.772632632432392,100.6440762259578) Bangkapi Condotown, Bang Kapi Bangkok
+4000.3s 329 Done 319: (13.75911057106645,100.6506643928716) Bangkapi Grand Condo, Bang Kapi Bangkok
+4005.8s 330 Done 320: (13.734656132432393,100.5584873259578) Bangkapi Mansion, Khlong Toei Bangkok
+4044.5s 331 Done 321: (13.713124871066452,100.4221116928716) Bangkhae Condotown, Phasi Charoen Bangkok
+4050.2s 332 Done 322: (13.710975732432393,100.4198476259578) Bangkok Feliz @ Bangkae Station, Bang Khae Bangkok
+4055.6s 333 Done 323: (13.722437932432392,100.5044078259578) Bangkok Feliz @ Krungthonburi 5 - 2, Thon Buri Bangkok
+4061.2s 334 Done 324: (13.829287232432392,100.5701533259578) Bangkok Feliz Major Ratchayothin, Chatuchak Bangkok
+4066.9s 335 Done 325: (13.721859632432393,100.5048331259578) Bangkok Feliz Sathorn - Taksin, Khlong San Bangkok
+4072.7s 336 Done 326: (13.715548132432392,100.5919495259578) Bangkok Feliz Sukhumvit 69, Watthana Bangkok
+4078.7s 337 Done 327: (13.715548132432392,100.5919495259578) Bangkok Feliz Sukhumvit 69 - 2, Phra Khanong Bangkok
+4084.3s 338 Done 328: (13.823174732432392,100.5629145259578) Bangkok Feliz Vibhavadi 30, Chatuchak Bangkok
+4137.0s 339 Done 329: (13.701612232432392,100.5359639259578) Bangkok Garden Condo,
+4151.8s 340 Done 330: (13.71751397106645,100.4458698928716) Bangkok Horizon Lite @ Phekasem 48 Station, Phasi Charoen Bangkok
+4166.6s 341 Done 331: (13.715716071066451,100.4456279928716) Bangkok Horizon P 48, Phasi Charoen Bangkok
+4181.5s 342 Done 332: (13.71393507106645,100.4410065928716) Bangkok Horizon Phetkasem, Phasi Charoen Bangkok
+4186.7s 343 Done 333: (13.762414832432393,100.6487708259578) Bangkok Horizon Ramkhamhaeng, Bang Kapi Bangkok
+4192.6s 344 Done 334: (13.707709332432392,100.4800810259578) Bangkok Horizon Ratchada - Thapra, Thon Buri Bangkok
+4198.5s 345 Done 335: (13.712737232432392,100.5331414259578) Bangkok Horizon Sathorn - Narathiwas, Sathon Bangkok
+4218.7s 346 Done 336: (13.787824932432393,100.5041889259578) Bangkok River Marina, Bangkok
+4224.7s 347 Done 337: (13.739354032432393,100.5024612259578) Bangkok river park, Samphanthawong Bangkok
+4279.1s 348 Done 338: (13.671156471066451,100.6370407928716) Bangna Complex
+4294.1s 349 Done 339: (13.672970771066451,100.5954707928716) Bangna Place, Bang Na Bangkok
+4309.0s 350 Done 340: (13.674861871066451,100.5990952928716) Bangna Residence, Bang Na Bangkok
+4419.0s 351 Error getting lat,lon at 341: (47.61430967106645,-122.3464719071284) Bangrak Condominium Condo, Sathon Bangkok
+4419.0s 352 Done 341: (nan,nan) Bangrak Condominium Condo, Sathon Bangkok
+4424.1s 353 Done 342: (13.300317132432392,100.9000337259578) Bangsaen Royal Beach, Muang Chon Buri Chonburi
+4430.1s 354 Done 343: (13.776095532432393,100.4853155259578) Bangyeekhan Condominium, Bang Phlat Bangkok
+4435.6s 355 Done 344: (18.742348332432393,98.9173234259578) Bann Eua Ar Thon Chiang Mai Night Safari, Hang Dong Chiang Mai
+4450.4s 356 Done 345: (12.68522897106645,101.2177363928716) Banyan Terrace 1,2,3, Muang Rayong Rayong
+4456.0s 357 Done 346: (13.732392932432392,100.5096352259578) Banyan Tree Residences Riverside Bangkok, Khlong San Bangkok
+4470.9s 358 Done 347: (13.78661587106645,100.5529853928716) Baxtor Paholyothin 14, Phaya Thai Bangkok
+4550.7s 359 Done 348: (12.90911037106645,100.88433609287159) Bay Condo, Bang Lamung Chonburi
+4655.8s 360 Done 349: (12.914699371066451,100.8650856928716) Bay View Condo, Bang Lamung Chonburi
+4661.0s 361 Done 350: (12.841400332432393,100.9056833259578) Bayphere Premier Suites, Sattahip Chonburi
+4666.0s 362 Done 351: (14.034048332432393,100.6147051259578) Be Condo Phaholyothin, Khlong Luang Pathumthani
+4671.3s 363 Done 352: (13.799630432432393,100.5971787259578) Be You Chokchai 4, Wang Thonglang Bangkok
+4676.6s 364 Done 353: (12.841163732432392,100.9056908259578) Beach Villa Viphavadi, Sattahip Chonburi
+4691.4s 365 Done 354: (12.88179307106645,100.8923535928716) Beach and Mountain, Bang Lamung Chonburi
+4696.7s 366 Done 355: (12.855365532432392,100.8992319259578) Beachfront Jomtien Residence, Sattahip Chonburi
+4702.0s 367 Done 356: (13.716219432432393,100.4556807259578) Beat Bangwa Interchange, Phasi Charoen Bangkok
+4708.3s 368 Done 357: (13.726173032432392,100.57563432595781) Beatniq Sukhumvit 32, Khlong Toei Bangkok
+4713.2s 369 Done 358: (7.820922232432393,98.4004195259578) Bel Air Panwa Resort, Muang Phuket Phuket
+4718.5s 370 Done 359: (13.726314032432393,100.5738180259578) Belgravia Residences, Khlong Toei Bangkok
+4723.5s 371 Done 360: (12.420020932432392,99.98031502595781) Bella costa Hua - hin, Pran Buri Prachaubkirikhan
+4729.2s 372 Done 361: (13.760068532432392,100.56919412595781) Belle Grand Rama 9 (Belle Avenue), Huai Khwang Bangkok
+4735.1s 373 Done 362: (13.699657732432392,100.5371794259578) Belle Park Residence, Yan Nawa Bangkok
+4859.1s 374 Error getting lat,lon at 363: (30.270289471066448,-87.58049160712841) Best Western Premier Bayphere Pattaya Condo, Sattahip Chonburi
+4859.1s 375 Done 363: (nan,nan) Best Western Premier Bayphere Pattaya Condo, Sattahip Chonburi
+4864.4s 376 Done 364: (13.420005432432392,101.0427698259578) Beston Condo, Muang Chon Buri Chonburi
+4869.4s 377 Done 365: (13.419897732432393,101.0408605259578) Beston Condo 2, Muang Chon Buri Chonburi
+4874.8s 378 Done 366: (13.735115332432393,100.5676349259578) Beverly 33, Watthana Bangkok
+4880.3s 379 Done 367: (13.724225332432393,100.5883583259578) Beverly Hills Mansion, Watthana Bangkok
+4935.6s 380 Done 368: (13.747799032432393,100.5572783259578) Beverly Tower CondoWatthana Bangkok
+4940.7s 381 Done 369: (12.688257732432392,101.2552775259578) Beyond By Sailomyen, Muang Rayong Rayong
+4946.0s 382 Done 370: (13.676559532432393,100.6031477259578) Beyond Sukhumvit, Bang Na Bangkok
+4991.7s 383 Done 371: (13.806141332432393,100.5130739259578) Bleisure Charan 96/1
+4997.1s 384 Done 372: (13.733311532432392,100.5943385259578) Bless Residence Ekkamai, Watthana Bangkok
+5002.7s 385 Done 373: (13.773099832432392,100.6343381259578) Bliz Condominium Ladprao 107, Bang Kapi Bangkok
+5008.1s 386 Done 374: (13.739969232432392,100.6442659259578) Bliz Condominium Rama 9 - Hua Mak, Suan Luang Bangkok
+5013.4s 387 Done 375: (13.710359532432392,100.6017751259578) Blocs 77, Watthana Bangkok
+5028.5s 388 Done 376: (13.818585671066451,100.6798069928716) Blossom Condo @ Fashion, Khan Na Yao Bangkok
+5043.5s 389 Done 377: (13.83715067106645,100.6577877928716) Blossom Condo @ Fashion Beyond, Khan Na Yao Bangkok
+5049.1s 390 Done 378: (13.710774632432393,100.5198902259578) Blossom Condo @ Sathorn - Charoenrat, Sathon Bangkok
+5054.1s 391 Done 379: (12.759255732432392,99.9680070259578) Blu Cha am - Hua hin, Cha-Am Petchburi
+5179.5s 392 Error getting lat,lon at 380: (46.23571687106645,-63.1311970071284) Blue Lagoon Resort Hua Hin Condo, Cha-Am Petchburi
+5179.5s 393 Done 380: (nan,nan) Blue Lagoon Resort Hua Hin Condo, Cha-Am Petchburi
+5194.4s 394 Done 381: (12.57099007106645,99.9602728928716) Blue Mountain Hua Hin, Hua Hin Prachaubkirikhan
+5209.2s 395 Done 382: (12.782887371066451,100.9089583928716) Blue Ocean Condo, Muang Chon Buri Chonburi
+5214.5s 396 Done 383: (14.113670232432392,100.6044781259578) Blue Sky Condominium, Khlong Luang Pathumthani
+5219.6s 397 Done 384: (7.884753732432393,98.2817841259578) Blue point Condominium, Kathu Phuket
+5224.8s 398 Done 385: (18.80521713243239,99.0248282259578) Boat Condo, Muang Chiang Mai Chiang Mai
+5239.6s 399 Done 386: (12.645218471066451,99.95196839287159) Boat House Hua Hin, Cha-Am Petchburi
+5344.9s 400 Done 387: (13.76872737106645,100.6136378928716) Bodin Suite Condo, Wang Thonglang Bangkok
+5350.1s 401 Done 388: (18.795687432432395,98.9676795259578) Boonyamas Mansion, Muang Chiang Mai Chiang Mai
+5356.2s 402 Done 389: (13.785697732432393,100.5707473259578) Boutique Ratchada 17, Din Daeng Bangkok
+5371.1s 403 Done 390: (13.78487087106645,100.5698115928716) Boutique Ratchada 2, Din Daeng Bangkok
+5377.1s 404 Done 391: (13.832621032432392,100.5699353259578) Bridge Phaholyothin 37, Chatuchak Bangkok
+5382.7s 405 Done 392: (13.703744832432392,100.5399750259578) Bridge Sathorn - Narathiwas, Sathon Bangkok
+5388.1s 406 Done 393: (13.723854032432392,100.5663456259578) Bright Sukhumvit 24, Khlong Toei Bangkok
+5394.2s 407 Done 394: (13.719532532432392,100.4905908259578) Bright Wongwian Yai, Thon Buri Bangkok
+5399.7s 408 Done 395: (13.748418332432392,100.5887913259578) Brighton Place, Huai Khwang Bangkok
+5494.4s 409 Done 396: (13.783818432432392,100.4940010259578) Brix Condo, Bang Phlat Bangkok
+5499.7s 410 Done 397: (13.281705532432392,100.9294250259578) Brixton Campus Bangsaen, Muang Chon Buri Chonburi
+5505.5s 411 Done 398: (13.656926532432392,100.6022468259578) Brixton Pet & Play Phahol 50 Station, Sai Mai Bangkok
+5511.0s 412 Done 399: (13.886635032432393,100.6030713259578) Brown Condo Phahol - Saphanmai, Bang Khen Bangkok
+5516.8s 413 Done 400: (13.780329232432392,100.5800113259578) Brown Ratchada - Huaikwang, Huai Khwang Bangkok
+5522.6s 414 Done 401: (13.818313332432393,100.5846824259578) Brown Ratchada 32, Chatuchak Bangkok
+5528.2s 415 Done 402: (13.849020832432393,100.5132769259578) Budget Condo Tiwanon, Muang Nonthaburi Nonthaburi
+5543.3s 416 Done 403: (13.28811527106645,100.9240019928716) Burapha Bizz II, Muang Chon Buri Chonburi
+5549.0s 417 Done 404: (13.740019532432392,100.5897068259578) C Ekkamai, Watthana Bangkok
+5555.3s 418 Done 405: (13.802974932432393,100.5701997259578) C Place Ladprao 18, Chatuchak Bangkok
+5560.7s 419 Done 406: (13.784283932432393,100.5827998259578) C Style, Huai Khwang Bangkok
+5566.1s 420 Done 407: (12.680307132432393,101.2516058259578) C.K.C Rayong Condo, Muang Rayong Rayong
+5571.4s 421 Done 408: (12.941246832432393,100.9203092259578) CC Condominium 1, Bang Lamung Chonburi
+5576.6s 422 Done 409: (12.920534632432393,100.9096612259578) CC Condominium 2, Bang Lamung Chonburi
+5582.1s 423 Done 410: (13.738253332432393,100.5617982259578) CELES Asoke, Watthana Bangkok
+5587.6s 424 Done 411: (13.738912532432392,100.5652364259578) CLOUD Residences - SKV 23, Watthana Bangkok
+5593.2s 425 Done 412: (13.746172932432392,100.5767772259578) CLOUD Thonglor - Phetchaburi, Huai Khwang Bangkok
+5608.3s 426 Done 413: (18.74262337106645,98.9712579928716) CM Garden, Muang Chiang Mai Chiang Mai
+5613.5s 427 Done 414: (13.906818032432392,100.5295920259578) CNP Condominium, Pak Kret Nonthaburi
+5619.2s 428 Done 415: (13.722259332432392,100.5532503259578) COCO PARC Rama 4, Khlong Toei Bangkok
+5625.0s 429 Done 416: (13.749273532432392,100.6364837259578) COCOON RAMA 9, Suan Luang Bangkok
+5630.4s 430 Done 417: (13.740798332432393,100.5254065259578) CU Terrace, Pathum Wan Bangkok
+5635.5s 431 Done 418: (7.774662632432393,98.3185595259578) Calypso Garden Residences, Muang Phuket Phuket
+5640.8s 432 Done 419: (13.688367932432392,100.5141220259578) Canapaya Residences, Bang Kho Laem Bangkok
+5655.7s 433 Done 420: (13.40478957106645,101.0111547928716) Cape Town Condo, Muang Chon Buri Chonburi
+5661.3s 434 Done 421: (12.682413732432392,101.25710392595781) Carpidiem Condo Town, Muang Rayong Rayong
+5666.2s 435 Done 422: (13.112276332432392,100.9497927259578) Casa 1 Condo Sriracha, Si Racha Chonburi
+5671.4s 436 Done 423: (18.793589232432396,98.9486116259578) Casa Condo @ CMU, Muang Chiang Mai Chiang Mai
+5676.9s 437 Done 424: (13.875850332432393,100.4185967259578) Casa Condo @ MRT Sam Yaek Bang Yai, Bang Yai Nonthaburi
+5682.4s 438 Done 425: (13.760407832432392,100.5553472259578) Casa Condo Asoke - Dindaeng, Din Daeng Bangkok
+5687.4s 439 Done 426: (18.830222332432392,98.9782434259578) Casa Condo Chiangmai, Muang Chiang Mai Chiang Mai
+5693.0s 440 Done 427: (13.713493432432392,100.4763050259578) Casa Condo Ratchada - Ratchaphruek, Thon Buri Bangkok
+5698.7s 441 Done 428: (13.713582032432393,100.4772686259578) Casa Condo Ratchada - Thapra, Thon Buri Bangkok
+5713.7s 442 Done 429: (13.11227747106645,100.9497913928716) Casa Condo Sriracha, Si Racha Chonburi
+5718.9s 443 Done 430: (13.697984232432393,100.6067947259578) Casa Condo Sukhumvit 97, Phra Khanong Bangkok
+5724.0s 444 Done 431: (12.920403332432393,100.8612720259578) Casa Espana, Bang Lamung Chonburi
+5729.0s 445 Done 432: (13.591996332432393,100.8294007259578) Casa France ABAC Bangna, Bang Sao Thong Samut Prakarn
+5734.5s 446 Done 433: (13.730222732432393,100.5911802259578) Casa Viva, Watthana Bangkok
+5739.8s 447 Done 434: (13.880747632432392,100.5965551259578) Casa de Sansara, Bang Khen Bangkok
+5760.4s 448 Done 435: (13.337651232432393,100.9671250259578) Casalunar Mesto, Chonburi
+5765.3s 449 Done 436: (13.250131932432392,100.9316462259578) Casalunar Paradiso, Muang Chon Buri Chonburi
+5780.0s 450 Done 437: (13.626723871066451,100.6356121928716) Casitas Condo, Bang Plee Samut Prakarn
+5795.2s 451 Done 438: (13.65799767106645,100.6062071928716) Cassia, Muang Samut Prakarn Samut Prakarn
+5815.5s 452 Done 439: (13.726132232432393,100.5864151259578) Castle Hill  Mansion, Bangkok
+5821.0s 453 Done 440: (13.658697732432392,100.5984551259578) Cattleya Sukhumvit 72, Muang Samut Prakarn Samut Prakarn
+5826.5s 454 Done 441: (13.730556232432393,100.5877999259578) Ceil by Sansiri, Watthana Bangkok
+5831.8s 455 Done 442: (12.929072732432392,100.88350972595781) Centara Avenue Residences & Suites, Bang Lamung Chonburi
+5836.9s 456 Done 443: (13.158912032432392,100.9143692259578) Centara Grand Residence, Sattahip Chonburi
+5842.6s 457 Done 444: (12.924965732432392,100.8776686259578) Center Condotel, Bang Lamung Chonburi
+5895.0s 458 Done 445: (13.828632032432392,100.5703569259578) Central Ratchayothin Park Condo,
+5900.6s 459 Done 446: (13.777955132432393,100.5425678259578) Centric Ari Station, Phaya Thai Bangkok
+5906.3s 460 Done 447: (13.784211032432392,100.5440167259578) Centric Place Ari 4 - Phaholyothin, Phaya Thai Bangkok
+5911.8s 461 Done 448: (13.780433732432392,100.5740159259578) Centric Ratchada - Huai Khwang, Huai Khwang Bangkok
+5917.6s 462 Done 449: (13.790055332432393,100.5735220259578) Centric Ratchada - Suthisan, Din Daeng Bangkok
+5923.5s 463 Done 450: (13.831963532432393,100.5713072259578) Centric Ratchayothin, Chatuchak Bangkok
+5929.5s 464 Done 451: (13.718696832432393,100.5268389259578) Centric Sathorn - Saint Louis, Sathon Bangkok
+5934.9s 465 Done 452: (13.779864232432393,100.5420741259578) Centric Scene Aree 2, Phaya Thai Bangkok
+5940.3s 466 Done 453: (13.786056132432392,100.5460873259578) Centric Scene Phaholyothin 9, Phaya Thai Bangkok
+5945.5s 467 Done 454: (13.829646232432392,100.5334617259578) Centric Scene Ratchavipha, Bang Sue Bangkok
+5951.4s 468 Done 455: (13.683757432432392,100.6101744259578) Centric Scene Sukhumvit 64, Phra Khanong Bangkok
+5957.1s 469 Done 456: (12.939530132432392,100.8883182259578) Centric Sea Pattaya, Bang Lamung Chonburi
+5963.0s 470 Done 457: (13.840873132432392,100.5123129259578) Centric Tiwanon Station, Muang Nonthaburi Nonthaburi
+5968.1s 471 Done 458: (7.886370532432393,98.3674233259578) Centrio Condominium, Muang Phuket Phuket
+5973.8s 472 Done 459: (13.794827632432392,100.5884455259578) Centrio Ladprao 48, Huai Khwang Bangkok
+5979.2s 473 Done 460: (13.782735232432392,100.5416292259578) Centurion Park, Phaya Thai Bangkok
+5984.6s 474 Done 461: (13.806252832432392,100.5668016259578) Century Park, Chatuchak Bangkok
+5989.8s 475 Done 462: (13.663970732432393,100.6343243259578) Cerocco Bangna 36, Thon Buri Bangkok
+5995.0s 476 Done 463: (12.874822532432393,100.8871896259578) Cetus Beachfront Pattaya, Bang Lamung Chonburi
+6000.2s 477 Done 464: (12.763537432432393,99.9724279259578) Cha Am Grand Condotel, Cha-Am Petchburi
+6005.6s 478 Done 465: (13.745207032432392,100.5570826259578) Chaidee Mansion, Watthana Bangkok
+6011.2s 479 Done 466: (13.719718532432392,100.5881900259578) Chaiyapruk Place, Watthana Bangkok
+6016.6s 480 Done 467: (13.729518532432392,100.57837102595781) Chalermnit Art De Maison, Watthana Bangkok
+6021.4s 481 Done 468: (7.818933532432393,98.3395530259578) Chalong Inter Ville Condominium, Muang Phuket Phuket
+6026.6s 482 Done 469: (13.820071432432393,100.66733102595781) Chambers Cher Ratchada - Ramintra, Khan Na Yao Bangkok
+6031.7s 483 Done 470: (13.705182732432393,100.6035115259578) Chambers On Nut Station, Phra Khanong Bangkok
+6036.9s 484 Done 471: (13.819843132432393,100.6626230259578) Chambers Ramintra, Khan Na Yao Bangkok
+6042.6s 485 Done 472: (13.826304432432392,100.5920255259578) Chambers chaan, Lat Phrao Bangkok
+6047.9s 486 Done 473: (13.122785732432392,100.9298675259578) Chambery Sriracha - Laemchabang, Si Racha Chonburi
+6053.9s 487 Done 474: (13.733231232432393,100.5294420259578) Chamchuri Square Residence, Pathum Wan Bangkok
+6058.9s 488 Done 475: (13.122724232432393,100.9302840259578) Chamonix, Si Racha Chonburi
+6064.3s 489 Done 476: (13.914453332432393,100.5297675259578) Champs Elysees Avenue, Pak Kret Nonthaburi
+6079.4s 490 Done 477: (13.939656171066451,100.5479558928716) Champs Elysees Chaengwattana, Pak Kret Nonthaburi
+6094.5s 491 Done 478: (13.91445447106645,100.5297661928716) Champs Elysees Tiwanon, Pak Kret Nonthaburi
+6099.9s 492 Done 479: (13.714085132432393,100.5044387259578) Chapter Charoennakhon - Riverside, Khlong San Bangkok
+6106.0s 493 Done 480: (13.731387932432392,100.5235241259578) Chapter Chula - Samyan, Bang Rak Bangkok
+6111.3s 494 Done 481: (18.283309632432392,99.49354562595781) Chapter Condo, Muang Lampang Lamphang
+6117.4s 495 Done 482: (13.771838132432393,100.5796078259578) Chapter One Eco Ratchada - Huai Khwang, Huai Khwang Bangkok
+6122.9s 496 Done 483: (13.812748532432392,100.5208813259578) Chapter One Flow Bangpo, Bang Sue Bangkok
+6128.4s 497 Done 484: (13.806401632432392,100.5726347259578) Chapter One Midtown Ladprao 24, Chatuchak Bangkok
+6133.5s 498 Done 485: (13.676173332432393,100.5186201259578) Chapter One Modern Dutch, Rat Burana Bangkok
+6139.0s 499 Done 486: (13.812187532432393,100.5208300259578) Chapter One Shine Bangpo, Bang Sue Bangkok
+6154.2s 500 Done 487: (13.838514271066451,100.5747140928716) Chapter One the Campus, Bang Khen Bangkok
+6160.0s 501 Done 488: (13.742981632432393,100.5838812259578) Chapter Thonglor 25, Watthana Bangkok
+6166.0s 502 Done 489: (13.814053432432393,100.5652283259578) Chapter one The campus Ladprao 1, Chatuchak Bangkok
+6171.6s 503 Done 490: (13.723279132432392,100.4588594259578) Charn Issara City Home, Phasi Charoen Bangkok
+6177.4s 504 Done 491: (13.707166332432392,100.4931406259578) Charoennakorn River Place, Thon Buri Bangkok
+6192.8s 505 Done 492: (12.90626007106645,100.87141859287159) Chateau Dale Thabali Condo, Bang Lamung Chonburi
+6207.5s 506 Done 493: (13.82960227106645,100.5725931928716) Chateau In Town Major Ratchayothin, Chatuchak Bangkok
+6213.1s 507 Done 494: (13.831446832432393,100.5754456259578) Chateau In Town Major Ratchayothin 2, Chatuchak Bangkok
+6218.5s 508 Done 495: (13.787793532432392,100.5445757259578) Chateau In Town Phaholyothin 11, Phaya Thai Bangkok
+6233.4s 509 Done 496: (13.78596417106645,100.5491748928716) Chateau In Town Phaholyothin 14, Phaya Thai Bangkok
+6248.2s 510 Done 497: (13.78678507106645,100.54838519287159) Chateau In Town Phaholyothin 14-2, Phaya Thai Bangkok
+6253.6s 511 Done 498: (13.834668232432392,100.5794425259578) Chateau In Town Phahonyothin 32, Chatuchak Bangkok
+6259.4s 512 Done 499: (13.771897532432392,100.4927998259578) Chateau In Town Rama 8, Bang Phlat Bangkok
+6264.9s 513 Done 500: (13.770921732432393,100.5739597259578) Chateau In Town Ratchada 10, Huai Khwang Bangkok
+6270.3s 514 Done 501: (13.782415332432393,100.5709373259578) Chateau In Town Ratchada 13, Din Daeng Bangkok
+6276.5s 515 Done 502: (13.784843532432392,100.5722098259578) Chateau In Town Ratchada 17, Din Daeng Bangkok
+6281.7s 516 Done 503: (13.792195632432392,100.5757961259578) Chateau In Town Ratchada 20, Huai Khwang Bangkok
+6296.7s 517 Done 504: (13.792533071066451,100.5759882928716) Chateau In Town Ratchada 20-2, Huai Khwang Bangkok
+6302.3s 518 Done 505: (13.821025232432392,100.5885625259578) Chateau In Town Ratchada 36, Chatuchak Bangkok
+6308.3s 519 Done 506: (13.686004032432393,100.6089414259578) Chateau In Town Sukhumvit 62/1, Phra Khanong Bangkok
+6313.8s 520 Done 507: (13.686004032432393,100.6089414259578) Chateau In Town Sukhumvit 62/1-2, Phra Khanong Bangkok
+6319.2s 521 Done 508: (13.686004032432393,100.6089414259578) Chateau In Town Sukhumvit 64/1, Phra Khanong Bangkok
+6324.6s 522 Done 509: (13.791087732432393,100.5630939259578) Chateau In Town Vibhavadi 10, Din Daeng Bangkok
+6330.3s 523 Done 510: (13.823107532432392,100.5632317259578) Chateau In Town Vibhavadi 30, Chatuchak Bangkok
+6335.6s 524 Done 511: (13.823107532432392,100.5632317259578) Chateau In Town Vibhavadi 30-2, Chatuchak Bangkok
+6341.0s 525 Done 512: (13.807628532432393,100.5128455259578) Chateau in Town Charansanitwong 96/2, Bang Phlat Bangkok
+6346.4s 526 Done 513: (13.799387332432392,100.5738453259578) Chateau in Town Ratchada 19, Din Daeng Bangkok
+6352.3s 527 Done 514: (13.686004032432393,100.6089414259578) Chateau in Town Sukhumvit 64, Phra Khanong Bangkok
+6357.5s 528 Done 515: (13.690209232432393,100.6050241259578) Chateau in Town Sukhumvit 64 Skymoon, Phra Khanong Bangkok
+6363.5s 529 Done 516: (13.702543932432393,100.5371702259578) Chatrium Residence Sathon Bangkok, Yan Nawa Bangkok
+6378.9s 530 Done 517: (13.71087357106645,100.5095131928716) Chatrium Riverside Residence, Bang Kho Laem Bangkok
+6384.4s 531 Done 518: (18.77103533243239,98.9525606259578) Chayayon Boulevard, Muang Chiang Mai Chiang Mai
+6389.4s 532 Done 519: (12.537539132432393,99.9599107259578) Chelona Khao Tao, Hua Hin Prachaubkirikhan
+6394.9s 533 Done 520: (13.740780432432393,100.46665332595781) Chewathai Hallmark Charan 13, Bangkok Yai Bangkok
+6400.5s 534 Done 521: (13.795879332432392,100.5996520259578) Chewathai Hallmark Ladprao - Chokchai 4, Wang Thonglang Bangkok
+6406.8s 535 Done 522: (13.795823132432393,100.6005074259578) Chewathai Hallmark Ladprao - Chokchai 4 (Phase 2), Wang Thonglang Bangkok
+6412.5s 536 Done 523: (13.806076332432392,100.5296505259578) Chewathai Interchange, Bang Sue Bangkok
+6417.8s 537 Done 524: (13.840654632432393,100.5871961259578) Chewathai Kaset - Nawamin, Chatuchak Bangkok
+6423.3s 538 Done 525: (13.717867232432393,100.4538436259578) Chewathai Phetkasem 27, Phasi Charoen Bangkok
+6429.1s 539 Done 526: (13.770434332432393,100.48725742595781) Chewathai PinKlao, Bang Phlat Bangkok
+6434.8s 540 Done 527: (13.761905932432393,100.6329350259578) Chewathai Ramkamhaeng, Bang Kapi Bangkok
+6440.3s 541 Done 528: (13.761619732432392,100.5426978259578) Chewathai Ratchaprarop, Ratchathewi Bangkok
+6446.0s 542 Done 529: (13.753940932432393,100.5642963259578) Chewathai Residence Asoke, Ratchathewi Bangkok
+6451.3s 543 Done 530: (13.806102732432393,100.52237082595781) Chewathai Residence Bang Pho, Bang Sue Bangkok
+6457.0s 544 Done 531: (13.739087532432393,100.5864836259578) Chewathai Residence Thonglor, Watthana Bangkok
+6575.0s 545 Error getting lat,lon at 532: (38.87233007106645,-77.0180578071284) Chiang Mai Riverside Condominium Condo, Muang Chiang Mai Chiang Mai
+6575.0s 546 Done 532: (nan,nan) Chiang Mai Riverside Condominium Condo, Muang Chiang Mai Chiang Mai
+6580.5s 547 Done 533: (18.765772032432395,98.9841933259578) Chiang Mai View Place 2, Muang Chiang Mai Chiang Mai
+6586.2s 548 Done 534: (19.90928283243239,99.8241764259578) Chiang Rai Condotel, Muang Chiang Rai Chiang Rai
+6617.2s 549 Done 535: (18.76577317106645,98.9841919928716) Chiangmai View Place 1, Mai
+6622.6s 550 Done 536: (7.847947132432393,98.3003049259578) Chic Condo, Kathu Phuket
+6627.8s 551 Done 537: (18.822167932432393,98.9623864259578) Chic View Condominium, Muang Chiang Mai Chiang Mai
+6648.9s 552 Done 538: (13.748024332432392,100.5443537259578) Chidlom Place, Bangkok
+6654.4s 553 Done 539: (13.796609332432393,100.5608170259578) Chokchai Ruammit, Chatuchak Bangkok
+6659.4s 554 Done 540: (18.803358732432393,98.9600523259578) Chom Doi Condominium, Muang Chiang Mai Chiang Mai
+6664.8s 555 Done 541: (12.860544432432393,100.8972183259578) Chom Talay Resort Condominium, Sattahip Chonburi
+6670.1s 556 Done 542: (13.827733832432392,100.6753971259578) Chrisma Ramintra, Khan Na Yao Bangkok
+6675.6s 557 Done 543: (13.740793632432393,100.4704775259578) Ciela Charan 13 Station, Bangkok Yai Bangkok
+6681.0s 558 Done 544: (13.855977032432392,100.5849921259578) Ciela Sripatum, Chatuchak Bangkok
+6686.3s 559 Done 545: (13.749500532432393,100.55636972595781) Circle Condominium, Ratchathewi Bangkok
+6691.8s 560 Done 546: (13.750059032432393,100.5560136259578) Circle Living Prototype, Ratchathewi Bangkok
+6697.2s 561 Done 547: (13.735634732432393,100.5577978259578) Circle Rein Sukhumvit 12, Watthana Bangkok
+6702.9s 562 Done 548: (13.734854432432392,100.5579596259578) Circle S Sukhumvit 12, Watthana Bangkok
+6708.4s 563 Done 549: (13.745895232432392,100.5556709259578) Circle Sukhumvit 11, Watthana Bangkok
+6714.0s 564 Done 550: (13.738967232432392,100.5664377259578) Circle Sukhumvit 31, Watthana Bangkok
+6719.7s 565 Done 551: (13.730994132432393,100.5754581259578) Citi Resort Sukhumvit 49, Watthana Bangkok
+6725.2s 566 Done 552: (13.734793232432393,100.5622587259578) Citi Smart Condo, Watthana Bangkok
+6730.7s 567 Done 553: (13.727749632432392,100.5711387259578) Citrine, Khlong San Bangkok
+6746.3s 568 Done 554: (12.927944571066451,100.8898859928716) City Center Residence, Bang Lamung Chonburi
+6761.5s 569 Done 555: (12.92666507106645,100.8789851928716) City Garden Pattaya, Bang Lamung Chonburi
+6767.2s 570 Done 556: (12.919543432432393,100.8636897259578) City Garden Pratumnak, Bang Lamung Chonburi
+6773.1s 571 Done 557: (12.921461332432392,100.8819746259578) City Garden Tower, Bang Lamung Chonburi
+6778.5s 572 Done 558: (12.961411632432393,100.8904793259578) City Garden Tropicana, Bang Lamung Chonburi
+6783.9s 573 Done 559: (7.021259632432392,100.4919121259578) City Home Hat Yai, Hat Yai Songkhla
+6789.8s 574 Done 560: (13.771619232432393,100.5760004259578) City Home Ratchada, Huai Khwang Bangkok
+6795.3s 575 Done 561: (13.804378632432392,100.5109009259578) City Home Ratchada - Pinklao, Bang Phlat Bangkok
+6800.9s 576 Done 562: (13.863663732432393,100.5011342259578) City Home Rattanathibet, Muang Nonthaburi Nonthaburi
+6816.3s 577 Done 563: (13.656144171066451,100.6476266928716) City Home Srinakarin, Bang Na Bangkok
+6821.7s 578 Done 564: (13.681031432432393,100.6107773259578) City Home Sukhumvit, Bang Na Bangkok
+6827.5s 579 Done 565: (13.728485032432392,100.4739651259578) City Home Tha Phra Intersection, Bangkok Yai Bangkok
+6833.1s 580 Done 566: (13.733679232432392,100.5610777259578) City Lakes Tower Sukhumvit 16, Khlong Toei Bangkok
+6838.3s 581 Done 567: (14.978863332432393,102.0660507259578) City Link Condo, Muang Nakhon Ratchasima Nakhon Ratchasima
+6859.4s 582 Done 568: (13.771068632432392,100.5763951259578) City Living Ratchada, Bangkok
+6936.8s 583 Done 569: (13.584146871066451,100.7864760928716) City Park Condo, Bang Sao Thong Samut Prakarn
+6942.7s 584 Done 570: (13.790021932432392,100.5725424259578) City Room  Ratchada - Suthisan, Din Daeng Bangkok
+6948.5s 585 Done 571: (13.771225832432393,100.6296837259578) City Villa, Bang Kapi Bangkok
+6953.9s 586 Done 572: (13.547708832432393,100.6300384259578) City Ville, Muang Samut Prakarn Samut Prakarn
+6959.5s 587 Done 573: (13.845260832432393,100.5651072259578) City Ville @Kasetsart, Chatuchak Bangkok
+6965.0s 588 Done 574: (13.722575032432392,100.5878904259578) Click Sukhumvit 65, Watthana Bangkok
+6970.8s 589 Done 575: (13.787265332432392,100.6140345259578) Clover Ladprao 83, Wang Thonglang Bangkok
+6975.9s 590 Done 576: (12.968948232432393,100.8880521259578) Club Royal Wongamat, Bang Lamung Chonburi
+6981.5s 591 Done 577: (13.167493832432392,100.92446132595781) College View Sriracha, Si Racha Chonburi
+6987.4s 592 Done 578: (13.723419132432392,100.5317768259578) Collezio Sathorn - Pipat, Bang Rak Bangkok
+7052.2s 593 Done 579: (13.286785632432393,100.9374787259578) Combs X-1 Bangsaen Condo,
+7057.2s 594 Done 580: (14.065585332432393,100.6144242259578) Common TU, Khlong Luang Pathumthani
+7062.9s 595 Done 581: (13.776658232432393,100.4841326259578) Commonwealth Pinklao, Bang Phlat Bangkok
+7068.0s 596 Done 582: (13.782609232432392,100.6028371259578) Commune 80 Lat Phrao, Wang Thonglang Bangkok
+7073.5s 597 Done 583: (13.802697332432393,100.5628864259578) Condare Maneeya, Chatuchak Bangkok
+7088.6s 598 Done 584: (13.702362671066451,100.6345734928716) Condo 5 Sor, Suan Luang Bangkok
+7094.0s 599 Done 585: (13.714682032432393,100.4115303259578) Condo @78 phetkasem, Bang Khae Bangkok
+7109.1s 600 Done 586: (12.59345107106645,99.9498488928716) Condo Chain Hua Hin, Hua Hin Prachaubkirikhan
+7113.9s 601 Done 587: (14.156598232432392,100.5679227259578) Condo ME Navanakorn, Bang Pa-In Phra Nakhon Sri Ayutthaya
+7119.6s 602 Done 588: (13.728850832432393,100.7009691259578) Condo Me Onnut - Rama 9, Prawet Bangkok
+7124.7s 603 Done 589: (13.568640732432392,100.3397843259578) Condo Me Sinsakhon, Muang Samut Sakhon Samut Sakhon
+7130.7s 604 Done 590: (13.718268632432393,100.5900990259578) Condo One Sukhumvit 67, Watthana Bangkok
+7135.7s 605 Done 591: (12.709197232432393,101.0578970259578) Condo Sinthavee Park, Ban Chang Rayong
+7141.3s 606 Done 592: (13.725692032432393,100.5707128259578) Condolette Dwell Sukhumvit 26, Khlong Toei Bangkok
+7146.9s 607 Done 593: (13.753048132432392,100.5308919259578) Condolette Ize Ratchathewi, Ratchathewi Bangkok
+7152.3s 608 Done 594: (13.725066932432393,100.5331289259578) Condolette Light Convent, Bang Rak Bangkok
+7157.9s 609 Done 595: (13.755664732432393,100.5663730259578) Condolette Midst Rama 9, Huai Khwang Bangkok
+7163.6s 610 Done 596: (13.718274832432392,100.5492515259578) Condolette Pixel Sathorn, Yan Nawa Bangkok
+7222.2s 611 Done 597: (12.75459157106645,99.9691237928716) Condotel Condo, Nong Khaem Bangkok
+7227.9s 612 Done 598: (13.753967532432393,100.5292123259578) Conner Ratchathewi, Ratchathewi Bangkok
+7233.5s 613 Done 599: (7.873641732432392,98.3847822259578) Connext Condo, Muang Phuket Phuket
+7239.0s 614 Done 600: (16.821935132432394,100.2717970259578) Coo Phitsanulok, Muang Phitsanulok Phitsanulok
+7244.6s 615 Done 601: (13.810317432432392,100.4962561259578) Cool Condo Rama 7, Bang Kruai Nonthaburi
+7250.2s 616 Done 602: (13.746060832432393,100.5223717259578) Cooper Siam, Pathum Wan Bangkok
+7255.7s 617 Done 603: (12.890922532432393,100.8744308259578) Copacabana Beach Jomtien, Bang Lamung Chonburi
+7261.5s 618 Done 604: (13.736482232432392,100.5581580259578) Cosmo Villa, Khlong Toei Bangkok
+7266.5s 619 Done 605: (12.919286432432392,100.8607266259578) Cosy Beach View, Bang Lamung Chonburi
+7333.6s 620 Done 606: (13.673398432432393,100.5992713259578) Country Complex CondoBang Na Bangkok
+7339.0s 621 Done 607: (13.864124632432393,100.51284732595781) Country Ville Resort Khae-rai Phase 1, Muang Nonthaburi Nonthaburi
+7344.4s 622 Done 608: (13.745433532432392,100.5498263259578) Craft Ploenchit, Pathum Wan Bangkok
+7349.6s 623 Done 609: (13.727238332432393,100.5875948259578) Cross Creek, Watthana Bangkok
+7416.3s 624 Done 610: (13.222229132432393,100.9356626259578) Crystal Beach Condominium CondoSi Racha Chonburi
+7421.6s 625 Done 611: (13.735178532432393,100.5534613259578) Crystal Garden, Khlong Toei Bangkok
+7427.2s 626 Done 612: (13.730720732432392,100.5322955259578) Culture Chula, Bang Rak Bangkok
+7432.7s 627 Done 613: (13.723590432432392,100.5814487259578) Culture Thonglor, Khlong Toei Bangkok
+7438.4s 628 Done 614: (13.739099832432393,100.5827245259578) D 25 Thonglor, Watthana Bangkok
+7444.1s 629 Done 615: (13.721778032432393,100.5885673259578) D 65, Watthana Bangkok
+7449.7s 630 Done 616: (13.791175632432392,100.5828401259578) D Mark Condo @Sutthisan, Huai Khwang Bangkok
+7455.2s 631 Done 617: (13.778301032432392,100.5484463259578) D Memoria Phaholyothin 8, Phaya Thai Bangkok
+7460.5s 632 Done 618: (13.837106032432393,100.5835046259578) D Mura Ratchayothin, Chatuchak Bangkok
+7475.4s 633 Done 619: (13.150536971066451,101.0075000928716) D Park Condo Suansear - Sriracha, Si Racha Chonburi
+7490.6s 634 Done 620: (13.79990907106645,100.5735649928716) D Ratchada 19, Din Daeng Bangkok
+7496.2s 635 Done 621: (13.737108232432393,100.56857582595781) D.S. Tower 1 Sukhumvit 33, Watthana Bangkok
+7501.8s 636 Done 622: (13.740597532432393,100.5708076259578) D.S. Tower 2 Sukhumvit 39, Watthana Bangkok
+7581.8s 637 Done 623: (13.834579771066451,100.6401712928716) D5 Condominium CondoBueng Kum Bangkok
+7587.1s 638 Done 624: (13.701512432432393,100.5945146259578) DEFINE by Mayfair Sukhumvit 50, Khlong Toei Bangkok
+7592.8s 639 Done 625: (13.890788532432392,100.5862776259578) DEN Vibhavadi, Don Mueang Bangkok
+7598.5s 640 Done 626: (13.738764532432393,100.5870904259578) DLV Thonglor 20, Watthana Bangkok
+7604.5s 641 Done 627: (13.664735032432393,100.6067897259578) DOLCE LASALLE, Bang Na Bangkok
+7634.3s 642 Done 628: (13.777257971066451,100.5455558928716) DRouvre Condominium, Bangkok
+7639.6s 643 Done 629: (13.870726532432393,100.4671533259578) Dcon Prime Rattanathibet, Muang Nonthaburi Nonthaburi
+7644.7s 644 Done 630: (12.775954832432392,100.9035292259578) De Amber, Sattahip Chonburi
+7650.2s 645 Done 631: (13.792067732432393,100.5036902259578) De LAPIS  Charan 81, Bang Phlat Bangkok
+7665.0s 646 Done 632: (13.660307771066451,100.5985431928716) Deco Condominium, Bang Na Bangkok
+7670.3s 647 Done 633: (12.773418932432392,100.9010050259578) Del Mare Bangsaray Beachfront, Sattahip Chonburi
+7676.4s 648 Done 634: (13.797492332432393,100.5570423259578) Denim Jatujak, Chatuchak Bangkok
+7682.0s 649 Done 635: (13.771622032432392,100.5004954259578) Deves Mansion, Phra Nakhon Bangkok
+7697.0s 650 Done 636: (8.09258857106645,98.2996816928716) Dhawa Phuket, Thalang Phuket
+7702.4s 651 Done 637: (18.811275332432395,99.0073769259578) Diamant Condominium, Muang Chiang Mai Chiang Mai
+7708.1s 652 Done 638: (13.774620532432392,100.5740059259578) Diamond Ratchada, Huai Khwang Bangkok
+7713.7s 653 Done 639: (13.775052032432393,100.57451312595781) Diamond Ratchada City Plus, Huai Khwang Bangkok
+7719.3s 654 Done 640: (13.774620532432392,100.5740059259578) Diamond Ratchada Cool House, Huai Khwang Bangkok
+7724.6s 655 Done 641: (12.912022632432393,100.8721441259578) Diamond Suites, Bang Lamung Chonburi
+7730.4s 656 Done 642: (12.912246932432392,100.8721072259578) Diamond Suites Resort Condominium, 15 Bang Lamung Chonburi
+7735.7s 657 Done 643: (13.708353832432392,100.5990854259578) Diamond Sukhumvit, Khlong Toei Bangkok
+7803.5s 658 Done 644: (13.724852932432393,100.5293621259578) Diamond Tower CondoBang Rak Bangkok
+7818.4s 659 Done 645: (12.93079147106645,100.8861988928716) Diana Estates, Bang Lamung Chonburi
+7823.6s 660 Done 646: (7.8232433324323924,98.3385777259578) Dlux Condominium, Muang Phuket Phuket
+7829.0s 661 Done 647: (13.676032032432392,100.6122946259578) Dolce Udomsuk, Bang Na Bangkok
+7834.8s 662 Done 648: (13.733368932432393,100.5613536259578) Domus 16, Khlong Toei Bangkok
+7840.6s 663 Done 649: (13.733323532432392,100.5623205259578) Domus 18, Khlong Toei Bangkok
+7845.6s 664 Done 650: (13.153422032432392,100.9199958259578) Dormy Residences Sriracha, Si Racha Chonburi
+7850.7s 665 Done 651: (13.925334732432393,100.5444556259578) Double Lake Condominium, Pak Kret Nonthaburi
+7856.3s 666 Done 652: (13.735083532432393,100.5558345259578) Double Tree Residence, Watthana Bangkok
+7955.0s 667 Done 653: (13.818233232432393,100.5921378259578) Double Condo, Lat Phrao Bangkok
+7960.3s 668 Done 654: (13.740176032432393,100.5780639259578) Downtown Forty Nine, Watthana Bangkok
+7965.8s 669 Done 655: (18.28940063243239,99.5091832259578) Dream Lampang, Muang Lampang Lamphang
+7971.4s 670 Done 656: (13.788009132432393,100.58323522595781) Dsign Ratchada, Huai Khwang Bangkok
+8067.5s 671 Error getting lat,lon at 657: (43.828187532432395,-79.5314588740422) Duliya Chalisma Condo, Huai Khwang Bangkok
+8067.5s 672 Done 657: (nan,nan) Duliya Chalisma Condo, Huai Khwang Bangkok
+8176.9s 673 Error getting lat,lon at 658: (41.91782607106645,-87.6840282071284) Duliya Place Condo Condo, Lat Phrao Bangkok
+8176.9s 674 Done 658: (nan,nan) Duliya Place Condo Condo, Lat Phrao Bangkok
+8191.8s 675 Done 659: (12.54358517106645,99.9623457928716) Dusit D2 Residence Hua Hin, Hua Hin Prachaubkirikhan
+8197.2s 676 Done 660: (12.893392132432393,100.8770502259578) Dusit Grand Condo View, Bang Lamung Chonburi
+8202.7s 677 Done 661: (12.899619532432393,100.8802253259578) Dusit Grand Park, Bang Lamung Chonburi
+8208.2s 678 Done 662: (12.899318632432392,100.8803176259578) Dusit Grand Park 2, Bang Lamung Chonburi
+8214.2s 679 Done 663: (13.728402332432392,100.5372300259578) Dusit Residences and Dusit Parkside, Bang Rak Bangkok
+8281.0s 680 Done 664: (13.743193632432392,100.5448037259578) EASTERN STAR REALESTATE CondoBang Rak Bangkok
+8286.4s 681 Done 665: (12.763129632432392,100.8979352259578) ECOresort Bang Saray, Sattahip Chonburi
+8292.0s 682 Done 666: (12.930962332432392,100.8822774259578) EDGE Central Pattaya, Bang Lamung Chonburi
+8307.0s 683 Done 667: (13.73063417106645,100.5731252928716) EYSE Sukhumvit 43, Watthana Bangkok
+8322.0s 684 Done 668: (13.67019157106645,100.4368457928716) Ease Rama 2, Bang Khun Thian Bangkok
+8327.4s 685 Done 669: (13.817792932432393,100.57951352595781) Ease Ratchada, Chatuchak Bangkok
+8403.6s 686 Done 670: (13.670997271066451,100.6354463928716) East Tower CondoBang Na Bangkok
+8408.6s 687 Done 671: (13.019301832432392,101.15063652595781) Eastern Seaboard City, Pluak Daeng Rayong
+8413.7s 688 Done 672: (13.169656332432393,100.9267113259578) Eastern Tower Codominium, Si Racha Chonburi
+8428.8s 689 Done 673: (13.687101871066451,100.6623132928716) Eastwood Park, Suan Luang Bangkok
+8434.3s 690 Done 674: (12.763784332432392,100.8967991259578) Econdo Bang Saray, 70/9 Sattahip Chonburi
+8440.1s 691 Done 675: (13.736561532432393,100.5630909259578) Edge Sukhumvit 23, Watthana Bangkok
+8445.5s 692 Done 676: (13.730483932432392,100.5819389259578) Eight Thonglor Residence, Watthana Bangkok
+8507.9s 693 Done 677: (13.716123171066451,100.5830297928716) Ekamai Condo Town Condo,
+8529.7s 694 Done 678: (13.807802932432393,100.5718006259578) Ekbodin Condominium, Bangkok
+8534.6s 695 Done 679: (13.050104432432393,100.9284128259578) Ekceed Tongkrad Lamchabang, Bang Lamung Chonburi
+8539.7s 696 Done 680: (13.978400032432393,100.5900686259578) Ekthani Condotown, Muang Pathum Thani Pathumthani
+8544.7s 697 Done 681: (16.461859632432393,102.8288896259578) El Cielo Khonkaen, Muang Khon Kaen Khon Kaen
+8549.8s 698 Done 682: (12.917696232432393,100.8598719259578) Elegance @ Cosy Beach, Bang Lamung Chonburi
+8555.0s 699 Done 683: (13.696231732432393,100.6453265259578) Elements Srinakarin, Prawet Bangkok
+8622.5s 700 Done 684: (13.825274632432393,100.5683675259578) Elephant Tower CondoChatuchak Bangkok
+8637.5s 701 Done 685: (13.685197071066451,100.6041178928716) Elio Condo, Phra Khanong Bangkok
+8642.9s 702 Done 686: (13.839081732432392,100.5826057259578) Elio Del Moss Phaholyothin 34, Chatuchak Bangkok
+8648.5s 703 Done 687: (13.678778132432393,100.6160591259578) Elio Del Nest, Bang Na Bangkok
+8654.2s 704 Done 688: (13.684714232432393,100.6042843259578) Elio Del Ray, Phra Khanong Bangkok
+8659.4s 705 Done 689: (13.715409332432392,100.4648057259578) Elio Sathorn - Wutthakat, Chom Thong Bangkok
+8664.9s 706 Done 690: (13.747900532432393,100.6463954259578) Elite Residence Rama 9 - Srinakarin, Bang Kapi Bangkok
+8670.5s 707 Done 691: (13.797045232432392,100.3122293259578) Elite Salaya, Phuttha Mon Thon Nakhon Pathom
+8676.4s 708 Done 692: (13.646059232432393,100.6357232259578) Embassy Place Bearing 45, Bang Na Bangkok
+8681.5s 709 Done 693: (12.918448732432392,100.8604869259578) Emerald Palace, Bang Lamung Chonburi
+8687.6s 710 Done 694: (13.775154432432393,100.5716080259578) Emerald Residence Ratchada, Din Daeng Bangkok
+8764.2s 711 Done 695: (13.72959177106645,100.5911093928716) Empire House CondoWatthana Bangkok
+8769.9s 712 Done 696: (13.742352432432392,100.5680660259578) Empire Sawasdee, Watthana Bangkok
+8775.4s 713 Done 697: (13.730047532432392,100.5683322259578) Emporium Suites by Chatrium, Khlong Toei Bangkok
+8781.1s 714 Done 698: (13.890100232432392,100.6072215259578) Episode Phahol - Sapanmai, Bang Khen Bangkok
+8786.3s 715 Done 699: (13.809179632432393,100.5590072259578) Equinox, Chatuchak Bangkok
+8791.9s 716 Done 700: (18.805405932432393,99.0200648259578) Escent  Chiangmai, Muang Chiang Mai Chiang Mai
+8797.4s 717 Done 701: (6.9933165324323925,100.4813575259578) Escent Hatyai, Hat Yai Songkhla
+8802.9s 718 Done 702: (16.435337132432394,102.8256970259578) Escent Khon Kean, Muang Khon Kaen Khon Kaen
+8808.5s 719 Done 703: (14.998414932432393,102.1162826259578) Escent Korat 2, Muang Nakhon Ratchasima Nakhon Ratchasima
+8823.4s 720 Done 704: (14.998416071066451,102.1162812928716) Escent Nakhonratchasima, Muang Nakhon Ratchasima Nakhon Ratchasima
+8838.6s 721 Done 705: (18.810349571066453,99.0177222928716) Escent Park Ville Chiangmai, Muang Chiang Mai Chiang Mai
+8843.4s 722 Done 706: (12.694380432432393,101.2688591259578) Escent Rayong, Muang Rayong Rayong
+8848.7s 723 Done 707: (12.694700632432392,101.2675112259578) Escent Rayong 2, Muang Rayong Rayong
+8853.6s 724 Done 708: (15.239431832432393,104.8249534259578) Escent Ubonratchathani, Muang Ubon Ratchathani Ubon Ratchathani
+8858.8s 725 Done 709: (14.331776532432393,100.6089852259578) Escent Ville Ayutthaya, Phra Nakhon Sri Ayutthaya Phra Nakhon Sri Ayutthaya
+8864.4s 726 Done 710: (18.81034843243239,99.0177236259578) Escent Ville Chiangmai, Muang Chiang Mai Chiang Mai
+8870.9s 727 Done 711: (13.720719732432393,100.5453888259578) Esmeralda, Sathon Bangkok
+8875.9s 728 Done 712: (12.870345232432392,100.8973917259578) Espana Condo Resort Pattaya, Bang Lamung Chonburi
+8881.1s 729 Done 713: (13.811562132432393,100.7152797259578) Esta Bliss, Min Buri Bangkok
+8896.3s 730 Done 714: (13.88973797106645,100.6064922928716) Esta Phahol-Sapanmai, Bang Khen Bangkok
+8902.6s 731 Done 715: (13.798260132432393,100.5556611259578) Estabe’ @ Phahonyothin 18, Chatuchak Bangkok
+8908.3s 732 Done 716: (12.912251432432393,100.8663702259578) Estanan Condo, Bang Lamung Chonburi
+8914.1s 733 Done 717: (13.745286732432392,100.6000232259578) Eua Amornsuk Condo Ramkhamhaeng, Suan Luang Bangkok
+9008.9s 734 Done 718: (13.741244232432393,100.5585389259578) Euro Classic Condo, Watthana Bangkok
+9014.2s 735 Done 719: (13.662379732432392,100.6500533259578) Evergreen View Tower, Bang Na Bangkok
+9121.4s 736 Done 720: (13.79726217106645,100.55178949287159) Exclusive Condo, Chatuchak Bangkok
+9126.8s 737 Done 721: (12.919166732432393,100.86485552595781) Executive Residence 3, Bang Lamung Chonburi
+9132.3s 738 Done 722: (12.918843232432392,100.8648353259578) Executive Residence 4, Bang Lamung Chonburi
+9147.0s 739 Done 723: (12.92238987106645,100.8619621928716) Executive Residence I, Bang Lamung Chonburi
+9161.9s 740 Done 724: (12.91957857106645,100.8645430928716) Executive Residence II, Bang Lamung Chonburi
+9167.4s 741 Done 725: (13.731883432432392,100.5038345259578) FLO by Sansiri, Khlong San Bangkok
+9173.2s 742 Done 726: (13.735587232432392,100.5569712259578) FYNN Asoke, Khlong Toei Bangkok
+9178.6s 743 Done 727: (13.741570332432392,100.56691892595781) FYNN Sukhumvit 31, Watthana Bangkok
+9184.0s 744 Done 728: (14.069934232432393,100.59524072595781) Fah Dome, Khlong Luang Pathumthani
+9199.0s 745 Done 729: (13.70536597106645,100.59726969287159) Fair Tower, Khlong Toei Bangkok
+9244.1s 746 Done 730: (13.806295532432392,100.5797346259578) Fairview Lat Phrao 31
+9348.1s 747 Done 731: (13.73194357106645,100.5625853928716) Fairview Condo, Khlong Toei Bangkok
+9363.1s 748 Done 732: (13.72923387106645,100.5878424928716) Fak Khao Pode, Bang Kapi Bangkok
+9454.7s 749 Done 733: (13.79417147106645,100.5885060928716) Family Complex Condo, Bangkok
+9469.5s 750 Done 734: (13.823727471066451,100.6102435928716) Family House Ladprao 71, Lat Phrao Bangkok
+9475.6s 751 Done 735: (13.751521932432393,100.5916671259578) Family Park, Huai Khwang Bangkok
+9481.3s 752 Done 736: (13.792118532432392,100.5691507259578) Family Ratchada, Din Daeng Bangkok
+9554.2s 753 Done 737: (13.792148032432392,100.5591783259578) Family Town Condo, Bangkok
+9559.8s 754 Done 738: (13.769563132432392,100.6272816259578) Feel Condo Lat Phrao 122, Wang Thonglang Bangkok
+9565.5s 755 Done 739: (13.782462032432392,100.4875616259578) Feel Condo Pinklao - Charan 59, Bang Phlat Bangkok
+9571.4s 756 Done 740: (13.806420832432392,100.5804891259578) Feel Ladprao 33, Chatuchak Bangkok
+9577.2s 757 Done 741: (13.823044132432392,100.5853891259578) Feel Ratchada 36, Chatuchak Bangkok
+9582.8s 758 Done 742: (13.823520632432393,100.5880353259578) Felic Condo Ladprao Wanghin 79, Lat Phrao Bangkok
+9588.9s 759 Done 743: (13.713929032432393,100.5894222259578) Ficus Lane, Khlong Toei Bangkok
+9593.7s 760 Done 744: (14.014262632432393,99.9910682259578) Fifth Avenue Campus, Kamphaeng Saen Nakhon Pathom
+9599.4s 761 Done 745: (13.725843332432392,100.5804394259578) Fifty Fifth Tower, Watthana Bangkok
+9624.4s 762 Done 746: (12.700060932432393,101.26988162595781) Fin Budget Condo, Rayong
+9630.2s 763 Done 747: (18.784710532432392,98.9654652259578) Finn Condo 3 @ Suandok, Muang Chiang Mai Chiang Mai
+9635.7s 764 Done 748: (13.747878032432393,100.5525553259578) First Tower, Watthana Bangkok
+9641.3s 765 Done 749: (13.717638132432393,100.5245791259578) Flawless Sathorn Residence, Sathon Bangkok
+9646.9s 766 Done 750: (13.717425832432392,100.5051045259578) Flexi Sathon - Charoennakhon, Khlong San Bangkok
+9652.4s 767 Done 751: (13.735886332432392,100.6470076259578) Flora Ville, Suan Luang Bangkok
+9728.8s 768 Done 752: (13.739722371066451,100.5516737928716) Focus Condominium CondoLat Phrao Bangkok
+9733.9s 769 Done 753: (13.739721232432393,100.5516751259578) Focus Ploenchit, Khlong Toei Bangkok
+9739.7s 770 Done 754: (13.726629532432392,100.5372481259578) Focus on Saladaeng, Bang Rak Bangkok
+9745.3s 771 Done 755: (13.810369132432392,100.5674699259578) Formosa Ladprao 7, Lat Phrao Bangkok
+9750.9s 772 Done 756: (13.700643132432392,100.5363164259578) Fortune Condo Town, Yan Nawa Bangkok
+9756.1s 773 Done 757: (13.712305632432393,100.5102568259578) Four Seasons Private Residence Bangkok, Bang Kho Laem Bangkok
+9761.8s 774 Done 758: (13.820013632432392,100.5688326259578) Four Street Mansion, Chatuchak Bangkok
+9767.3s 775 Done 759: (13.719763132432393,100.5978406259578) Fragrant 71, Watthana Bangkok
+9773.2s 776 Done 760: (13.780575032432392,100.6226495259578) Free Island, Lat Phrao Bangkok
+9788.4s 777 Done 761: (13.80561907106645,100.5239988928716) Fresh Bangsue, Bang Sue Bangkok
+9809.8s 778 Done 762: (13.722067932432392,100.58227152595781) Fullerton, Bangkok
+9815.0s 779 Done 763: (13.706117232432392,100.5305534259578) Fuse Chan - Sathorn, Sathon Bangkok
+9820.6s 780 Done 764: (13.789245232432393,100.5640007259578) Fuse MiTi Sutthisan - Ratchada, Din Daeng Bangkok
+9826.2s 781 Done 765: (13.746023332432392,100.6017640259578) Fuse Mobius Ramkhamhaeng - Klongton, Suan Luang Bangkok
+9832.1s 782 Done 766: (13.720464732432392,100.4969835259578) Fuse Sathorn - Taksin, Khlong San Bangkok
+9837.6s 783 Done 767: (13.710648232432392,100.39636452595781) Fuse Sense Bangkae, Bang Khae Bangkok
+9899.3s 784 Error getting lat,lon at 768: (41.917824932432396,-87.6840268740422) Future Place Condominium Condo, Thanyaburi Pathumthani
+9899.3s 785 Done 768: (nan,nan) Future Place Condominium Condo, Thanyaburi Pathumthani
+9919.6s 786 Done 769: (13.777878332432392,100.5402531259578) Fynn Aree, Bangkok
+9924.9s 787 Done 770: (13.148605232432393,100.9447647259578) G Condo 1, Si Racha Chonburi
+9939.8s 788 Done 771: (13.14741957106645,100.9444640928716) G Condo 2 Sriracha, Si Racha Chonburi
+9945.2s 789 Done 772: (13.652310732432392,100.6019357259578) G Haus, Muang Samut Prakarn Samut Prakarn
+9950.9s 790 Done 773: (13.816105232432392,100.5721964259578) G One Condo, Chatuchak Bangkok
+9966.1s 791 Done 774: (13.776651771066451,100.5815894928716) G STYLE CONDO, Huai Khwang Bangkok
+9971.9s 792 Done 775: (16.417833332432394,102.8323777259578) G9 Condominium, Muang Khon Kaen Khon Kaen
+9977.5s 793 Done 776: (13.732233632432392,100.5650852259578) GM Height, Khlong Toei Bangkok
+9983.0s 794 Done 777: (13.726509932432393,100.5725472259578) GM Mansion, Khlong Toei Bangkok
+9988.3s 795 Done 778: (18.765475832432394,98.9975708259578) Galare Thong Tower, Muang Chiang Mai Chiang Mai
+10003.2s 796 Done 779: (13.75046667106645,100.5747823928716) Garden Asoke - Rama 9, Huai Khwang Bangkok
+10018.1s 797 Done 780: (12.970294671066451,100.8842948928716) Garden Cliff, Bang Lamung Chonburi
+10023.5s 798 Done 781: (13.675461132432392,100.5134975259578) Garden Court, Rat Burana Bangkok
+10129.0s 799 Done 782: (13.75046667106645,100.5747823928716) Garden Condo, Huai Khwang Bangkok
+10134.4s 800 Done 783: (13.740097332432393,100.5430609259578) Garden View Mansion, Pathum Wan Bangkok
+10149.2s 801 Done 784: (14.04609127106645,100.7349575928716) Gen Condo Rangsit-Klong 6, Khlong Luang Pathumthani
+10154.7s 802 Done 785: (13.810495232432393,100.5712110259578) Gladden Square Ladprao 15, Chatuchak Bangkok
+10220.2s 803 Done 786: (13.190788832432393,100.9306055259578) Golden Coast Sriracha Phase 1 CondoSi Racha Chonburi
+10295.0s 804 Done 787: (13.190788832432393,100.9306055259578) Golden Coast Sriracha Phase 2 CondoSi Racha Chonburi
+10319.6s 805 Done 788: (13.820463932432393,99.4857256259578) Golden Lake View, Nonthaburi
+10324.8s 806 Done 789: (7.910627132432393,98.3981245259578) Good Condominium, Muang Phuket Phuket
+10330.3s 807 Done 790: (12.928339132432393,100.8823151259578) Grand Avenue Residence, Bang Lamung Chonburi
+10345.2s 808 Done 791: (13.700595171066452,100.4680612928716) Grand Condominium Wutthakat 53, Chom Thong Bangkok
+10421.9s 809 Done 792: (12.90200557106645,100.86592149287159) Grand Condotel CondoBang Lamung Chonburi
+10427.2s 810 Done 793: (13.804631032432393,100.5712050259578) Grand Dana Tower, Chatuchak Bangkok
+10432.6s 811 Done 794: (13.750391732432393,100.5385055259578) Grand Diamond Pratunam, Ratchathewi Bangkok
+10438.1s 812 Done 795: (12.842466032432393,100.9067892259578) Grand Florida Beachfront Condo Resort Pattaya, Sattahip Chonburi
+10443.5s 813 Done 796: (13.734544132432392,100.5786675259578) Grand Heritage Thonglor, Watthana Bangkok
+10448.5s 814 Done 797: (7.947749432432392,98.2718092259578) Grand Himalai Oceanfront Residences, Kathu Phuket
+10454.5s 815 Done 798: (13.739483632432393,100.5427073259578) Grand Langsuan, Pathum Wan Bangkok
+10460.6s 816 Done 799: (13.749853832432393,100.4915758259578) Grand Palace, Wang Thonglang Bangkok
+10466.1s 817 Done 800: (13.772350432432393,100.5965958259578) Grand Park Town, Wang Thonglang Bangkok
+10471.7s 818 Done 801: (13.743433632432392,100.5616348259578) Grand Park View, Watthana Bangkok
+10477.5s 819 Done 802: (18.74589343243239,98.9522366259578) Grand Siritara, Muang Chiang Mai Chiang Mai
+10483.1s 820 Done 803: (12.912562932432392,100.8711265259578) Grand Solaire Pattaya, Bang Lamung Chonburi
+10498.9s 821 Done 804: (12.80888637106645,100.9167407928716) Grand View Condo, Sattahip Chonburi
+10504.1s 822 Done 805: (13.727512932432392,100.5682850259578) Grand Ville House 1, Khlong Toei Bangkok
+10566.3s 823 Done 806: (13.74021137106645,100.5590860928716) Grand Ville House 2 Condo,
+10571.6s 824 Done 807: (12.907649732432393,100.8693644259578) Grande Caribbean Pattaya, Bang Lamung Chonburi
+10576.6s 825 Done 808: (13.150527532432392,100.9446261259578) Green Lake Condo Sriracha, Si Racha Chonburi
+10582.1s 826 Done 809: (13.792606432432393,100.53964482595781) Green Peace Mansion, Phaya Thai Bangkok
+10587.6s 827 Done 810: (13.831264632432392,100.5381708259578) Green Point Prachachuen, Bang Sue Bangkok
+10593.7s 828 Done 811: (13.728254532432393,100.5291748259578) Green Point Silom, Bang Rak Bangkok
+10609.0s 829 Done 812: (13.69089847106645,100.6145477928716) Green Ville Condo @ Sukhumvit 101, Phra Khanong Bangkok
+10624.0s 830 Done 813: (13.69089847106645,100.6145477928716) Green Ville II, Phra Khanong Bangkok
+10638.8s 831 Done 814: (13.72397817106645,100.5829974928716) Greenery Place, Wang Thonglang Bangkok
+10644.4s 832 Done 815: (13.896076232432392,100.5541291259578) Grene Chaengwattana, Pak Kret Nonthaburi
+10649.9s 833 Done 816: (13.926641132432392,100.58413332595781) Grene Don Mueang - Song Prapha, Don Mueang Bangkok
+10655.5s 834 Done 817: (13.789239732432392,100.5852141259578) Grene Suthisarn, Huai Khwang Bangkok
+10661.2s 835 Done 818: (13.772093432432392,100.5715778259578) Groove Muse Ratchada 7, Din Daeng Bangkok
+10666.8s 836 Done 819: (13.797222432432392,100.5851548259578) Groove Ratchada - Ladprao, Huai Khwang Bangkok
+10672.8s 837 Done 820: (13.763367332432393,100.5634360259578) Groove Ratchada - Rama 9, Din Daeng Bangkok
+10688.1s 838 Done 821: (13.79739077106645,100.5826167928716) Groove Scape 48, Huai Khwang Bangkok
+10692.9s 839 Done 822: (13.112936532432393,100.9199328259578) Groovy Sriracha, Si Racha Chonburi
+10697.8s 840 Done 823: (7.9931971324323925,98.4039128259578) Grove Gardens Phuket, Thalang Phuket
+10703.2s 841 Done 824: (13.870353132432392,100.4655567259578) Grow Rattanathibet, Muang Nonthaburi Nonthaburi
+10708.8s 842 Done 825: (13.732616132432392,100.5739551259578) H Sukhumvit 43, Watthana Bangkok
+10724.6s 843 Done 826: (13.77765907106645,100.6430360928716) H.R. Residence, Bang Kapi Bangkok
+10739.8s 844 Done 827: (13.86455327106645,100.6173914928716) H2 Glass and Chrome, Bang Khen Bangkok
+10745.1s 845 Done 828: (13.864605332432392,100.6173147259578) H2 Glo, Bang Khen Bangkok
+10759.9s 846 Done 829: (13.86454037106645,100.6166475928716) H2 Ramindra 21, Bang Khen Bangkok
+10765.1s 847 Done 830: (13.162358132432393,100.9271843259578) HAMPTON SRIRACHA, Si Racha Chonburi
+10770.8s 848 Done 831: (13.785245232432393,100.5832326259578) HI 48 SUTTHISAN, Huai Khwang Bangkok
+10785.7s 849 Done 832: (13.90585607106645,100.5311838928716) HI Chaengwattana 19, Pak Kret Nonthaburi
+10791.9s 850 Done 833: (13.766654832432392,100.6327288259578) HI Ladprao 130, Bang Kapi Bangkok
+10806.6s 851 Done 834: (13.785246371066451,100.5832312928716) HI SUTTHISAN, Huai Khwang Bangkok
+10821.4s 852 Done 835: (13.68983717106645,100.6455075928716) HI Seacon Station, Prawet Bangkok
+10827.3s 853 Done 836: (13.729820332432393,100.5816211259578) HQ Thonglor, Watthana Bangkok
+10832.6s 854 Done 837: (13.722153632432393,100.5818318259578) HYDE Heritage Thonglor, Watthana Bangkok
+10838.3s 855 Done 838: (18.69681013243239,98.9250466259578) HYPARC  RESIDENCES HANGDONG, Hang Dong Chiang Mai
+10844.0s 856 Done 839: (13.906717032432393,100.5249159259578) Hallmark Chaengwattana, Pak Kret Nonthaburi
+10849.6s 857 Done 840: (13.844537832432392,100.5278611259578) Hallmark Ngamwongwan, Muang Nonthaburi Nonthaburi
+10864.8s 858 Done 841: (13.72526137106645,100.5671197928716) Hampton Residence Bangkok, Khlong Toei Bangkok
+10870.7s 859 Done 842: (13.732209732432393,100.5836515259578) Hampton Thonglor 10, Watthana Bangkok
+10876.7s 860 Done 843: (13.740211532432392,100.54093622595781) Hansar Rajdamri, Pathum Wan Bangkok
+10892.1s 861 Done 844: (13.92718267106645,100.58310819287159) Happy Condo Donmuang The Terminal, Don Mueang Bangkok
+10897.8s 862 Done 845: (13.788079332432392,100.6274469259578) Happy Condo Ladprao 101, Wang Thonglang Bangkok
+10903.7s 863 Done 846: (13.783771232432393,100.5860822259578) Happy Condo Ratchada 18, Huai Khwang Bangkok
+10909.0s 864 Done 847: (13.714673832432393,100.5967553259578) Happy Place Tower, Watthana Bangkok
+10914.7s 865 Done 848: (13.787309232432392,100.5461018259578) Harmony Living Pahonyothin 11, Phaya Thai Bangkok
+10920.1s 866 Done 849: (13.746180732432393,100.5589049259578) Harmony Living Sukhumvit 15, Watthana Bangkok
+10925.5s 867 Done 850: (13.714030632432392,100.6021278259578) Hasu Haus, Watthana Bangkok
+10931.1s 868 Done 851: (13.805176932432392,100.5759370259578) Haus 23 Ratchada - Ladprao, Chatuchak Bangkok
+10936.6s 869 Done 852: (13.788044432432393,100.5531316259578) Haven Luxe, Phaya Thai Bangkok
+10942.4s 870 Done 853: (13.788079332432392,100.5536227259578) Haven Phaholyothin, Phaya Thai Bangkok
+10948.2s 871 Done 854: (13.741016432432392,100.5643439259578) Hawaii Tower, Watthana Bangkok
+11025.0s 872 Done 855: (13.720309271066451,100.4640389928716) Heritage Condominium CondoPhasi Charoen Bangkok
+11039.8s 873 Done 856: (13.703832571066451,100.6131773928716) Hi Sukhumvit 93, 81 Phra Khanong Bangkok
+11045.1s 874 Done 857: (7.984056532432392,98.30248262595781) Hill Myna Condotel, Thalang Phuket
+11051.2s 875 Done 858: (18.795165632432393,99.0255884259578) Hill Side Payap Condominium 7, Muang Chiang Mai Chiang Mai
+11057.7s 876 Done 859: (18.791876232432394,98.9550236259578) Hillside Condominium 1, Muang Chiang Mai Chiang Mai
+11076.7s 877 Done 860: (18.79693497106645,98.9659494928716) Hillside Condominium 2, Muang Chiang Mai Chiang Mai
+11092.5s 878 Done 861: (18.796509871066448,98.9648520928716) Hillside Condominium 3, Muang Chiang Mai Chiang Mai
+11097.7s 879 Done 862: (18.800219732432396,98.9702958259578) Hillside Condominium 4, Muang Chiang Mai Chiang Mai
+11112.6s 880 Done 863: (18.79551337106645,99.0257446928716) Hillside Payap Condominium 8, Muang Chiang Mai Chiang Mai
+11117.8s 881 Done 864: (18.79603293243239,99.0258646259578) Hillside Payap Condominium 9, Muang Chiang Mai Chiang Mai
+11123.1s 882 Done 865: (18.81339343243239,98.9638302259578) Hilltania Chiang Mai, Muang Chiang Mai Chiang Mai
+11128.8s 883 Done 866: (18.821348232432392,98.9820401259578) Himma Garden Condominium, Muang Chiang Mai Chiang Mai
+11134.6s 884 Done 867: (13.721774032432393,100.5026125259578) Hive Sathorn, Khlong San Bangkok
+11140.4s 885 Done 868: (13.720665932432393,100.5882128259578) Hive Sukhumvit 65, Watthana Bangkok
+11146.2s 886 Done 869: (13.721868732432393,100.4965172259578) Hive Taksin, Khlong San Bangkok
+11151.6s 887 Done 870: (12.909472332432392,100.8623543259578) Holiday Condo View Pattaya, Bang Lamung Chonburi
+11156.9s 888 Done 871: (12.519239032432392,99.9765510259578) Hua Hin Seaview Paradise, Hua Hin Prachaubkirikhan
+11162.6s 889 Done 872: (13.689099232432392,100.6086189259578) Hue Sukhumvit, Phra Khanong Bangkok
+11168.4s 890 Done 873: (13.789156532432392,100.5805801259578) Humble Living @ Chintawet, Huai Khwang Bangkok
+11174.6s 891 Done 874: (13.789900532432393,100.5832259259578) Humble Living @ Fueangfu, Huai Khwang Bangkok
+11180.2s 892 Done 875: (13.791313132432393,100.5814817259578) Humble Living @ Suppalerk, Huai Khwang Bangkok
+11185.8s 893 Done 876: (13.788949532432392,100.5820787259578) Humble Living @ Yuyen, Huai Khwang Bangkok
+11191.7s 894 Done 877: (12.918407732432392,100.8706266259578) Hyde Park Residence, Bang Lamung Chonburi
+11197.5s 895 Done 878: (13.743637732432392,100.5564004259578) Hyde Sukhumvit, Watthana Bangkok
+11203.1s 896 Done 879: (13.743637732432392,100.5564004259578) Hyde Sukhumvit 11, Watthana Bangkok
+11277.9s 897 Done 880: (13.72177517106645,100.5026111928716) Hype Sathorn-Thonburi Condo,
+11283.4s 898 Done 881: (13.812956932432392,100.6103924259578) I - Zen Ekamai - Raminthra, Lat Phrao Bangkok
+11288.8s 899 Done 882: (13.841033932432392,100.5892488259578) I CONDO Kaset, Chatuchak Bangkok
+11294.6s 900 Done 883: (13.782411032432393,100.6717413259578) I CONDO Sukhapiban 2, Bueng Kum Bangkok
+11300.3s 901 Done 884: (13.675669432432393,100.6379619259578) I CONDO Sukhumvit 103, Bang Na Bangkok
+11305.9s 902 Done 885: (13.659503632432392,100.6310105259578) I CONDO Sukhumvit 105, Bang Na Bangkok
+11311.7s 903 Done 886: (15.246380132432392,104.8334374259578) I condo Ubon Ratchathani, Muang Ubon Ratchathani Ubon Ratchathani
+11326.8s 904 Done 887: (13.75119907106645,100.5784725928716) I-House Laguna Garden, Huai Khwang Bangkok
+11372.5s 905 Done 888: (13.750288032432392,100.5777333259578) I-House Rama IX - Ekamai
+11378.7s 906 Done 889: (13.722047832432393,100.49587372595781) IDEO Blucove Sathorn, Khlong San Bangkok
+11384.5s 907 Done 890: (13.678545832432393,100.6085470259578) IDEO Blucove Sukhumvit, Bang Na Bangkok
+11390.0s 908 Done 891: (13.788936332432392,100.5035989259578) IDEO Charan 70, Bang Phlat Bangkok
+11395.6s 909 Done 892: (13.731861232432392,100.5255197259578) IDEO Chula - Samyan, Bang Rak Bangkok
+11401.3s 910 Done 893: (13.806920732432392,100.5726606259578) IDEO Ladprao 17, Chatuchak Bangkok
+11406.7s 911 Done 894: (13.810799932432392,100.5657389259578) IDEO Ladprao 5, Chatuchak Bangkok
+11412.7s 912 Done 895: (13.795003132432392,100.5504792259578) IDEO Mix Phaholyothin, Phaya Thai Bangkok
+11418.2s 913 Done 896: (13.678916732432393,100.6111899259578) IDEO Mix Sukhumvit 103, Bang Na Bangkok
+11424.0s 914 Done 897: (13.748424932432393,100.56591382595781) IDEO Mobi Asoke, Huai Khwang Bangkok
+11429.6s 915 Done 898: (13.806403332432392,100.5329204259578) IDEO Mobi Bangsue Grand Interchange, Bang Sue Bangkok
+11435.2s 916 Done 899: (13.762362132432392,100.47190242595781) IDEO Mobi Charan - Interchange, Bangkok Noi Bangkok
+11440.5s 917 Done 900: (13.759102332432393,100.5329008259578) IDEO Mobi Phayathai, Ratchathewi Bangkok
+11446.6s 918 Done 901: (13.755648732432393,100.5658472259578) IDEO Mobi Rama 9, Huai Khwang Bangkok
+11453.3s 919 Done 902: (13.759534532432392,100.5416337259578) IDEO Mobi Rangnam, Ratchathewi Bangkok
+11459.0s 920 Done 903: (13.720247532432392,100.50267082595781) IDEO Mobi Sathorn, Khlong San Bangkok
+11474.2s 921 Done 904: (13.70444017106645,100.6021321928716) IDEO Mobi Sukhumvit, Phra Khanong Bangkok
+11480.0s 922 Done 905: (13.716913332432393,100.5813694259578) IDEO Mobi Sukhumvit 40, Khlong Toei Bangkok
+11485.4s 923 Done 906: (13.681725032432393,100.6096934259578) IDEO Mobi Sukhumvit 66, Bang Na Bangkok
+11490.9s 924 Done 907: (13.665476732432392,100.6041960259578) IDEO Mobi Sukhumvit Eastgate, Bang Na Bangkok
+11496.7s 925 Done 908: (13.664910532432392,100.6036422259578) IDEO Mobi Sukhumvit Eastpoint, Bang Na Bangkok
+11502.8s 926 Done 909: (13.818870132432393,100.5317407259578) IDEO Mobi Wongsawang Interchange, Bang Sue Bangkok
+11508.6s 927 Done 910: (13.720906332432392,100.5790649259578) IDEO Morph 38, Khlong Toei Bangkok
+11514.3s 928 Done 911: (13.748994632432392,100.60614922595781) IDEO New Rama 9, Bang Kapi Bangkok
+11529.5s 929 Done 912: (13.67325997106645,100.6042790928716) IDEO O2, Bang Na Bangkok
+11535.3s 930 Done 913: (13.795902932432393,100.5502034259578) IDEO Phaholyothin - Chatujak, Phaya Thai Bangkok
+11541.0s 931 Done 914: (13.733504132432392,100.5265257259578) IDEO Q Chula - Samyan, Bang Rak Bangkok
+11546.6s 932 Done 915: (13.755799932432392,100.5324153259578) IDEO Q Phayathai, Ratchathewi Bangkok
+11552.5s 933 Done 916: (13.752838632432393,100.5338476259578) IDEO Q Ratchathewi, Ratchathewi Bangkok
+11558.7s 934 Done 917: (13.752838632432393,100.5338476259578) IDEO Q Siam - Ratchathewi, Ratchathewi Bangkok
+11564.6s 935 Done 918: (13.720874432432392,100.5763040259578) IDEO Q Sukhumvit 36, Khlong Toei Bangkok
+11570.5s 936 Done 919: (13.762138732432392,100.5371520259578) IDEO Q Victory, Phaya Thai Bangkok
+11576.6s 937 Done 920: (13.755327732432393,100.5673364259578) IDEO Rama 9 - Asoke, Huai Khwang Bangkok
+11582.4s 938 Done 921: (13.778327932432392,100.5744993259578) IDEO Ratchada - Huaykwang, Huai Khwang Bangkok
+11588.4s 939 Done 922: (13.789960332432392,100.5700387259578) IDEO Ratchada - Sutthisan, Din Daeng Bangkok
+11594.5s 940 Done 923: (13.720182732432393,100.5020359259578) IDEO Sathorn - Taksin, Khlong San Bangkok
+11600.1s 941 Done 924: (13.717723932432392,100.4831264259578) IDEO Sathorn - Thapra, Thon Buri Bangkok
+11606.0s 942 Done 925: (13.721903232432393,100.4973601259578) IDEO Sathorn - Wongwian Yai, Khlong San Bangkok
+11611.9s 943 Done 926: (13.712898832432392,100.5896536259578) IDEO Sukhumvit - Rama 4, Khlong Toei Bangkok
+11617.6s 944 Done 927: (13.637930332432392,100.5925288259578) IDEO Sukhumvit 115, Muang Samut Prakarn Samut Prakarn
+11623.3s 945 Done 928: (13.698389932432393,100.6048090259578) IDEO Sukhumvit 93, Phra Khanong Bangkok
+11629.1s 946 Done 929: (13.728938432432393,100.4757400259578) IDEO Tha Phra Interchange, Bangkok Yai Bangkok
+11634.8s 947 Done 930: (13.754428632432392,100.5423020259578) IDEO Verve Ratchaprarop, Ratchathewi Bangkok
+11640.4s 948 Done 931: (13.706195532432393,100.6013897259578) IDEO Verve Sukhumvit, Khlong Toei Bangkok
+11646.3s 949 Done 932: (13.714969532432393,100.4673070259578) IDEO Wutthakat, Chom Thong Bangkok
+11651.9s 950 Done 933: (13.710535532432392,100.6082866259578) IKON Sukhumvit 77, Suan Luang Bangkok
+11657.2s 951 Done 934: (13.720620732432392,100.7184666259578) IRIS Avenue Onnuch - Suvarnabhumi, Lat Krabang Bangkok
+11662.9s 952 Done 935: (13.888296632432393,100.41059782595781) IRIS Westgate Bangyai, Bang Bua Thong Nonthaburi
+11668.5s 953 Done 936: (13.682049532432393,100.4938254259578) ISSI Condo Suksawat, Rat Burana Bangkok
+11674.4s 954 Done 937: (13.727652732432393,100.5281605259578) ITF Silom Palace, Bang Rak Bangkok
+11680.4s 955 Done 938: (13.815717832432393,100.5781801259578) IVORY Ratchada - Ladprao, Chatuchak Bangkok
+11695.8s 956 Done 939: (13.74016817106645,100.5807197928716) Icon I, Watthana Bangkok
+11711.0s 957 Done 940: (13.73791617106645,100.5838224928716) Icon II, Watthana Bangkok
+11716.7s 958 Done 941: (13.736996832432393,100.5846190259578) Icon III, Watthana Bangkok
+11722.6s 959 Done 942: (13.723614632432392,100.5670943259578) Ideal 24, Khlong Toei Bangkok
+11728.3s 960 Done 943: (13.662370532432393,100.6364646259578) Im Fine Bangna, Bang Na Bangkok
+11733.7s 961 Done 944: (18.796213932432394,98.9718218259578) Impress Town Chiangmai, Muang Chiang Mai Chiang Mai
+11739.3s 962 Done 945: (13.728622132432392,100.5855354259578) Impression Ekkamai, Watthana Bangkok
+11745.0s 963 Done 946: (13.776710832432393,100.6623139259578) Incio, Bueng Kum Bangkok
+11750.8s 964 Done 947: (13.754877332432393,100.5393233259578) Indra Condo Ville, Khan Na Yao Bangkok
+11756.3s 965 Done 948: (13.742801632432393,100.4802749259578) Indy Condo, Bangkok Yai Bangkok
+11762.2s 966 Done 949: (12.915220032432392,100.9154354259578) Infiniti Condo, Bang Lamung Chonburi
+11767.5s 967 Done 950: (13.335044732432392,100.9683738259578) Infinity One Chonburi, Muang Chon Buri Chonburi
+11773.1s 968 Done 951: (13.754892432432392,100.6262798259578) Inspire Place ABAC-Rama IX, Bang Kapi Bangkok
+11818.3s 969 Done 952: (13.785436671066451,100.5559850928716) Intamara Place
+11823.9s 970 Done 953: (13.747559532432392,100.5581919259578) Inter Lux Premier Sukhumvit 13, Watthana Bangkok
+11838.5s 971 Done 954: (13.02108027106645,101.1508047928716) Inter Park Condo, Pluak Daeng Rayong
+11956.0s 972 Error getting lat,lon at 955: (42.35393237106645,-71.0519973071284) Intercontinental Residences Hua Hin Condo, Hua Hin Prachaubkirikhan
+11956.0s 973 Done 955: (nan,nan) Intercontinental Residences Hua Hin Condo, Hua Hin Prachaubkirikhan
+11976.2s 974 Done 956: (13.791924232432393,100.5390536259578) Intro Phaholyothin - Pradipat, Bangkok
+11981.7s 975 Done 957: (13.709375732432392,100.53920152595781) Issara Collection Sathorn, Sathon Bangkok
+11987.1s 976 Done 958: (13.716056032432393,100.5857425259578) Issara@42 Sukhumvit, Khlong Toei Bangkok
+11992.6s 977 Done 959: (13.763091332432392,100.5683275259578) Ivy Ampio, Din Daeng Bangkok
+11998.3s 978 Done 960: (13.790861532432393,100.5761807259578) Ivy Ratchada, Huai Khwang Bangkok
+12004.1s 979 Done 961: (13.770303032432393,100.4849189259578) Ivy Residence Pinklao, Bang Phlat Bangkok
+12009.3s 980 Done 962: (13.688346432432393,100.4923818259578) Ivy River, Rat Burana Bangkok
+12015.1s 981 Done 963: (13.723802132432393,100.5267033259578) Ivy Sathorn 10, Bang Rak Bangkok
+12021.0s 982 Done 964: (13.737336532432392,100.5833629259578) Ivy Thonglor, Watthana Bangkok
+12026.1s 983 Done 965: (13.662389232432393,100.4339941259578) J Condo Rama 2, Bang Khun Thian Bangkok
+12047.2s 984 Done 966: (13.686354132432392,100.4203567259578) J Condo Sathorn-Kanlapaphruek, Bangkok
+12068.0s 985 Done 967: (13.743916032432393,100.5814743259578) J.C.Tower, Bangkok
+12073.7s 986 Done 968: (13.770975732432392,100.6081990259578) J.W. Boulevard Srivara, Wang Thonglang Bangkok
+12079.1s 987 Done 969: (13.816709532432393,100.5875047259578) J.W. City Ratchada 32, Chatuchak Bangkok
+12085.0s 988 Done 970: (13.806290032432392,100.6002513259578) J.W. Suite, Lat Phrao Bangkok
+12090.5s 989 Done 971: (13.743916032432393,100.5814743259578) JC Tower, Watthana Bangkok
+12096.1s 990 Done 972: (8.108090532432392,98.3109589259578) JJ Airport Condotel, Thalang Phuket
+12101.5s 991 Done 973: (13.902545132432392,100.5273612259578) JP Smart, Pak Kret Nonthaburi
+12106.8s 992 Done 974: (13.761700832432393,100.5915222259578) JRY Rama 9, Huai Khwang Bangkok
+12112.9s 993 Done 975: (13.924294932432392,100.5978164259578) JW Condo, Don Mueang Bangkok
+12118.0s 994 Done 976: (13.812128032432392,100.7111944259578) JW Station @Ramintra, Min Buri Bangkok
+12123.6s 995 Done 977: (13.737450232432392,100.4375475259578) Jaran Garden, Phasi Charoen Bangkok
+12129.3s 996 Done 978: (13.712737232432392,100.5859021259578) Jasmine Grande Residence, Khlong Toei Bangkok
+12145.0s 997 Done 979: (13.72314137106645,100.5203010928716) Jewelry Trade Center, Bang Rak Bangkok
+12150.3s 998 Done 980: (13.798522232432392,100.5876413259578) Jittrapa Place, Huai Khwang Bangkok
+12156.5s 999 Done 981: (13.773736232432393,100.5782739259578) Johnny Tower, Huai Khwang Bangkok
+12171.7s 1000 Done 982: (12.89014727106645,100.8744979928716) Jomtien Beach Mountain 6, Bang Lamung Chonburi
+12186.7s 1001 Done 983: (12.882662471066451,100.88343989287159) Jomtien Beach Mountain 7, Bang Lamung Chonburi
+12256.8s 1002 Done 984: (12.88158267106645,100.88184809287159) Jomtien Beach Paradise Condo,
+12261.9s 1003 Done 985: (12.891083532432393,100.8757433259578) Jomtien Beach Penthouses, Bang Lamung Chonburi
+12277.4s 1004 Done 986: (12.89251267106645,100.8777717928716) Jomtien Bech Condominium, Bang Lamung Chonburi
+12282.6s 1005 Done 987: (12.899972832432393,100.8681688259578) Jomtien Condotel, Bang Lamung Chonburi
+12388.1s 1006 Done 988: (12.912792171066451,100.8624620928716) Jomtien Hills Condo, Bang Lamung Chonburi
+12393.0s 1007 Done 989: (12.898878332432393,100.8682298259578) Jomtien Plaza Condotel, Bang Lamung Chonburi
+12398.3s 1008 Done 990: (12.900156832432392,100.8697502259578) Jomtien Plaza Residence, Bang Lamung Chonburi
+12403.8s 1009 Done 991: (12.909185132432393,100.8649822259578) Jomtien Sweet Condotel 1, Bang Lamung Chonburi
+12409.1s 1010 Done 992: (12.896950232432392,100.8719540259578) Jomtien Thip Condotel, Bang Lamung Chonburi
+12424.3s 1011 Done 993: (13.752880471066451,100.5388528928716) Juldis Mansion, Ratchathewi Bangkok
+12430.6s 1012 Done 994: (13.765952132432393,100.4964565259578) Juldis River Mansion, Phra Nakhon Bangkok
+12445.6s 1013 Done 995: (16.42000397106645,102.8353354928716) K K Khon Kaen, Muang Khon Kaen Khon Kaen
+12451.0s 1014 Done 996: (13.858949132432393,100.5120259259578) K Line Mansion, Muang Nonthaburi Nonthaburi
+12456.4s 1015 Done 997: (13.750394432432392,100.5874273259578) KALM Penthouse, Huai Khwang Bangkok
+12461.3s 1016 Done 998: (14.062786232432392,100.6104232259578) KAVE TU, Khlong Luang Pathumthani
+12466.4s 1017 Done 999: (14.041534532432392,100.61327712595781) KAVE Town Space, Khlong Luang Pathumthani
+12472.2s 1018 Done 1000: (13.714780932432392,100.6052059259578) KAWA HAUS, Watthana Bangkok
+12477.4s 1019 Done 1001: (13.168683032432392,100.9317125259578) KEEN Centre Sriracha, Si Racha Chonburi
+12483.1s 1020 Done 1002: (13.766568032432392,100.5627031259578) KES Ratchada, Din Daeng Bangkok
+12488.7s 1021 Done 1003: (13.732901532432393,100.5823570259578) KHUN by YOO inspired by Starck, Watthana Bangkok
+12494.2s 1022 Done 1004: (13.747758732432393,100.5565337259578) Kallista Mansion, Watthana Bangkok
+12499.5s 1023 Done 1005: (7.946324732432393,98.2850496259578) Kamala Regent, Kathu Phuket
+12505.3s 1024 Done 1006: (13.723518832432392,100.56991222595781) Kanta Mansion, Khlong Toei Bangkok
+12510.8s 1025 Done 1007: (16.409324132432396,102.84219022595781) Kanyarat Lake View, Muang Khon Kaen Khon Kaen
+12582.2s 1026 Done 1008: (18.290045432432393,99.4910157259578) Kaohom  Condominium Kongta CondoMuang Lampang Lamphang
+12587.2s 1027 Done 1009: (12.633385332432393,101.5643135259578) Kaps Creative, Klaeng Rayong
+12593.1s 1028 Done 1010: (13.745912832432392,100.5496628259578) Karolyn Court, Pathum Wan Bangkok
+12598.2s 1029 Done 1011: (7.832802032432393,98.3002238259578) Karon Butterfly, Muang Phuket Phuket
+12603.9s 1030 Done 1012: (7.818952332432392,98.3126786259578) Kata Ocean View, Muang Phuket Phuket
+12609.1s 1031 Done 1013: (12.897701632432392,100.8728873259578) Katalina Residence, Bang Lamung Chonburi
+12614.8s 1032 Done 1014: (14.064548832432392,100.6093050259578) Kave Ava, Khlong Luang Pathumthani
+12619.6s 1033 Done 1015: (14.039260832432392,100.6184566259578) Kave Condo, Khlong Luang Pathumthani
+12624.8s 1034 Done 1016: (13.802163732432392,100.3112294259578) Kave Mutant Salaya, Phuttha Mon Thon Nakhon Pathom
+12630.0s 1035 Done 1017: (13.839358432432393,100.5824560259578) Kave Seed Kaset, Bang Khen Bangkok
+12635.1s 1036 Done 1018: (14.041542532432393,100.6148730259578) Kave Town Island, Khlong Luang Pathumthani
+12640.2s 1037 Done 1019: (14.041569232432392,100.6115932259578) Kave Town Shift, Khlong Luang Pathumthani
+12645.4s 1038 Done 1020: (14.041542632432392,100.6148714259578) Kave town colony, Khlong Luang Pathumthani
+12651.0s 1039 Done 1021: (13.869182332432393,100.4817921259578) Ken Attitude Rattanathibet, Muang Nonthaburi Nonthaburi
+12658.5s 1040 Done 1022: (13.654803132432393,100.6060673259578) Kensington Condominium Sukhumvit 107 Bearing Station, Muang Samut Prakarn Samut Prakarn
+12664.3s 1041 Done 1023: (13.856820432432393,100.5768659259578) Kensington Kaset Campus, Chatuchak Bangkok
+12669.4s 1042 Done 1024: (13.123713832432392,100.9158755259578) Kensington Laemchabang - Sriracha, Si Racha Chonburi
+12684.4s 1043 Done 1025: (13.845892371066451,100.5807723928716) Kensington Pahol - Kaset, Chatuchak Bangkok
+12689.5s 1044 Done 1026: (13.890603132432393,100.56202862595781) Kensington Place, Lak Si Bangkok
+12694.6s 1045 Done 1027: (14.541736632432393,101.5651676259578) Kensington Place Khao Yai, Pak Chong Nakhon Ratchasima
+12699.8s 1046 Done 1028: (12.703736632432392,101.1872607259578) Kensington Rayong 1, [Kensington ระยอง 1 , 2, Origin Smart City Rayong 1 , 2]
+12705.4s 1047 Done 1029: (13.638622832432393,100.60948672595781) Kensington Sukhumvit - Theparak, Muang Samut Prakarn Samut Prakarn
+12720.5s 1048 Done 1030: (13.82848577106645,100.5686238928716) Keskamol Condotown 2, Bueng Kum Bangkok
+12726.0s 1049 Done 1031: (13.724878832432392,100.5768743259578) Keyne, Khlong Toei Bangkok
+12731.6s 1050 Done 1032: (13.744752532432393,100.56759202595781) Kiarti Thanee City Mansion, Watthana Bangkok
+12737.0s 1051 Done 1033: (12.909098032432393,100.8610353259578) Kieng Talay, Bang Lamung Chonburi
+12742.5s 1052 Done 1034: (13.834021932432393,100.6618395259578) Kirasup Mansion Ville, Khan Na Yao Bangkok
+12748.3s 1053 Done 1035: (13.738327032432393,100.56699432595781) Kirthana Residence, Watthana Bangkok
+12754.3s 1054 Done 1036: (13.774118432432392,100.56953832595781) Klangkrung Resort, Din Daeng Bangkok
+12805.9s 1055 Done 1037: (13.761352832432392,100.5568204259578) Klao Siam Condominium Condo,
+12811.6s 1056 Done 1038: (13.741934232432392,100.5442261259578) Klass Langsuan, Pathum Wan Bangkok
+12816.9s 1057 Done 1039: (13.734848332432392,100.5410162259578) Klass Sarasin-Rajdamri, Pathum Wan Bangkok
+12822.6s 1058 Done 1040: (13.748204932432392,100.5286113259578) Klass Siam, Pathum Wan Bangkok
+12828.4s 1059 Done 1041: (13.725551632432392,100.5314493259578) Klass Silom, Bang Rak Bangkok
+12833.9s 1060 Done 1042: (13.657716632432393,100.6030114259578) KnightsBridge Collage Sukhumvit 107, Muang Samut Prakarn Samut Prakarn
+12839.2s 1061 Done 1043: (13.604989032432393,100.5964203259578) KnightsBridge Sky River Ocean, Muang Samut Prakarn Samut Prakarn
+12845.0s 1062 Done 1044: (13.712980532432393,100.5914013259578) KnightsBridge Space Sukhumvit - Rama 4, Khlong Toei Bangkok
+12850.8s 1063 Done 1045: (13.761918932432392,100.64007392595781) Knightsbridge Collage Ramkhamhaeng, Bang Kapi Bangkok
+12856.3s 1064 Done 1046: (13.850430732432393,100.5163283259578) Knightsbridge Duplex Tiwanon, Muang Nonthaburi Nonthaburi
+12862.1s 1065 Done 1047: (13.879284632432393,100.5979319259578) Knightsbridge Phaholyothin Interchange, Bang Khen Bangkok
+12867.7s 1066 Done 1048: (13.710114132432393,100.6022140259578) Knightsbridge Prime Onnut, Watthana Bangkok
+12873.4s 1067 Done 1049: (13.825166932432392,100.5666166259578) Knightsbridge Prime Ratchayothin, Chatuchak Bangkok
+12879.0s 1068 Done 1050: (13.716944532432393,100.5335353259578) Knightsbridge Prime Sathorn, Sathon Bangkok
+12884.6s 1069 Done 1051: (13.887536532432392,100.6041340259578) Knightsbridge Skycity Saphanmai, Bang Khen Bangkok
+12890.5s 1070 Done 1052: (13.755898932432393,100.56230222595781) Knightsbridge Space Rama 9, Din Daeng Bangkok
+12896.0s 1071 Done 1053: (13.825031032432392,100.5666358259578) Knightsbridge Space Ratchayothin, Chatuchak Bangkok
+12901.5s 1072 Done 1054: (13.637610032432393,100.6087903259578) Knightsbridge Sukhumvit - Thepharak, Muang Samut Prakarn Samut Prakarn
+12907.3s 1073 Done 1055: (13.837312232432392,100.5744437259578) Knightsbridge kaset - society, Chatuchak Bangkok
+12912.4s 1074 Done 1056: (13.150756332432392,100.9178952259578) Knightsbridge the Ocean Sriracha, Si Racha Chonburi
+12927.6s 1075 Done 1057: (13.65751227106645,100.6036512928716) Knightsridge Bearing, Bang Na Bangkok
+12933.2s 1076 Done 1058: (13.826625032432393,100.6517704259578) Koonsuk Ville Nawamin 157, Bueng Kum Bangkok
+12938.3s 1077 Done 1059: (13.302727932432392,100.9002122259578) Kotobuki Place Condominium, Muang Chon Buri Chonburi
+12943.9s 1078 Done 1060: (13.726268132432393,100.5696275259578) Kraam Sukhumvit 26, Khlong Toei Bangkok
+12949.0s 1079 Done 1061: (12.807074332432393,100.9151685259578) Krisda Golden Condotel Cliff & Park, Sattahip Chonburi
+13069.8s 1080 Error getting lat,lon at 1062: (28.59325017106645,-81.3628020071284) Krungthep Thani Tower Condo, Khlong Toei Bangkok
+13069.8s 1081 Done 1062: (nan,nan) Krungthep Thani Tower Condo, Khlong Toei Bangkok
+13084.4s 1082 Done 1063: (17.15833487106645,104.1423981928716) Kulapapruek City Plus Sakon Nakhon, Muang Sakon Nakhon Sakon Nakhon
+13089.7s 1083 Done 1064: (19.876130132432394,99.8316260259578) Kulapapruek Grand Chiang Rai, Muang Chiang Rai Chiang Rai
+13094.8s 1084 Done 1065: (15.116522732432392,104.9009236259578) Kulapapruek Grand Ubon Ratchathani, Muang Ubon Ratchathani Ubon Ratchathani
+13100.5s 1085 Done 1066: (16.409654232432395,102.8405390259578) Kulapapruek Lakeview khonkaen, Muang Khon Kaen Khon Kaen
+13160.8s 1086 Done 1067: (16.25091643243239,103.2588397259578) Kulapapruek Maha Sarakham Condo,
+13176.2s 1087 Done 1068: (13.787654171066452,100.4882727928716) Kuruthanee Grand Condo, Bang Phlat Bangkok
+13182.0s 1088 Done 1069: (13.800553932432393,100.5735874259578) L Loft Ratchada 19, Chatuchak Bangkok
+13197.9s 1089 Done 1070: (13.773067471066451,100.5819983928716) L Style, Huai Khwang Bangkok
+13212.7s 1090 Done 1071: (13.743059971066451,100.5555487928716) L.A. Residence, 38-40 Watthana Bangkok
+13319.0s 1091 Done 1072: (12.55298717106645,99.9616138928716) LA Condo, Hua Hin Prachaubkirikhan
+13432.6s 1092 Done 1073: (12.55298717106645,99.9616138928716) LA Condo, Hua Hin Prachaubkirikhan
+13438.2s 1093 Done 1074: (13.860459032432393,100.5692554259578) LANDMARK AT KASETSART TSH STATION, Lak Si Bangkok
+13444.1s 1094 Done 1075: (13.724460232432392,100.5803754259578) LAVIQ Sukhumvit 57, Watthana Bangkok
+13449.4s 1095 Done 1076: (13.810022132432392,100.5641414259578) LERT UBON SKY LIFE TOWER, Chatuchak Bangkok
+13455.3s 1096 Done 1077: (13.805109632432393,100.5708527259578) LIB Ladprao 20, Chatuchak Bangkok
+13492.9s 1097 Done 1078: (13.764223932432392,100.6156408259578) LIB Ramkhamhaeng 43/1
+13498.5s 1098 Done 1079: (12.928104832432393,100.8948531259578) LK Legend, Bang Lamung Chonburi
+13513.8s 1099 Done 1080: (13.906440771066451,100.5257939928716) LUMPINI PLACE Chaengwattana - Pakkred Station, Pak Kret Nonthaburi
+13519.9s 1100 Done 1081: (13.717081232432392,100.6546900259578) LUMPINI VILLE ONNUT - PHATTHANAKAN, Prawet Bangkok
+13525.7s 1101 Done 1082: (13.824789932432392,100.5647353259578) LYSS Condominium Ratchayothin, Chatuchak Bangkok
+13531.8s 1102 Done 1083: (13.729021132432392,100.5893032259578) La Cascade, Watthana Bangkok
+13537.3s 1103 Done 1084: (13.733735632432392,100.5851756259578) La Citta Delre Thonglor 16, Watthana Bangkok
+13543.0s 1104 Done 1085: (13.731342332432392,100.5837024259578) La Citta Penthouse, Watthana Bangkok
+13548.9s 1105 Done 1086: (13.819859432432393,100.5683400259578) La Maison  Phaholyothin 24, Chatuchak Bangkok
+13554.9s 1106 Done 1087: (13.738523132432393,100.5504237259578) La Maison Ruamrudee, Pathum Wan Bangkok
+13570.9s 1107 Done 1088: (13.726602771066451,100.5622609928716) La Maison Sukhumvit 22, Khlong Toei Bangkok
+13575.9s 1108 Done 1089: (12.859089532432392,100.8982369259578) La Royale Beach Pattaya, Sattahip Chonburi
+13641.6s 1109 Done 1090: (13.66083087106645,100.6068451928716) La Salle Park CondoBang Na Bangkok
+13646.7s 1110 Done 1091: (12.873842832432393,100.8945461259578) La Santir Condo, Bang Lamung Chonburi
+13742.9s 1111 Done 1092: (13.721911332432393,100.5764753259578) La Vie En Rose Condo, Khlong Toei Bangkok
+13747.8s 1112 Done 1093: (13.168824332432392,100.9267486259578) Ladda Condo View, Si Racha Chonburi
+13868.9s 1113 Error getting lat,lon at 1094: (41.91782607106645,-87.6840282071284) Ladda Place Condo Sriracha Condo, Si Racha Chonburi
+13868.9s 1114 Done 1094: (nan,nan) Ladda Place Condo Sriracha Condo, Si Racha Chonburi
+13873.9s 1115 Done 1095: (13.170014232432392,100.9270759259578) Ladda Plus Sriracha, Si Racha Chonburi
+13879.5s 1116 Done 1096: (16.80732473243239,100.2602833259578) Laddawan Mansion, Muang Phitsanulok Phitsanulok
+13885.2s 1117 Done 1097: (13.113279232432392,100.9192383259578) Laemchabang Tower, Si Racha Chonburi
+13960.3s 1118 Done 1098: (12.911177871066451,100.8611522928716) Laguna Bay CondoBang Lamung Chonburi
+13965.2s 1119 Done 1099: (12.909806732432392,100.8611738259578) Laguna Bay 2, Bang Lamung Chonburi
+13970.7s 1120 Done 1100: (12.899329932432392,100.8788655259578) Laguna Beach Resort 2, Bang Lamung Chonburi
+13976.0s 1121 Done 1101: (12.895228832432393,100.8829973259578) Laguna Beach Resort 3 The Maldives, Bang Lamung Chonburi
+13991.2s 1122 Done 1102: (12.90983317106645,100.8622912928716) Laguna Beach Resort Jomtien, Bang Lamung Chonburi
+14057.3s 1123 Done 1103: (12.966662232432393,100.8854331259578) Laguna Heights CondoBang Lamung Chonburi
+14063.1s 1124 Done 1104: (13.731708432432393,100.5615782259578) Lake Avenue, Khlong Toei Bangkok
+14167.7s 1125 Done 1105: (13.73353217106645,100.5604180928716) Lake Condo, Khlong Toei Bangkok
+14172.9s 1126 Done 1106: (13.894512032432392,100.5226045259578) Lakeshore North Condominium, Pak Kret Nonthaburi
+14178.2s 1127 Done 1107: (13.887485532432393,100.5789377259578) Laksi Housing Authority, Lak Si Bangkok
+14243.0s 1128 Done 1108: (18.269794632432394,99.5010264259578) Lampang Housing Authority CondoMuang Lampang Lamphang
+14248.1s 1129 Done 1109: (13.162157032432393,100.9294753259578) Lamtong Condo, Si Racha Chonburi
+14254.2s 1130 Done 1110: (13.755037632432392,100.5837600259578) Landmark @MRTA Station, Huai Khwang Bangkok
+14259.4s 1131 Done 1111: (13.600584132432392,100.8424151259578) Landmark Residence, Bang Bo Samut Prakarn
+14265.0s 1132 Done 1112: (13.739675832432393,100.5428524259578) Langsuan Ville, Pathum Wan Bangkok
+14368.7s 1133 Done 1113: (18.815471571066453,98.9962331928716) Lannanakorn Condo Town CondoMuang Chiang Mai Chiang Mai
+14374.5s 1134 Done 1114: (13.711964432432392,100.5468334259578) Lapa Place, Yan Nawa Bangkok
+14400.7s 1135 Done 1115: (13.737505832432392,100.5619865259578) Las Colinas, Bangkok
+14467.9s 1136 Done 1116: (13.66083087106645,100.6068451928716) Lasalle Park CondoBang Na Bangkok
+14472.7s 1137 Done 1117: (13.595501832432392,100.8349587259578) Latitude Condo, Bang Sao Thong Samut Prakarn
+14478.2s 1138 Done 1118: (8.028967532432393,98.2936660259578) Laya resort phuket, Thalang Phuket
+14483.1s 1139 Done 1119: (8.028083732432393,98.29605032595781) Layan Green Park, Thalang Phuket
+14489.2s 1140 Done 1120: (13.784112532432392,100.5122506259578) Lazio Sriyan, Dusit Bangkok
+14494.5s 1141 Done 1121: (12.768873132432393,100.9015251259578) Le Beach Bang Sarey, Sattahip Chonburi
+14628.4s 1142 Done 1122: (13.75776677106645,100.5716125928716) Le Celeste Rama 9 - Condo, Bang Kapi Bangkok
+14633.8s 1143 Done 1123: (13.778104232432392,100.6196078259578) Le Champs Premium, Wang Thonglang Bangkok
+14640.0s 1144 Done 1124: (13.748127832432392,100.5940607259578) Le Chateau, Huai Khwang Bangkok
+14645.5s 1145 Done 1125: (13.729988832432392,100.5919760259578) Le Chateau Mansion, Watthana Bangkok
+14651.4s 1146 Done 1126: (13.737937732432393,100.5925406259578) Le Cosi, Watthana Bangkok
+14657.4s 1147 Done 1127: (13.736219132432392,100.56005072595781) Le Cote Sukhumvit 14, Khlong Toei Bangkok
+14663.1s 1148 Done 1128: (13.731025132432393,100.5827285259578) Le Cote Thonglor 8, Watthana Bangkok
+14668.7s 1149 Done 1129: (13.685335132432392,100.6095550259578) Le Crique Sukhumvit 64/2, Phra Khanong Bangkok
+14674.4s 1150 Done 1130: (13.714271032432393,100.5932142259578) Le Luk, Watthana Bangkok
+14680.1s 1151 Done 1131: (13.787454732432392,100.5439952259578) Le Monaco Residence Ari, Phaya Thai Bangkok
+14685.5s 1152 Done 1132: (13.725825532432392,100.5850904259578) Le Nice Ekamai, Watthana Bangkok
+14690.9s 1153 Done 1133: (13.737587332432392,100.5626303259578) Le Premier 1, Watthana Bangkok
+14696.2s 1154 Done 1134: (13.725175132432392,100.5821500259578) Le Premier 2, Watthana Bangkok
+14702.0s 1155 Done 1135: (13.733159532432392,100.5706363259578) Le Raffine Jambu Dvipa Sukhumvit 39, Watthana Bangkok
+14707.3s 1156 Done 1136: (13.734190832432393,100.5662520259578) Le Raffine Jambunuda Sukhumvit 31, Watthana Bangkok
+14713.2s 1157 Done 1137: (13.725963632432393,100.5671574259578) Le Raffine Sukhumvit 24, Khlong Toei Bangkok
+14719.3s 1158 Done 1138: (13.779100232432393,100.5412276259578) Le Rich @ Aree station, Phaya Thai Bangkok
+14725.2s 1159 Done 1139: (13.690899332432393,100.5343879259578) Le Rich @ Rama 3, Yan Nawa Bangkok
+14731.3s 1160 Done 1140: (13.789689032432392,100.5719884259578) Le Rich Ratchada - Sutthisarn, Din Daeng Bangkok
+14737.0s 1161 Done 1141: (13.690899332432393,100.5343879259578) Le Rich Sathorn - Satupradit, Yan Nawa Bangkok
+14742.5s 1162 Done 1142: (13.957077032432393,100.5784801259578) Leap Condominium, Muang Pathum Thani Pathumthani
+14748.2s 1163 Done 1143: (13.646998832432393,100.6012789259578) Lesto Condo Sukhumvit 113 - Samrong Station, Muang Samut Prakarn Samut Prakarn
+14753.9s 1164 Done 1144: (13.762535532432393,100.5916790259578) Leticia Rama 9, Huai Khwang Bangkok
+14759.2s 1165 Done 1145: (13.625043732432392,100.7593410259578) Level Bang na, Bang Plee Samut Prakarn
+14765.1s 1166 Done 1146: (13.805196632432393,100.5699178259578) Levo Ladprao 18, Chatuchak Bangkok
+14786.5s 1167 Done 1147: (13.746955632432392,100.5561434259578) Liberty Park, Bangkok
+14839.1s 1168 Done 1148: (13.746955632432392,100.5561434259578) Liberty Park 2 Condo,
+14844.7s 1169 Done 1149: (13.740540632432392,100.4628649259578) Library Houze Charan 13, Bangkok Yai Bangkok
+14851.1s 1170 Done 1150: (13.717515232432392,100.4770322259578) Life @ BTS Tha - Phra, Thon Buri Bangkok
+14856.9s 1171 Done 1151: (13.807452632432392,100.5701180259578) Life @ Ladprao 18, Chatuchak Bangkok
+14862.8s 1172 Done 1152: (13.789369732432393,100.5474763259578) Life @ Phahon - Ari, Phaya Thai Bangkok
+14868.5s 1173 Done 1153: (13.796724332432392,100.5528552259578) Life @ Phahon 18, Chatuchak Bangkok
+14875.2s 1174 Done 1154: (13.803418432432393,100.57784392595781) Life @ Ratchada, Chatuchak Bangkok
+14880.6s 1175 Done 1155: (13.782959932432393,100.5745865259578) Life @ Ratchada - Huay Kwang, Huai Khwang Bangkok
+14886.1s 1176 Done 1156: (13.790934932432393,100.57465722595781) Life @ Ratchada - Suthisan, Huai Khwang Bangkok
+14891.8s 1177 Done 1157: (13.722522632432392,100.5271397259578) Life @ Sathorn 10, Bang Rak Bangkok
+14897.7s 1178 Done 1158: (13.717227632432392,100.5891513259578) Life @ Sukhumvit 65, Watthana Bangkok
+14903.4s 1179 Done 1159: (13.716711632432393,100.5901122259578) Life @ Sukhumvit 67, Watthana Bangkok
+14915.0s 1180 Done 1160: (13.750524832432392,100.5647736259578) Life Asoke, Bangkok
+14920.4s 1181 Done 1161: (13.754435032432392,100.5635442259578) Life Asoke - Rama 9, Ratchathewi Bangkok
+14926.3s 1182 Done 1162: (13.754194832432393,100.5632043259578) Life Asoke Hype, Ratchathewi Bangkok
+14931.7s 1183 Done 1163: (18.842085632432394,98.9974888259578) Life Condo chiangmai, Muang Chiang Mai Chiang Mai
+14946.9s 1184 Done 1164: (13.817116871066451,100.56356329287159) Life Ladprao, Chatuchak Bangkok
+14952.6s 1185 Done 1165: (13.815888232432393,100.56290782595781) Life Ladprao Valley, Chatuchak Bangkok
+14958.2s 1186 Done 1166: (13.747860632432392,100.5487638259578) Life One Wireless, Pathum Wan Bangkok
+14963.8s 1187 Done 1167: (13.818913732432392,100.5636966259578) Life Phahon - Ladprao, Chatuchak Bangkok
+14969.8s 1188 Done 1168: (13.776095532432393,100.4853155259578) Life Pinklao, Bang Phlat Bangkok
+14975.5s 1189 Done 1169: (13.719601232432392,100.5621299259578) Life Rama 4 - Asoke, Khlong Toei Bangkok
+14981.7s 1190 Done 1170: (13.782959932432393,100.5745865259578) Life Ratchadapisek, Din Daeng Bangkok
+14987.4s 1191 Done 1171: (13.717077232432393,100.4791173259578) Life Sathorn Sierra, Thon Buri Bangkok
+14993.2s 1192 Done 1172: (13.711510232432392,100.5947745259578) Life Sukhumvit 48, Khlong Toei Bangkok
+14999.1s 1193 Done 1173: (13.694985732432393,100.6035787259578) Life Sukhumvit 62, Phra Khanong Bangkok
+15004.7s 1194 Done 1174: (12.967800032432393,100.9016815259578) Life Vela Casa, Bang Lamung Chonburi
+15009.8s 1195 Done 1175: (13.605637732432392,100.8401507259578) Light stage condo, Bang Sao Thong Samut Prakarn
+15076.8s 1196 Done 1176: (13.744461432432393,100.5669617259578) Lily House CondoWatthana Bangkok
+15082.6s 1197 Done 1177: (13.728565432432392,100.5755241259578) Liv@49, Watthana Bangkok
+15088.5s 1198 Done 1178: (13.743669432432393,100.5545452259578) Liv@5, Watthana Bangkok
+15094.2s 1199 Done 1179: (13.290568132432393,100.9294687259578) Living Avenue Bangsaen, Muang Chon Buri Chonburi
+15099.9s 1200 Done 1180: (13.798820632432392,100.5831096259578) Living Nest Ladprao 44, Huai Khwang Bangkok
+15105.2s 1201 Done 1181: (13.763401732432392,100.6404549259578) Living Nest Ramkhamhaeng, Bang Kapi Bangkok
+15111.2s 1202 Done 1182: (13.745902432432393,100.5931824259578) Living Place Condominium, Huai Khwang Bangkok
+15126.3s 1203 Done 1183: (13.76934217106645,100.6380676928716) Living Place Ladprao, Bang Kapi Bangkok
+15141.7s 1204 Done 1184: (13.76732127106645,100.6248143928716) Living Place Ramkhamhaeng, Saphan Sung Bangkok
+15147.2s 1205 Done 1185: (13.747964832432393,100.5937920259578) Living Place Sunwichai 1, Huai Khwang Bangkok
+15210.2s 1206 Error getting lat,lon at 1186: (30.177011532432395,-85.8078144740422) Long Beach Condo Condo, Sattahip Chonburi
+15210.2s 1207 Done 1186: (nan,nan) Long Beach Condo Condo, Sattahip Chonburi
+15230.7s 1208 Done 1187: (13.792964032432392,100.5592630259578) Lot 29, Bangkok
+15236.5s 1209 Done 1188: (13.905624332432392,100.5219831259578) Lotus Condotown, Pak Kret Nonthaburi
+15242.4s 1210 Done 1189: (13.800088032432393,100.6065957259578) Lucas Garden - Family House, Lat Phrao Bangkok
+15248.0s 1211 Done 1190: (13.803009032432392,100.5692834259578) Lugano Ladprao 18, Chatuchak Bangkok
+15253.6s 1212 Done 1191: (13.774825732432392,100.6417587259578) Lumpini Center Happyland, Bang Kapi Bangkok
+15259.3s 1213 Done 1192: (13.771542932432393,100.63712562595781) Lumpini Center Ladprao 111, Bang Kapi Bangkok
+15265.4s 1214 Done 1193: (13.779635332432392,100.6427877259578) Lumpini Center Nawamin, Bang Kapi Bangkok
+15271.4s 1215 Done 1194: (13.713224232432392,100.6043788259578) Lumpini Center Sukhumvit 77, Suan Luang Bangkok
+15277.1s 1216 Done 1195: (13.707494232432392,100.4211328259578) Lumpini Condo Town Bangkhae, Bang Khae Bangkok
+15292.6s 1217 Done 1196: (13.76843577106645,100.6159845928716) Lumpini Condo Town Bodindecha - Ramkhamhaeng, Wang Thonglang Bangkok
+15298.4s 1218 Done 1197: (13.355072932432392,100.9870194259578) Lumpini Condo Town Chonburi - Sukhumvit, Muang Chon Buri Chonburi
+15314.2s 1219 Done 1198: (13.774877271066451,100.6587709928716) Lumpini Condo Town Nida - Sereethai 2, Bueng Kum Bangkok
+15319.9s 1220 Done 1199: (13.775652232432392,100.6583909259578) Lumpini Condo Town Nida - Serithai, Bueng Kum Bangkok
+15335.2s 1221 Done 1200: (12.96471247106645,100.9091125928716) Lumpini Condo Town North Pattaya - Sukhumvit, Bang Lamung Chonburi
+15340.8s 1222 Done 1201: (13.862848032432392,100.6132301259578) Lumpini Condo Town Raminthra - Latplakhao, Bang Khen Bangkok
+15355.9s 1223 Done 1202: (13.858863171066451,100.6113139928716) Lumpini Condo Town Raminthra - Latplakhao 2, Bang Khen Bangkok
+15370.6s 1224 Done 1203: (13.86284917106645,100.6132287928716) Lumpini Condo Town Raminthra - Nawamin, Khan Na Yao Bangkok
+15376.1s 1225 Done 1204: (13.872613332432392,100.6037140259578) Lumpini Condo Town Ramintra - Laksi, Bang Khen Bangkok
+15437.9s 1226 Done 1205: (13.866859471066451,100.48994679287159) Lumpini Condo Town Ratanathibet Condo,
+15443.4s 1227 Done 1206: (13.737122532432393,100.7459196259578) Lumpini Condo Town Romklao - Suvarnabhumi, Lat Krabang Bangkok
+15448.8s 1228 Done 1207: (13.654556132432392,100.6716831259578) Lumpini Mega city Bangna, Bang Plee Samut Prakarn
+15454.3s 1229 Done 1208: (13.625931532432393,100.6291673259578) Lumpini Mixx Thepharak - Srinakarin, Muang Samut Prakarn Samut Prakarn
+15469.2s 1230 Done 1209: (12.788860771066451,99.98168189287159) Lumpini Park Beach Cha Am, Cha-Am Petchburi
+15474.3s 1231 Done 1210: (12.870109832432393,100.8912174259578) Lumpini Park Beach Jomtien, Bang Lamung Chonburi
+15479.9s 1232 Done 1211: (13.787002432432393,100.4728796259578) Lumpini Park Boromratchachonni - Sirindhorn, Bang Phlat Bangkok
+15485.3s 1233 Done 1212: (13.793887032432393,100.6522025259578) Lumpini Park Nawamin - Si Burapha, Bueng Kum Bangkok
+15491.0s 1234 Done 1213: (13.832877632432393,100.57230902595781) Lumpini Park Phahon 32, Chatuchak Bangkok
+15496.6s 1235 Done 1214: (13.710819332432392,100.3829917259578) Lumpini Park Phetkasem 98, Bang Khae Bangkok
+15502.6s 1236 Done 1215: (13.710819332432392,100.3829917259578) Lumpini Park Phetkasem 98 Phase 2, Bang Khae Bangkok
+15508.0s 1237 Done 1216: (13.780693332432392,100.4754041259578) Lumpini Park Pinklao, Bang Phlat Bangkok
+15513.8s 1238 Done 1217: (13.753201432432393,100.5762881259578) Lumpini Park Rama 9 - Ratchada, Huai Khwang Bangkok
+15519.5s 1239 Done 1218: (13.863605132432392,100.5028756259578) Lumpini Park Rattanathibet - Ngamwongwan, Muang Nonthaburi Nonthaburi
+15524.8s 1240 Done 1219: (13.679175532432392,100.5277880259578) Lumpini Park Riverside Rama 3, Yan Nawa Bangkok
+15530.6s 1241 Done 1220: (13.797188832432392,100.5584697259578) Lumpini Park Vibhavadi - Chatuchak, Chatuchak Bangkok
+15592.7s 1242 Done 1221: (13.72490097106645,100.5463040928716) Lumpini Park View Condo,
+15598.9s 1243 Done 1222: (13.672879532432393,100.6370024259578) Lumpini Place Bangna Km.3, Bang Na Bangkok
+15614.3s 1244 Done 1223: (13.784432071066451,100.46111729287159) Lumpini Place Borom Ratchachonni - Pinklao, Taling Chan Bangkok
+15635.3s 1245 Done 1224: (13.683611832432392,100.5491857259578) Lumpini Place Narathiwas - Chaopraya, Bangkok
+15640.9s 1246 Done 1225: (13.700419732432392,100.5350251259578) Lumpini Place Narathiwas 24, Yan Nawa Bangkok
+15656.0s 1247 Done 1226: (13.68361297106645,100.5491843928716) Lumpini Place Narathiwatratchanakarin, Yan Nawa Bangkok
+15677.2s 1248 Done 1227: (13.791006832432393,100.5435103259578) Lumpini Place Phahol - Saphankhwai, Bangkok
+15683.1s 1249 Done 1228: (13.775173032432393,100.4810911259578) Lumpini Place Pinklao 1, Bang Phlat Bangkok
+15688.7s 1250 Done 1229: (13.779913432432393,100.4742602259578) Lumpini Place Pinklao 2, Bangkok Noi Bangkok
+15694.3s 1251 Done 1230: (13.674733432432392,100.5397678259578) Lumpini Place Rama 3 - Riverine, Yan Nawa Bangkok
+15700.3s 1252 Done 1231: (13.712820532432392,100.5825551259578) Lumpini Place Rama 4 - Kluaynamthai, Khlong Toei Bangkok
+15705.8s 1253 Done 1232: (13.692983132432392,100.5018558259578) Lumpini Place Rama III - Charoen Krung, Bang Kho Laem Bangkok
+15711.6s 1254 Done 1233: (13.690412932432393,100.5049001259578) Lumpini Place Rama III - Riverview, Bang Kho Laem Bangkok
+15726.6s 1255 Done 1234: (13.71282167106645,100.5825537928716) Lumpini Place Rama IV - Sathorn, Yan Nawa Bangkok
+15732.5s 1256 Done 1235: (13.758181432432393,100.5716012259578) Lumpini Place Rama IX - Ratchada, Huai Khwang Bangkok
+15738.4s 1257 Done 1236: (13.773333032432392,100.4927634259578) Lumpini Place Rama VIII, Bang Phlat Bangkok
+15753.8s 1258 Done 1237: (13.722818871066451,100.5607496928716) Lumpini Place Rama4 - Ratchadaphisek, Khlong Toei Bangkok
+15759.7s 1259 Done 1238: (13.871412032432392,100.6026163259578) Lumpini Place Raminthra - Laksi, Bang Khen Bangkok
+15765.9s 1260 Done 1239: (13.696792832432392,100.5326426259578) Lumpini Place Ratchada - Sathu, Yan Nawa Bangkok
+15771.6s 1261 Done 1240: (13.708653932432393,100.4810938259578) Lumpini Place Ratchada - Thapra, Thon Buri Bangkok
+15777.0s 1262 Done 1241: (13.830044132432393,100.57090632595781) Lumpini Place Ratchayothin, Chatuchak Bangkok
+15792.4s 1263 Done 1242: (13.71105657106645,100.5348848928716) Lumpini Place Sathorn, Sathon Bangkok
+15798.2s 1264 Done 1243: (13.737071232432392,100.6419425259578) Lumpini Place Srinakarin - Huamark Station, Suan Luang Bangkok
+15804.2s 1265 Done 1244: (13.720615132432393,100.5406486259578) Lumpini Place Suanplu - Sathorn, Sathon Bangkok
+15809.7s 1266 Done 1245: (13.691494732432393,100.4806244259578) Lumpini Place Suksawat - Rama 2, Chom Thong Bangkok
+15815.4s 1267 Done 1246: (13.807994732432393,100.5308136259578) Lumpini Place Taopoon Interchange, Bang Sue Bangkok
+15821.3s 1268 Done 1247: (17.39712433243239,102.8047538259578) Lumpini Place UD - Posri, Muang Udon Thani Udon Thani
+15827.2s 1269 Done 1248: (13.700010032432392,100.5380367259578) Lumpini Place Water Cliff, Yan Nawa Bangkok
+15832.2s 1270 Done 1249: (12.779675432432393,99.9761615259578) Lumpini Seaview Cha-Am, Cha-Am Petchburi
+15837.4s 1271 Done 1250: (12.871364632432392,100.8934184259578) Lumpini Seaview Jomtien, Bang Lamung Chonburi
+15843.3s 1272 Done 1251: (13.783025532432392,100.49107582595781) Lumpini Selected Charan 65 - Sirindhorn Station, Bang Phlat Bangkok
+15864.1s 1273 Done 1252: (13.788702232432392,100.5537119259578) Lumpini Selected Sutthisan - Saphan Khwai, Bangkok
+15869.9s 1274 Done 1253: (13.763178432432392,100.54647352595781) Lumpini Suite Din Daeng - Ratchaprarop, Din Daeng Bangkok
+15875.2s 1275 Done 1254: (13.750329732432393,100.5555372259578) Lumpini Suite Phetchaburi - Makkasan, Ratchathewi Bangkok
+15880.7s 1276 Done 1255: (13.773054232432392,100.4828054259578) Lumpini Suite Pinklao, Bang Phlat Bangkok
+15886.6s 1277 Done 1256: (13.773333032432392,100.4927634259578) Lumpini Suite Rama Vlll, Bang Phlat Bangkok
+15892.2s 1278 Done 1257: (13.698714732432393,100.5393741259578) Lumpini Suite Ratchada - Rama III, Yan Nawa Bangkok
+15897.8s 1279 Done 1258: (13.730006032432392,100.5720989259578) Lumpini Suite Sukhumvit 41, Watthana Bangkok
+15912.8s 1280 Done 1259: (13.978177671066451,100.63237519287159) Lumpini Township Rangsit - Klong 1, Thanyaburi Pathumthani
+15918.5s 1281 Done 1260: (13.710802632432392,100.4204586259578) Lumpini Ville Bangkae, Bang Khae Bangkok
+15933.9s 1282 Done 1261: (13.908911171066451,100.5024426928716) Lumpini Ville Chaengwatthana - Pakkret, Pak Kret Nonthaburi
+15948.4s 1283 Done 1262: (13.908911171066451,100.5024426928716) Lumpini Ville Chaengwatthana - Pakkret Station, Pak Kret Nonthaburi
+15963.3s 1284 Done 1263: (13.894563171066451,100.5780715928716) Lumpini Ville Chaengwatthana 10, Lak Si Bangkok
+15969.3s 1285 Done 1264: (13.746663932432392,100.4703395259578) Lumpini Ville Charan - Fai Chai, Bangkok Noi Bangkok
+15975.1s 1286 Done 1265: (13.771454232432392,100.5836707259578) Lumpini Ville Cultural Center, Huai Khwang Bangkok
+15980.7s 1287 Done 1266: (13.661715032432392,100.6240454259578) Lumpini Ville Lasalle - Bearing, Bang Na Bangkok
+15986.7s 1288 Done 1267: (13.795855232432393,100.5927595259578) Lumpini Ville Latphrao - Chokchai 4, Wang Thonglang Bangkok
+16002.0s 1289 Done 1268: (13.837331371066451,100.5045637928716) Lumpini Ville Nakhon In - Reverview, Muang Nonthaburi Nonthaburi
+16017.0s 1290 Done 1269: (12.958668171066451,100.8928119928716) Lumpini Ville Naklua - Wongamat, Bang Lamung Chonburi
+16022.5s 1291 Done 1270: (13.721141332432392,100.7038369259578) Lumpini Ville On Nut - Lat Krabang, Lat Krabang Bangkok
+16028.5s 1292 Done 1271: (13.707156632432392,100.6341613259578) Lumpini Ville On Nut 46, Suan Luang Bangkok
+16034.3s 1293 Done 1272: (13.721141332432392,100.7038369259578) Lumpini Ville Onnut - Lat Krabang 2, Prawet Bangkok
+16063.7s 1294 Done 1273: (13.788450971066451,100.5514403928716) Lumpini Ville Phahol - Suthisarn, Bangkok
+16070.0s 1295 Done 1274: (13.737265232432392,100.6237676259578) Lumpini Ville Phatanakan - Srinakarin, Suan Luang Bangkok
+16075.5s 1296 Done 1275: (13.736180032432392,100.6168944259578) Lumpini Ville Phatthanakan - New Phetchaburi, Suan Luang Bangkok
+16081.2s 1297 Done 1276: (13.824815832432392,100.5029513259578) Lumpini Ville Phibulsongkhram - Riverview, Muang Nonthaburi Nonthaburi
+16096.4s 1298 Done 1277: (13.704911671066451,100.5248928928716) Lumpini Ville Phra Mae Maree - Sathorn, Sathon Bangkok
+16101.8s 1299 Done 1278: (13.852563932432393,100.5434985259578) Lumpini Ville Prachachuen - Phongphet, Muang Nonthaburi Nonthaburi
+16116.7s 1300 Done 1279: (13.845842971066451,100.54208359287159) Lumpini Ville Prachachuen - Phongphet 2, Bang Sue Bangkok
+16122.2s 1301 Done 1280: (13.868670432432392,100.47391432595781) Lumpini Ville Pranangklao - Riverview, Muang Nonthaburi Nonthaburi
+16127.8s 1302 Done 1281: (13.871632232432393,100.6038112259578) Lumpini Ville Ramintra - Laksi, Bang Khen Bangkok
+16133.6s 1303 Done 1282: (13.753482032432393,100.6307824259578) Lumpini Ville Ramkhamhaeng 26, Bang Kapi Bangkok
+16139.1s 1304 Done 1283: (13.761895432432393,100.6409035259578) Lumpini Ville Ramkhamhaeng 44, Bang Kapi Bangkok
+16144.6s 1305 Done 1284: (13.762914132432392,100.6494976259578) Lumpini Ville Ramkhamhaeng 60/2, Bang Kapi Bangkok
+16159.6s 1306 Done 1285: (13.68730917106645,100.4922579928716) Lumpini Ville Ratburana - Riverview, Rat Burana Bangkok
+16165.5s 1307 Done 1286: (13.690416032432392,100.4892903259578) Lumpini Ville Ratburana - Riverview 2, Rat Burana Bangkok
+16171.0s 1308 Done 1287: (13.737260032432392,100.4341799259578) Lumpini Ville Ratchaphruek - Bangwaek, Phasi Charoen Bangkok
+16176.9s 1309 Done 1288: (13.686033832432393,100.6335820259578) Lumpini Ville Sukhumvit 101/1 - Punnawithi, Phra Khanong Bangkok
+16182.7s 1310 Done 1289: (13.654797932432393,100.5945588259578) Lumpini Ville Sukhumvit 76 - Bearing Station, Muang Samut Prakarn Samut Prakarn
+16188.1s 1311 Done 1290: (13.654797932432393,100.5945588259578) Lumpini Ville Sukhumvit 76 - Bearing Station 2, Muang Samut Prakarn Samut Prakarn
+16193.3s 1312 Done 1291: (13.712183132432392,100.60534182595781) Lumpini Ville Sukhumvit 77, Suan Luang Bangkok
+16230.1s 1313 Done 1292: (13.712166632432393,100.6071627259578) Lumpini Ville Sukhumvit 77-2
+16235.2s 1314 Done 1293: (13.654500132432393,100.60450092595781) Lumpini Ville Sukhumvit109 - Bearing, Muang Samut Prakarn Samut Prakarn
+16250.2s 1315 Done 1294: (13.684277471066451,100.4882049928716) Lumpini Ville Suksawat - Rama 2, Chom Thong Bangkok
+16255.3s 1316 Done 1295: (13.854756632432393,100.5161705259578) Lutino Condo, Muang Nonthaburi Nonthaburi
+16270.5s 1317 Done 1296: (16.463844571066453,102.8232603928716) Luxury Condominium, Muang Khon Kaen Khon Kaen
+16275.8s 1318 Done 1297: (13.885409632432392,100.5950069259578) M Heritage, Sai Mai Bangkok
+16281.1s 1319 Done 1298: (13.797261032432392,100.5517908259578) M Jatujak, Chatuchak Bangkok
+16287.1s 1320 Done 1299: (13.816302432432392,100.5627833259578) M Ladprao, Chatuchak Bangkok
+16292.7s 1321 Done 1300: (13.760891032432392,100.5362203259578) M Phayathai, Ratchathewi Bangkok
+16298.7s 1322 Done 1301: (13.727140132432393,100.5272123259578) M Silom, Bang Rak Bangkok
+16304.5s 1323 Done 1302: (13.915199532432393,100.5401125259578) M Society, Pak Kret Nonthaburi
+16310.0s 1324 Done 1303: (13.731010232432393,100.5870127259578) M Thonglor 10, Watthana Bangkok
+16315.7s 1325 Done 1304: (13.733433832432393,100.5690897259578) M Towers, Watthana Bangkok
+16321.3s 1326 Done 1305: (13.763958032432393,100.5399982259578) MAESTRO 07 VICTORY MONUMENT, Ratchathewi Bangkok
+16326.6s 1327 Done 1306: (13.865219032432393,100.6171487259578) MAGNIX Ramintra 21, Bang Khen Bangkok
+16332.3s 1328 Done 1307: (13.729643732432393,100.5711119259578) MARQUE Sukhumvit, Khlong Toei Bangkok
+16338.3s 1329 Done 1308: (13.724575032432393,100.5847701259578) MARU EKKAMAI 2, Watthana Bangkok
+16343.9s 1330 Done 1309: (13.807621532432393,100.5711718259578) MARU LADPRAO 15, Chatuchak Bangkok
+16349.7s 1331 Done 1310: (13.837292332432392,100.5838291259578) MAXXI Condominium, Chatuchak Bangkok
+16370.3s 1332 Done 1311: (13.787802732432393,100.5471088259578) MB Grand, Bangkok
+16385.5s 1333 Done 1312: (12.68384047106645,101.2251367928716) ME Condo Rayong, Muang Rayong Rayong
+16391.2s 1334 Done 1313: (13.810939332432392,100.5644736259578) METRIS Ladprao, Chatuchak Bangkok
+16396.5s 1335 Done 1314: (7.961427332432392,98.2844051259578) MGallery Residences, MontAzure Lakeside
+16401.9s 1336 Done 1315: (13.716986732432392,100.5809030259578) MIELER SUKHUMVIT 40, Khlong Toei Bangkok
+16407.5s 1337 Done 1316: (13.722360532432392,100.5830626259578) MODE Sukhumvit 61, Watthana Bangkok
+16413.2s 1338 Done 1317: (13.702261032432393,100.5892068259578) MODIZ Sukhumvit 50, Khlong Toei Bangkok
+16418.5s 1339 Done 1318: (13.689010732432392,100.6025203259578) MONIIQ Sukhumvit  64, Phra Khanong Bangkok
+16433.6s 1340 Done 1319: (14.06583797106645,100.6456013928716) MT Condominium, Thanyaburi Pathumthani
+16438.7s 1341 Done 1320: (14.116504632432392,100.61893842595781) MT Prestige Phaholyothin, Khlong Luang Pathumthani
+16444.2s 1342 Done 1321: (14.065836832432392,100.6456027259578) MT Residences, Khlong Luang Pathumthani
+16510.5s 1343 Done 1322: (13.717898132432392,100.5880948259578) MULBERRY GROVE SUKHUMVIT Condo,
+16516.0s 1344 Done 1323: (13.737864432432392,100.56258372595781) MUNIQ Sukhumvit 23, Watthana Bangkok
+16521.5s 1345 Done 1324: (13.772072232432393,100.6151821259578) Ma Maison Condo, Wang Thonglang Bangkok
+16527.2s 1346 Done 1325: (13.717730532432393,100.5478844259578) Maestro 01 Sathorn - Yenakat, Sathon Bangkok
+16533.1s 1347 Done 1326: (13.735828932432392,100.5506521259578) Maestro 02 Ruamrudee, Pathum Wan Bangkok
+16538.4s 1348 Done 1327: (13.763094132432393,100.5647637259578) Maestro 03 Ratchada - Rama 9, Din Daeng Bangkok
+16544.6s 1349 Done 1328: (13.753792332432392,100.5296217259578) Maestro 12 Ratchathewi, Ratchathewi Bangkok
+16550.5s 1350 Done 1329: (13.750872932432392,100.5292924259578) Maestro 14 Siam - Ratchathewi, Ratchathewi Bangkok
+16556.2s 1351 Done 1330: (13.796834732432393,100.5696116259578) Maestro 19 Ratchada 19 - Vipha, Din Daeng Bangkok
+16562.2s 1352 Done 1331: (13.739853832432393,100.5726383259578) Maestro 39 Sukhumvit 39, Watthana Bangkok
+16568.3s 1353 Done 1332: (13.742324732432392,100.54146402595781) Magnolias Ratchadamri Boulevard, Pathum Wan Bangkok
+16573.9s 1354 Done 1333: (13.638361332432392,100.6732023259578) Magnolias Southern California Bangna - KM.7, Bang Plee Samut Prakarn
+16695.1s 1355 Error getting lat,lon at 1334: (32.77932037106645,-79.9273739071284) Magnolias Waterfront Residences Condo, Khlong San Bangkok
+16695.1s 1356 Done 1334: (nan,nan) Magnolias Waterfront Residences Condo, Khlong San Bangkok
+16700.7s 1357 Done 1335: (13.769626632432393,100.6221703259578) Mahadthai Condotel, Wang Thonglang Bangkok
+16715.7s 1358 Done 1336: (18.76151887106645,98.9903943928716) Mahidol Condo Chiang Mai, Muang Chiang Mai Chiang Mai
+16783.4s 1359 Done 1337: (13.722582332432392,100.5665929259578) Mahogany Tower CondoKhlong Toei Bangkok
+16789.1s 1360 Done 1338: (13.792035132432392,100.54747552595781) Maison De Ville, Phaya Thai Bangkok
+16794.7s 1361 Done 1339: (13.896174732432392,100.5707222259578) Maison Garden Chaeng Watthana, Lak Si Bangkok
+16800.8s 1362 Done 1340: (13.750219432432392,100.5795268259578) Maitria Residence Rama 9 Bangkok, Huai Khwang Bangkok
+16806.6s 1363 Done 1341: (13.832660832432392,100.5018025259578) Majestic Tower, Muang Nonthaburi Nonthaburi
+16812.5s 1364 Done 1342: (13.749331532432393,100.5434236259578) Manhattan Chidlom, Ratchathewi Bangkok
+16881.4s 1365 Done 1343: (13.657807532432393,100.6101085259578) Manhattan Park Residences CondoBang Na Bangkok
+16886.7s 1366 Done 1344: (13.881668632432392,100.4858543259578) Manor Sanambinnam, Muang Nonthaburi Nonthaburi
+16901.6s 1367 Done 1345: (13.64745937106645,100.6290567928716) Mansion 107, Muang Samut Prakarn Samut Prakarn
+16907.1s 1368 Done 1346: (13.163994932432393,100.9199278259578) Marina Bay Front Sriracha, Si Racha Chonburi
+16913.2s 1369 Done 1347: (12.909109232432392,100.8843374259578) Marina Golden Bay Pattaya, Bang Lamung Chonburi
+16918.1s 1370 Done 1348: (12.946640432432392,100.8855445259578) Markland Condominiums, Bang Lamung Chonburi
+16923.5s 1371 Done 1349: (12.543838432432393,99.9643591259578) Marrakesh Hua Hin Residences, Hua Hin Prachaubkirikhan
+16938.7s 1372 Done 1350: (13.74440877106645,100.5300681928716) Marsh Tien Zieng, Sathon Bangkok
+16960.7s 1373 Done 1351: (13.712515932432392,100.4996483259578) Master View Executive Place, Bangkok
+16975.5s 1374 Done 1352: (13.85983197106645,100.5690745928716) Max Condominium Vibhavadi, Lak Si Bangkok
+16991.0s 1375 Done 1353: (13.855369771066451,100.54202589287159) Max Ngam Wongwan, Muang Nonthaburi Nonthaburi
+16996.9s 1376 Done 1354: (12.928659832432393,100.8946593259578) Maxx City Condotel, Bang Lamung Chonburi
+17003.1s 1377 Done 1355: (13.728522532432393,100.5613572259578) Mayfair Garden, Khlong Toei Bangkok
+17113.1s 1378 Done 1356: (13.68706367106645,100.6059712928716) Mayfair Condo, Phra Khanong Bangkok
+17118.8s 1379 Done 1357: (13.704624432432393,100.5950197259578) Mayfair Place Sukhumvit 50, Khlong Toei Bangkok
+17231.8s 1380 Done 1358: (12.615597132432393,99.9512891259578) Maysa Condo & Condo, Prachaubkirikhan
+17237.7s 1381 Done 1359: (13.828866432432392,100.5699914259578) Mazarine Ratchayothin, Chatuchak Bangkok
+17243.4s 1382 Done 1360: (13.671461032432392,100.63558122595781) MeStyle @ Sukhumvit - Bangna, Bang Na Bangkok
+17248.5s 1383 Done 1361: (7.845210432432393,98.3030620259578) Melia Phuket Karon Residences, Muang Phuket Phuket
+17253.9s 1384 Done 1362: (13.706424632432393,100.5058878259578) Menam Residences, Bang Kho Laem Bangkok
+17276.0s 1385 Done 1363: (13.712182032432393,100.5318081259578) Merlin Tower, Bangkok
+17281.7s 1386 Done 1364: (13.778343032432392,100.5865635259578) Metha Place @ Ratchada, Huai Khwang Bangkok
+17287.9s 1387 Done 1365: (13.810939332432392,100.5644736259578) Metris District Ladprao, Chatuchak Bangkok
+17293.9s 1388 Done 1366: (13.738676032432393,100.6056881259578) Metris Pattanakarn - Ekkamai, Suan Luang Bangkok
+17299.6s 1389 Done 1367: (13.747572232432393,100.6067526259578) Metris Rama 9 - Ramkhamhaeng, Bang Kapi Bangkok
+17305.3s 1390 Done 1368: (16.430526432432394,102.8219263259578) Metro Condo, Muang Khon Kaen Khon Kaen
+17310.6s 1391 Done 1369: (12.868914932432393,100.8914593259578) Metro Jomtien Condotel, Bang Lamung Chonburi
+17315.7s 1392 Done 1370: (13.841204432432393,100.5871879259578) Metro Luxe Kaset, Chatuchak Bangkok
+17331.3s 1393 Done 1371: (13.787434471066451,100.5581110928716) Metro Luxe Pahol - Sutthisan, Phaya Thai Bangkok
+17336.9s 1394 Done 1372: (13.711840432432393,100.5804910259578) Metro Luxe Rama 4, Khlong Toei Bangkok
+17343.3s 1395 Done 1373: (13.784209232432392,100.5726311259578) Metro Luxe Ratchada, Din Daeng Bangkok
+17348.7s 1396 Done 1374: (13.877974232432393,100.4746724259578) Metro Luxe Riverfront Rattanathibet, Muang Nonthaburi Nonthaburi
+17354.2s 1397 Done 1375: (13.786701432432393,100.5576550259578) Metro Luxe Rose Gold Phahol - Sutthisan, Phaya Thai Bangkok
+17369.3s 1398 Done 1376: (13.71080687106645,100.4493548928716) Metro Park Sathorn, Phasi Charoen Bangkok
+17445.1s 1399 Done 1377: (13.72958637106645,100.5262474928716) Metro Place CondoBang Rak Bangkok
+17451.3s 1400 Done 1378: (13.822295732432393,100.5358283259578) Metro Sky Bangsue - Prachachuen, Bang Sue Bangkok
+17457.3s 1401 Done 1379: (13.784169332432393,100.5712740259578) Metro Sky Ratchada, Din Daeng Bangkok
+17463.4s 1402 Done 1380: (13.715985332432393,100.4729256259578) Metro Sky Sathorn - Wutthakat, Thon Buri Bangkok
+17468.7s 1403 Done 1381: (13.787037632432392,100.6758181259578) MileStone @ Serithai, Bueng Kum Bangkok
+17474.9s 1404 Done 1382: (13.730237032432392,100.5628919259578) Millennium Residence, Khlong Toei Bangkok
+17480.0s 1405 Done 1383: (12.770676532432393,100.90378972595781) Mirage Bangsaray, Sattahip Chonburi
+17485.4s 1406 Done 1384: (13.735295432432393,100.56449412595781) Mirage Sukhumvit 27, Watthana Bangkok
+17491.1s 1407 Done 1385: (13.840631532432392,100.5778482259578) Miti Chiva Kaset Station, Chatuchak Bangkok
+17496.9s 1408 Done 1386: (13.828422132432392,100.5919149259578) Miti Condo, Lat Phrao Bangkok
+17502.8s 1409 Done 1387: (13.741398732432392,100.5417308259578) Mitkorn Mansion, Pathum Wan Bangkok
+17518.1s 1410 Done 1388: (18.81730577106645,98.9919068928716) Mobius Condo Chiangmai, Muang Chiang Mai Chiang Mai
+17523.3s 1411 Done 1389: (18.803483432432394,98.9684182259578) Moda Condo, Muang Chiang Mai Chiang Mai
+17539.1s 1412 Done 1390: (13.79186567106645,100.5013689928716) Modern Condo Bangphlat - Charan 79, Bang Phlat Bangkok
+17544.7s 1413 Done 1391: (13.662445732432392,100.4285926259578) Modern Condo The Forest RAMA 2, Bang Khun Thian Bangkok
+17550.4s 1414 Done 1392: (13.708379732432393,100.6362280259578) Modern Home Place, Suan Luang Bangkok
+17555.8s 1415 Done 1393: (13.697050532432392,100.5405201259578) Modern Home Tower, Yan Nawa Bangkok
+17561.4s 1416 Done 1394: (13.873937032432393,100.5976723259578) Modiz Interchange, Bang Khen Bangkok
+17568.3s 1417 Done 1395: (13.806090632432392,100.5701629259578) Modiz Ladprao 18, Chatuchak Bangkok
+17574.9s 1418 Done 1396: (14.065785432432392,100.6077111259578) Modiz Launch, Khlong Luang Pathumthani
+17598.6s 1419 Done 1397: (13.814846032432392,100.5763652259578) Modiz Ratchada 32, Bangkok
+17604.2s 1420 Done 1398: (13.759305932432392,100.6173790259578) Modiz Rhyme Ramkhamhaeng, Bang Kapi Bangkok
+17609.7s 1421 Done 1399: (13.880295432432392,100.5990924259578) Modiz Station, Bang Khen Bangkok
+17615.0s 1422 Done 1400: (12.970261432432393,100.8873033259578) Modus Beachfront, Bang Lamung Chonburi
+17620.5s 1423 Done 1401: (13.735203032432393,100.5489173259578) Monet House, Pathum Wan Bangkok
+17642.1s 1424 Done 1402: (13.750419332432392,100.6122200259578) Monte Rama 9, Bangkok
+17729.4s 1425 Done 1403: (13.723780132432392,100.5620278259578) Monterey Condo, Khlong Toei Bangkok
+17734.7s 1426 Done 1404: (12.865907332432393,100.89345452595781) Montrari Jomtien Beach View, Bang Lamung Chonburi
+17740.2s 1427 Done 1405: (13.876534032432392,100.50983942595781) Moon Loft, Muang Nonthaburi Nonthaburi
+17761.2s 1428 Done 1406: (13.725450532432392,100.5817093259578) Moon Tower, Bangkok
+17766.6s 1429 Done 1407: (12.911267932432393,100.8671361259578) Moonlight Hill Pratumnak, Bang Lamung Chonburi
+17772.3s 1430 Done 1408: (13.715000532432393,100.6024212259578) Mori Haus, Watthana Bangkok
+17778.0s 1431 Done 1409: (13.910806532432392,100.5545831259578) Mori Mueang Thong Thani, Pak Kret Nonthaburi
+17783.6s 1432 Done 1410: (13.711033232432392,100.5922728259578) Morning Dew Condominium, Khlong Toei Bangkok
+17789.4s 1433 Done 1411: (13.809447132432393,100.57634212595781) Morning Side Heights Ratchada 30, Chatuchak Bangkok
+17794.6s 1434 Done 1412: (13.262207532432393,100.9334194259578) Mornington Grand Residence, Muang Chon Buri Chonburi
+17800.7s 1435 Done 1413: (13.726988132432393,100.48755902595781) Motif Condo, Thon Buri Bangkok
+17806.3s 1436 Done 1414: (13.889408632432392,100.5751324259578) Motive Condominium Chaengwattana, Lak Si Bangkok
+17889.3s 1437 Done 1415: (18.76825217106645,98.9850246928716) Mountain View CondoMuang Chiang Mai Chiang Mai
+17895.4s 1438 Done 1416: (13.739205232432392,100.5888997259578) Movenpick Residences Ekkamai, Watthana Bangkok
+17910.4s 1439 Done 1417: (12.83332887106645,100.9089888928716) Movenpick White Sand Beach, Sattahip Chonburi
+17932.1s 1440 Done 1418: (13.337651232432393,100.9671250259578) Muang Mai Condo Home, Chonburi
+17946.8s 1441 Done 1419: (13.62711677106645,100.7608407928716) Muangthong Bangna, Bang Plee Samut Prakarn
+17977.1s 1442 Done 1420: (13.787000071066451,100.57507379287159) Mueng Thai-patara Complex, Bangkok
+17982.3s 1443 Done 1421: (13.651263132432392,100.6615364259578) Mulberry Grove The Forestias Condominium, Bang Plee Samut Prakarn
+17987.9s 1444 Done 1422: (13.735066532432393,100.5441251259578) Muniq Langsuan, Pathum Wan Bangkok
+17993.2s 1445 Done 1423: (12.861048032432393,100.8957323259578) Musselana, Sattahip Chonburi
+17998.9s 1446 Done 1424: (13.805469632432393,100.5784865259578) My Condo Ladprao 27, Chatuchak Bangkok
+18037.1s 1447 Done 1425: (13.775665732432392,100.4835349259578) My Condo Pinklao
+18043.3s 1448 Done 1426: (13.722562932432393,100.4957299259578) My Condo Sathorn - Taksin, Khlong San Bangkok
+18049.1s 1449 Done 1427: (13.678778732432393,100.6239090259578) My Condo Sukhumvit 103, Bang Na Bangkok
+18054.6s 1450 Done 1428: (13.703900932432392,100.6000390259578) My Condo Sukhumvit 52, Phra Khanong Bangkok
+18060.7s 1451 Done 1429: (13.705361732432392,100.6034163259578) My Condo Sukhumvit 81, Phra Khanong Bangkok
+18076.1s 1452 Done 1430: (18.799979271066448,99.02350549287159) My Hip Condo, Muang Chiang Mai Chiang Mai
+18091.3s 1453 Done 1431: (13.74834017106645,100.5666052928716) My Resort Bangkok, Huai Khwang Bangkok
+18107.0s 1454 Done 1432: (12.531041571066451,99.9667271928716) My Resort Hua Hin, Hua Hin Prachaubkirikhan
+18112.7s 1455 Done 1433: (13.815660532432393,100.6106334259578) My Story Ladprao 71, Lat Phrao Bangkok
+18118.9s 1456 Done 1434: (12.922070132432392,100.8855082259578) My View Condotel, Bang Lamung Chonburi
+18124.4s 1457 Done 1435: (13.835557832432393,100.6307001259578) NEWERA CONDO EKAMAI - RAMINTRA, Lat Phrao Bangkok
+18223.4s 1458 Done 1436: (13.696953632432393,100.4860777259578) NICHE MONO CHAROEN Condo, Thon Buri Bangkok
+18228.8s 1459 Done 1437: (13.898816232432392,100.5461274259578) NICHE MONO Chaengwattana, Pak Kret Nonthaburi
+18234.5s 1460 Done 1438: (13.734084932432392,100.5712060259578) NOBLE STATE 39, Watthana Bangkok
+18240.5s 1461 Done 1439: (12.704593932432392,101.1871464259578) NOTTING HILL RAYONG, Muang Rayong Rayong
+18246.6s 1462 Done 1440: (13.672962232432392,100.6343478259578) NS Tower Central City Bangna, Bang Na Bangkok
+18252.7s 1463 Done 1441: (12.945832032432392,100.9016320259578) Na Lanna Condo Pattaya, Bang Lamung Chonburi
+18258.8s 1464 Done 1442: (13.706918232432393,100.4911254259578) Na Reva Charoennakhon, Thon Buri Bangkok
+18264.4s 1465 Done 1443: (13.741883832432393,100.5443826259578) Na Vara Residence, Pathum Wan Bangkok
+18270.0s 1466 Done 1444: (13.786172232432392,100.5491136259578) Na Veera Phahol - Ari, Phaya Thai Bangkok
+18275.6s 1467 Done 1445: (13.746731432432393,100.54913722595781) Nagara Mansion, Pathum Wan Bangkok
+18291.4s 1468 Done 1446: (7.778527271066451,98.3031993928716) Nai Harn Beach Condo, Muang Phuket Phuket
+18296.9s 1469 Done 1447: (7.9066303324323925,98.3051296259578) Naka Bay Sea View, Kathu Phuket
+18312.9s 1470 Done 1448: (7.82426517106645,98.30053999287159) Naka Condotel, Muang Phuket Phuket
+18318.3s 1471 Done 1449: (18.810954932432395,98.9627311259578) Nakornping City View, Muang Chiang Mai Chiang Mai
+18323.9s 1472 Done 1450: (18.79868523243239,98.9743103259578) Nakornping Condominium, Muang Chiang Mai Chiang Mai
+18348.7s 1473 Done 1451: (13.288383032432392,100.9247173259578) Nalinporn Condohome, Chonburi
+18353.8s 1474 Done 1452: (12.858835532432392,100.8998899259578) Nam Talay Condominium, Sattahip Chonburi
+18360.0s 1475 Done 1453: (13.735462532432393,100.5560715259578) Nantiruj Tower, Khlong Toei Bangkok
+18366.1s 1476 Done 1454: (13.717939332432392,100.5331614259578) Nara 9, Sathon Bangkok
+18372.0s 1477 Done 1455: (13.720043432432393,100.5323168259578) Narathorn Place, Sathon Bangkok
+18387.5s 1478 Done 1456: (12.966845671066451,100.9125720928716) Natureza Art, Bang Lamung Chonburi
+18392.9s 1479 Done 1457: (12.966844532432393,100.9125734259578) Natureza North Pattaya, Bang Lamung Chonburi
+18398.5s 1480 Done 1458: (13.736969032432393,100.5499436259578) Navin Court, Pathum Wan Bangkok
+18403.9s 1481 Done 1459: (13.699448232432392,100.6803453259578) Navy Place Condominium, Prawet Bangkok
+18409.6s 1482 Done 1460: (13.794240032432393,100.6507719259578) Nawa Living Nawamin 75, Bueng Kum Bangkok
+18414.9s 1483 Done 1461: (14.071106932432393,100.68724502595781) Nawa Nakhon Living Place, Khlong Luang Pathumthani
+18420.6s 1484 Done 1462: (13.943054032432393,100.5670633259578) Neo City Condo, Don Mueang Bangkok
+18426.1s 1485 Done 1463: (12.898994432432392,100.8686745259578) Neo Condo Pattaya, Bang Lamung Chonburi
+18431.4s 1486 Done 1464: (13.037766132432392,101.1127338259578) Neo Living Condo, Si Racha Chonburi
+18437.4s 1487 Done 1465: (13.745488232432393,100.5455536259578) New House, Pathum Wan Bangkok
+18443.1s 1488 Done 1466: (13.737420832432392,100.5678519259578) New Land Sukhumvit 33, Watthana Bangkok
+18535.2s 1489 Error getting lat,lon at 1467: (38.94635397106645,-74.9102492071284) New Nordic C - View Boutique Condo, Bang Lamung Chonburi
+18535.2s 1490 Done 1467: (nan,nan) New Nordic C - View Boutique Condo, Bang Lamung Chonburi
+18549.9s 1491 Done 1468: (12.912909071066451,100.8628076928716) New Nordic Suites 2, Bang Lamung Chonburi
+18565.0s 1492 Done 1469: (12.91610307106645,100.8624433928716) New Nordic VIP 2, Bang Lamung Chonburi
+18580.0s 1493 Done 1470: (12.91610307106645,100.8624433928716) New Nordic VIP 5, Bang Lamung Chonburi
+18594.7s 1494 Done 1471: (13.15867467106645,100.9163172928716) New Village Condominium, Si Racha Chonburi
+18689.1s 1495 Error getting lat,lon at 1472: (43.849143871066445,-79.3308766071284) New York Condo Condo, Khan Na Yao Bangkok
+18689.1s 1496 Done 1472: (nan,nan) New York Condo Condo, Khan Na Yao Bangkok
+18694.6s 1497 Done 1473: (13.738558032432392,100.5549707259578) Newton Tower Condominium, Khlong Toei Bangkok
+18710.2s 1498 Done 1474: (13.85961647106645,100.4820196928716) Nice Suites 2 Sanambinnam, Muang Nonthaburi Nonthaburi
+18725.7s 1499 Done 1475: (13.88712177106645,100.5111036928716) Nice Suites Sanambinnam, Muang Nonthaburi Nonthaburi
+18787.7s 1500 Done 1476: (13.89214617106645,100.5276050928716) Nichada Thani Condo,
+18792.9s 1501 Done 1477: (13.657965332432392,100.6599059259578) Niche MONO Mega Space Bangna, Bang Plee Samut Prakarn
+18799.0s 1502 Done 1478: (13.739647532432393,100.4838493259578) Niche Mono Itsaraphap, Bangkok Yai Bangkok
+18804.6s 1503 Done 1479: (13.753063632432392,100.5903324259578) Niche Mono Rama 9, Huai Khwang Bangkok
+18810.3s 1504 Done 1480: (13.761387632432392,100.6372118259578) Niche Mono Ramkhamhaeng, Bang Kapi Bangkok
+18815.8s 1505 Done 1481: (13.830896332432392,100.5402603259578) Niche Mono Ratchavipha, Chatuchak Bangkok
+18822.6s 1506 Done 1482: (13.658315432432392,100.5998712259578) Niche Mono Sukhumvit - Bearing, Muang Samut Prakarn Samut Prakarn
+18828.2s 1507 Done 1483: (13.638525932432392,100.5923306259578) Niche Mono Sukhumvit - Puchao, Muang Samut Prakarn Samut Prakarn
+18834.2s 1508 Done 1484: (13.704428832432393,100.5925196259578) Niche Mono Sukhumvit 50, Khlong Toei Bangkok
+18839.6s 1509 Done 1485: (13.805766032432393,100.5320990259578) Niche Pride Taopoon - Interchange, Bang Sue Bangkok
+18855.7s 1510 Done 1486: (13.744824171066451,100.5838840928716) Niche Pride Thonglor - Phetchaburi, Huai Khwang Bangkok
+18861.5s 1511 Done 1487: (13.911701932432392,100.5080359259578) Niche id @ Pakkret Station, Pak Kret Nonthaburi
+18877.0s 1512 Done 1488: (13.70449357106645,100.4221358928716) Niche id Phetkasem - Bang Khae, Bang Khae Bangkok
+18892.2s 1513 Done 1489: (13.79688177106645,100.6943971928716) Niche id Serithai - Wongwoen, Khan Na Yao Bangkok
+18907.0s 1514 Done 1490: (13.65831657106645,100.5998698928716) Niche id Sukhumvit 113, Muang Samut Prakarn Samut Prakarn
+18912.7s 1515 Done 1491: (13.735148632432393,100.5414418259578) Nimit Langsuan, Pathum Wan Bangkok
+18918.2s 1516 Done 1492: (13.660540432432393,100.6079250259578) Niran Condo, Bang Na Bangkok
+18952.8s 1517 Done 1493: (13.67082337106645,100.7917022928716) Nirun City Ladprao 101, Bangkok
+18958.3s 1518 Done 1494: (13.672720432432392,100.6831765259578) Nirun Residence 2, Prawet Bangkok
+18963.9s 1519 Done 1495: (13.670736932432392,100.6807144259578) Nirun Residence 3, Prawet Bangkok
+18969.6s 1520 Done 1496: (13.693824432432393,100.6373792259578) Nirun Residence 5, Prawet Bangkok
+18975.1s 1521 Done 1497: (13.783766432432392,100.7056862259578) Nirun Residence 8, Saphan Sung Bangkok
+18990.7s 1522 Done 1498: (12.91156127106645,100.8711566928716) Nirvana Place, Bang Lamung Chonburi
+18996.4s 1523 Done 1499: (13.738864832432393,100.5803392259578) Nivati Residence, Watthana Bangkok
+19002.0s 1524 Done 1500: (13.741034932432392,100.5497181259578) Noble 09 Ruamrudee, Pathum Wan Bangkok
+19007.9s 1525 Done 1501: (13.734636532432393,100.5506548259578) Noble Above Wireless - Ruamrudee, Pathum Wan Bangkok
+19014.0s 1526 Done 1502: (13.735300132432393,100.5403031259578) Noble Ambience Sarasin, Pathum Wan Bangkok
+19020.0s 1527 Done 1503: (13.717258432432393,100.5833679259578) Noble Ambience Sukhumvit 42, Khlong Toei Bangkok
+19025.9s 1528 Done 1504: (13.778028132432393,100.54421532595781) Noble Around Ari, Phaya Thai Bangkok
+19031.2s 1529 Done 1505: (13.735672332432392,100.5677425259578) Noble Around Sukhumvit 33, Watthana Bangkok
+19037.0s 1530 Done 1506: (13.742257732432392,100.5596358259578) Noble BE 19, Watthana Bangkok
+19052.6s 1531 Done 1507: (13.73540307106645,100.5674739928716) Noble BE 33, Watthana Bangkok
+19160.6s 1532 Done 1508: (13.760084371066451,100.5369835928716) Noble House Condo, Ratchathewi Bangkok
+19166.4s 1533 Done 1509: (13.739461232432392,100.5490261259578) Noble House Ruamrudee, Pathum Wan Bangkok
+19171.9s 1534 Done 1510: (13.778883732432393,100.54255962595781) Noble Lite, Phaya Thai Bangkok
+19177.7s 1535 Done 1511: (13.736301832432392,100.5845545259578) Noble Ora Thonglor, Watthana Bangkok
+19183.4s 1536 Done 1512: (13.743574632432393,100.5483773259578) Noble Ploenchit, Pathum Wan Bangkok
+19189.5s 1537 Done 1513: (13.780283632432392,100.5436566259578) Noble RE D, Phaya Thai Bangkok
+19195.5s 1538 Done 1514: (13.742197532432392,100.5602595259578) Noble Recole, Watthana Bangkok
+19200.7s 1539 Done 1515: (13.728362732432393,100.5710239259578) Noble Refine, Khlong Toei Bangkok
+19206.4s 1540 Done 1516: (13.781961332432392,100.5433446259578) Noble Reflex, Phaya Thai Bangkok
+19212.5s 1541 Done 1517: (13.781342432432393,100.5446232259578) Noble Reform, Phaya Thai Bangkok
+19218.4s 1542 Done 1518: (13.724282332432393,100.5771382259578) Noble Remix, Khlong Toei Bangkok
+19223.8s 1543 Done 1519: (13.724282332432393,100.5771382259578) Noble Remix 2, Khlong Toei Bangkok
+19229.9s 1544 Done 1520: (13.721924032432392,100.5848433259578) Noble Reveal, Watthana Bangkok
+19235.5s 1545 Done 1521: (13.757177032432393,100.5353983259578) Noble Revent, Ratchathewi Bangkok
+19241.5s 1546 Done 1522: (13.719506932432392,100.5194909259578) Noble Revo Silom, Bang Rak Bangkok
+19247.7s 1547 Done 1523: (13.763919732432392,100.5693181259578) Noble Revolve Ari, Phaya Thai Bangkok
+19253.1s 1548 Done 1524: (13.763163932432393,100.5691675259578) Noble Revolve Ratchada, Huai Khwang Bangkok
+19259.2s 1549 Done 1525: (13.763163932432393,100.5691675259578) Noble Revolve Ratchada 2, Huai Khwang Bangkok
+19265.4s 1550 Done 1526: (13.740139432432393,100.5850621259578) Noble Solo, Watthana Bangkok
+19271.6s 1551 Done 1527: (13.735462032432393,100.5833491259578) Noble form Thonglor, Watthana Bangkok
+19277.5s 1552 Done 1528: (13.870075732432392,100.4847235259578) Non City Tower, Muang Nonthaburi Nonthaburi
+19283.4s 1553 Done 1529: (13.870075732432392,100.4847235259578) Non Tower, Muang Nonthaburi Nonthaburi
+19298.9s 1554 Done 1530: (13.581945371066452,100.2207613928716) Nonsri Park View, Lam Luk Ka Pathumthani
+19304.4s 1555 Done 1531: (12.917524032432393,100.8616583259578) Nordic Park Hill, Bang Lamung Chonburi
+19309.7s 1556 Done 1532: (12.916838032432393,100.8621783259578) Nordic Residence, Bang Lamung Chonburi
+19315.0s 1557 Done 1533: (12.915960332432393,100.8613941259578) Nordic Terrace, Bang Lamung Chonburi
+19419.9s 1558 Done 1534: (18.76021887106645,98.9507544928716) North Condo Serene Condo, Muang Chiang Mai Chiang Mai
+19545.5s 1559 Error getting lat,lon at 1535: (0,0) North Park Place Condo, Lak Si Bangkok
+19545.5s 1560 Done 1535: (nan,nan) North Park Place Condo, Lak Si Bangkok
+19597.5s 1561 Done 1536: (12.961687432432392,100.8869217259578) Northpoint Pattaya Condo,
+19703.0s 1562 Done 1537: (12.92948247106645,100.8935090928716)  Condo, Bang Lamung Chonburi
+19708.7s 1563 Done 1538: (13.585334132432392,100.6139467259578) Notting Hill Bearing, Muang Samut Prakarn Samut Prakarn
+19713.9s 1564 Done 1539: (13.797022432432392,100.5519842259578) Notting Hill Jatujak - Interchange, Chatuchak Bangkok
+19719.4s 1565 Done 1540: (13.124232832432392,100.9161611259578) Notting Hill Laemchabang - Sriracha, Si Racha Chonburi
+19725.1s 1566 Done 1541: (13.859852132432392,100.5871464259578) Notting Hill Phahol - Kaset, Bang Khen Bangkok
+19730.5s 1567 Done 1542: (13.585334132432392,100.6139467259578) Notting Hill Sukhumvit - Praksa, Muang Samut Prakarn Samut Prakarn
+19736.3s 1568 Done 1543: (13.661427532432393,100.6068741259578) Notting Hill Sukhumvit 105, Bang Na Bangkok
+19742.1s 1569 Done 1544: (13.702964232432393,100.5053679259578) Notting Hill The Exclusive Charoen Krung, Bang Kho Laem Bangkok
+19747.7s 1570 Done 1545: (13.855335332432393,100.5199814259578) Notting Hill Tiwanon - Kaerai, Muang Nonthaburi Nonthaburi
+19762.9s 1571 Done 1546: (12.93954237106645,100.8917313928716) Nova Atrium, Bang Lamung Chonburi
+19768.4s 1572 Done 1547: (12.967974432432392,100.88502372595781) Nova Mirage, Bang Lamung Chonburi
+19773.4s 1573 Done 1548: (12.909969032432393,100.8627061259578) Nova Ocean View, Bang Lamung Chonburi
+19779.2s 1574 Done 1549: (12.919184532432393,100.8755791259578) Novana Residence, Bang Lamung Chonburi
+19784.8s 1575 Done 1550: (13.949660532432393,100.6186634259578) Nue Connex Donmueang, Don Mueang Bangkok
+19790.4s 1576 Done 1551: (13.932511632432393,100.6481934259578) Nue Cross Khu Khot Station, Lam Luk Ka Pathumthani
+19796.4s 1577 Done 1552: (13.756075832432392,100.5675745259578) Nue District R9 Rama 9, Huai Khwang Bangkok
+19802.2s 1578 Done 1553: (13.650479932432393,100.6798617259578) Nue Mega Plus Bangna, Bang Plee Samut Prakarn
+19807.9s 1579 Done 1554: (13.669886832432393,100.6358216259578) Nue Noble Centre Bangna, Bang Na Bangkok
+19813.7s 1580 Done 1555: (13.895916232432393,100.5490214259578) Nue Noble Chaengwattana, Pak Kret Nonthaburi
+19834.7s 1581 Done 1556: (13.761243532432392,100.4712914259578) Nue Noble Faichai - Wanglang, Bangkok
+19840.3s 1582 Done 1557: (13.857040732432392,100.5361916259578) Nue Noble Ngamwongwan, Muang Nonthaburi Nonthaburi
+19846.0s 1583 Done 1558: (13.801954432432392,100.5750049259578) Nue Noble Ratchada - Lat Phrao, Chatuchak Bangkok
+19851.4s 1584 Done 1559: (13.653473732432392,100.64259112595781) Nue Noble Srinakarin - Lasalle, Muang Samut Prakarn Samut Prakarn
+19856.6s 1585 Done 1560: (13.675936132432392,100.5166823259578) Nue Riverest Ratburana, Rat Burana Bangkok
+19862.1s 1586 Done 1561: (13.893418832432392,100.5631137259578) Nueng Condominium Chaengwattana, Lak Si Bangkok
+19868.2s 1587 Done 1562: (13.759972932432392,100.65162272595781) Numchok Condominium, Bang Kapi Bangkok
+19873.8s 1588 Done 1563: (13.869182332432393,100.4817921259578) Nung Condominium Rattanathibet, Muang Nonthaburi Nonthaburi
+19879.5s 1589 Done 1564: (13.721481732432393,100.5168924259578) Nusa State Tower, Bang Rak Bangkok
+19932.7s 1590 Done 1565: (13.719293632432393,100.5846131259578) Nusasiri Grand Condo,
+19938.4s 1591 Done 1566: (13.721834732432393,100.4979593259578) Nye by Sansiri, Khlong San Bangkok
+19944.0s 1592 Done 1567: (13.745061932432392,100.5493796259578) O2 Hip, Pathum Wan Bangkok
+19949.7s 1593 Done 1568: (13.715895032432392,100.5748611259578) OKA HAUS Sukhumvit 36, Khlong Toei Bangkok
+19955.1s 1594 Done 1569: (12.947962432432393,100.8964949259578) ONCE PATTAYA, Bang Lamung Chonburi
+19960.4s 1595 Done 1570: (13.849574232432392,100.5582790259578) ONEDER Kaset, Chatuchak Bangkok
+19965.8s 1596 Done 1571: (12.625346732432392,99.9510035259578) Ocas Hua Hin, Hua Hin Prachaubkirikhan
+19971.0s 1597 Done 1572: (16.447827732432394,102.8293385259578) Ocean Grand Residence Mittraphap - Khon Kaen, Muang Khon Kaen Khon Kaen
+19976.3s 1598 Done 1573: (12.850173832432393,100.9047386259578) Ocean Horizon Beachfront Condo Pattaya, Sattahip Chonburi
+19991.5s 1599 Done 1574: (12.82766647106645,100.9097963928716) Ocean Marina - San Marino, Sattahip Chonburi
+20047.1s 1600 Done 1575: (12.827665332432392,100.9097977259578) Ocean Marina Yacht Condo, Sattahip Chonburi
+20052.0s 1601 Done 1576: (12.829889032432392,100.9097273259578) Ocean Portofino Jomtien, Sattahip Chonburi
+20173.5s 1602 Error getting lat,lon at 1577: (-22.813751128933546,-41.9549832071284) Ocean Sands Condo, Thalang Phuket
+20173.5s 1603 Done 1577: (nan,nan) Ocean Sands Condo, Thalang Phuket
+20178.9s 1604 Done 1578: (13.662089932432393,100.6121759259578) Okas Sukumvit 105, Bang Na Bangkok
+20184.9s 1605 Done 1579: (12.919478032432393,100.8835963259578) Olympus City Garden, Bang Lamung Chonburi
+20190.9s 1606 Done 1580: (13.737685332432392,100.5533102259578) Omni Tower, Khlong Toei Bangkok
+20196.5s 1607 Done 1581: (13.809176232432392,100.5709114259578) One Ladprao 15, Chatuchak Bangkok
+20211.9s 1608 Done 1582: (13.80771067106645,100.5698795928716) One Ladprao 18, Chatuchak Bangkok
+20217.0s 1609 Done 1583: (13.807709532432392,100.5698809259578) One Ladprao Station, Chatuchak Bangkok
+20232.1s 1610 Done 1584: (18.805000171066453,99.02489599287159) One Plus Business Park 1, Muang Chiang Mai Chiang Mai
+20237.5s 1611 Done 1585: (18.80489003243239,99.0247653259578) One Plus Business Park 2, Muang Chiang Mai Chiang Mai
+20243.2s 1612 Done 1586: (18.805087332432393,99.0248526259578) One Plus Business Park 3, Muang Chiang Mai Chiang Mai
+20257.9s 1613 Done 1587: (18.805841171066447,99.0244977928716) One Plus Business Park 4, Muang Chiang Mai Chiang Mai
+20273.7s 1614 Done 1588: (18.804804371066453,98.9643124928716) One Plus Huay Kaew, Muang Chiang Mai Chiang Mai
+20341.9s 1615 Done 1589: (18.81309017106645,98.9770846928716) One Plus Jed yod 1,2 Condo,
+20357.6s 1616 Done 1590: (18.81426497106645,98.9658029928716) One Plus Jedyod 5, Muang Chiang Mai Chiang Mai
+20373.2s 1617 Done 1591: (18.810782471066453,98.9921167928716) One Plus Kamthieng, Muang Chiang Mai Chiang Mai
+20378.4s 1618 Done 1592: (18.80077443243239,98.9608460259578) One Plus Klong Chon 2,3, Muang Chiang Mai Chiang Mai
+20393.2s 1619 Done 1593: (18.76730917106645,98.9854839928716) One Plus Mahidol, Muang Chiang Mai Chiang Mai
+20398.9s 1620 Done 1594: (18.76055843243239,99.01872332595781) One Plus Mahidol 5, Muang Chiang Mai Chiang Mai
+20414.0s 1621 Done 1595: (18.760675871066454,99.0193472928716) One Plus Mahidol 6, Muang Chiang Mai Chiang Mai
+20419.2s 1622 Done 1596: (18.786232032432395,98.9678356259578) One Plus Suan Dok 1,2,3, Muang Chiang Mai Chiang Mai
+20434.1s 1623 Done 1597: (18.786795371066454,98.9736943928716) One Plus Suan Dok 4,5,6, Muang Chiang Mai Chiang Mai
+20449.2s 1624 Done 1598: (18.78454707106645,98.9678342928716) One Plus Suan Dok 7,8, Muang Chiang Mai Chiang Mai
+20463.8s 1625 Done 1599: (18.783063371066447,98.9711227928716) One Plus Suandok 10, Muang Chiang Mai Chiang Mai
+20478.7s 1626 Done 1600: (18.782769671066454,98.9708174928716) One Plus Suandok 9, Muang Chiang Mai Chiang Mai
+20484.6s 1627 Done 1601: (13.799688432432392,100.5737509259578) One Ratchada-Ladprao, Din Daeng Bangkok
+20490.2s 1628 Done 1602: (13.712501032432392,100.5490392259578) One Sathorn, Yan Nawa Bangkok
+20505.5s 1629 Done 1603: (13.74496407106645,100.5338793928716) One Siam, Pathum Wan Bangkok
+20511.8s 1630 Done 1604: (13.736297732432392,100.5141984259578) One Soho, Samphanthawong Bangkok
+20517.2s 1631 Done 1605: (13.703992632432392,100.5996244259578) One Sukhumvit 52, Phra Khanong Bangkok
+20522.8s 1632 Done 1606: (13.721655932432393,100.5804694259578) One Thonglor Station, Khlong Toei Bangkok
+20528.4s 1633 Done 1607: (12.915016032432392,100.8594440259578) One Tower Pratamnak, Bang Lamung Chonburi
+20534.2s 1634 Done 1608: (13.700039932432393,100.5357138259578) One X Sathorn-Narathiwat, Yan Nawa Bangkok
+20539.9s 1635 Done 1609: (13.725092632432393,100.5686692259578) One X Sukhumvit 26, Khlong Toei Bangkok
+20555.2s 1636 Done 1610: (18.79993857106645,98.9588575928716) One plus CMU  (1,2,3), Muang Chiang Mai Chiang Mai
+20560.9s 1637 Done 1611: (18.81236523243239,98.9720000259578) One plus Jed Yod 3,4, Muang Chiang Mai Chiang Mai
+20576.8s 1638 Done 1612: (18.76880177106645,98.9910593928716) One plus nineteen 1,2, Muang Chiang Mai Chiang Mai
+20582.4s 1639 Done 1613: (13.756181932432392,100.5682686259578) One9Five Asoke - Rama 9, Huai Khwang Bangkok
+20598.1s 1640 Done 1614: (18.767820071066453,98.9910638928716) Oneplus Nineteen 3,4, Muang Chiang Mai Chiang Mai
+20613.1s 1641 Done 1615: (13.78894167106645,100.4858616928716) Onpa Tower, Bang Phlat Bangkok
+20618.8s 1642 Done 1616: (13.629473432432393,100.6216092259578) Onvida Grand Condo, Muang Samut Prakarn Samut Prakarn
+20640.0s 1643 Done 1617: (13.791598232432392,100.5485474259578) Onyx Phaholyothin, Bangkok
+20706.5s 1644 Done 1618: (18.812112032432395,98.9793803259578) Orchid Condo, Doi Saket Chiang Mai
+20712.0s 1645 Done 1619: (13.738342932432392,100.54640482595781) Oriental Residence, Pathum Wan Bangkok
+20717.7s 1646 Done 1620: (13.730528732432392,100.5888359259578) Oriental Towers, Watthana Bangkok
+20723.4s 1647 Done 1621: (13.765568932432393,100.4726330259578) Origin Play Bangkhunnon Triple Station, Bangkok Noi Bangkok
+20729.4s 1648 Done 1622: (13.678411232432392,100.6285837259578) Origin Play Sri Udom Station, Phra Khanong Bangkok
+20734.9s 1649 Done 1623: (13.868335932432393,100.49086972595781) Origin Plug & Play Nonthaburi Station, Muang Nonthaburi Nonthaburi
+20740.5s 1650 Done 1624: (13.764303632432393,100.6510549259578) Origin Plug & Play Ramkhamhaeng Triple Station, Bang Kapi Bangkok
+20746.2s 1651 Done 1625: (13.785705732432392,100.4905897259578) Origin Plug & Play Sirindhorn Station, Bang Phlat Bangkok
+20751.5s 1652 Done 1626: (13.674484332432392,100.4581884259578) Origins Bangmod - Rama 2, Bang Khun Thian Bangkok
+20766.5s 1653 Done 1627: (13.67448547106645,100.4581870928716) Origins Rama 2, Chom Thong Bangkok
+20771.8s 1654 Done 1628: (7.792934932432392,98.3193338259578) Oxygen Condominium, Thalang Phuket
+20786.7s 1655 Done 1629: (12.67896417106645,101.2186369928716) P.M.Y. Beach Condominium, Muang Rayong Rayong
+20792.7s 1656 Done 1630: (13.916154732432393,100.5801780259578) P.P.H. Condo, Don Mueang Bangkok
+20814.0s 1657 Done 1631: (13.690854932432392,100.5377199259578) P.S.T. City Home, Bangkok
+20819.6s 1658 Done 1632: (13.691544332432393,100.5378519259578) P.S.T. Condoville, Yan Nawa Bangkok
+20825.5s 1659 Done 1633: (13.793336532432393,100.5921662259578) P.Thana Tower, Wang Thonglang Bangkok
+20831.3s 1660 Done 1634: (13.726584432432393,100.5618306259578) P.W.T. Mansion, Khlong Toei Bangkok
+20837.2s 1661 Done 1635: (13.734805632432392,100.5215049259578) PARK ORIGIN CHULA - SAMYAN, Bang Rak Bangkok
+20842.9s 1662 Done 1636: (13.759408632432393,100.5355625259578) PARK ORIGIN PHAYATHAI, Ratchathewi Bangkok
+20848.6s 1663 Done 1637: (13.725472632432393,100.5656764259578) PARK ORIGIN PHROM PHONG, Khlong Toei Bangkok
+20854.5s 1664 Done 1638: (13.754392632432392,100.5289351259578) PARK ORIGIN RATCHATHEWI, Ratchathewi Bangkok
+20860.1s 1665 Done 1639: (13.731591132432392,100.5846797259578) PARK ORIGIN THONGLOR, Watthana Bangkok
+20865.7s 1666 Done 1640: (12.918260932432393,100.8695762259578) PARK ROYAL 1 Pratumnak, Bang Lamung Chonburi
+20871.3s 1667 Done 1641: (13.681417032432392,100.6126122259578) PAUSE SUKUMVIT 103, Bang Na Bangkok
+20876.9s 1668 Done 1642: (13.720929532432393,100.6002291259578) PB Penthouse 2, Watthana Bangkok
+20882.9s 1669 Done 1643: (13.755969532432392,100.5690601259578) PG 2 Rama IX, Huai Khwang Bangkok
+20899.0s 1670 Done 1644: (13.744053971066451,100.5576873928716) PG Rama IX, Huai Khwang Bangkok
+20904.8s 1671 Done 1645: (13.805038832432393,100.5701193259578) PHILO LADPRAO 18, Chatuchak Bangkok
+20919.9s 1672 Done 1646: (13.56599207106645,100.9536541928716) PJ ione, Bang Pakong Chachoengsao
+20934.4s 1673 Done 1647: (14.030873471066451,100.6067057928716) PLUM CONDO RANGSIT ALIVE 2, Khlong Luang Pathumthani
+20939.6s 1674 Done 1648: (13.674529732432392,100.5460685259578) PM Riverside, Yan Nawa Bangkok
+20945.0s 1675 Done 1649: (18.77966863243239,99.0233906259578) PP Condo Chiangmai, Muang Chiang Mai Chiang Mai
+20951.2s 1676 Done 1650: (13.720942532432392,100.6006270259578) PP Plus Sukhumvit 71, Watthana Bangkok
+20956.8s 1677 Done 1651: (13.728827532432392,100.5929748259578) PPR Residence, Watthana Bangkok
+20962.6s 1678 Done 1652: (13.722587332432392,100.5236841259578) Pabhada Silom, Bang Rak Bangkok
+20968.1s 1679 Done 1653: (13.680714132432392,100.6045137259578) Palm Condotown 1, Bang Na Bangkok
+20973.7s 1680 Done 1654: (13.632818432432392,100.6191047259578) Palm Pavilion Thepharak, Muang Samut Prakarn Samut Prakarn
+20989.2s 1681 Done 1655: (18.79849817106645,98.9703418928716) Palm Springs Nimman Areca, Muang Chiang Mai Chiang Mai
+20994.6s 1682 Done 1656: (18.79971713243239,98.97047962595781) Palm Springs Nimman Fountain, Muang Chiang Mai Chiang Mai
+21000.4s 1683 Done 1657: (18.798497032432394,98.9703432259578) Palm Springs Nimman Parlor, Muang Chiang Mai Chiang Mai
+21005.7s 1684 Done 1658: (18.799533032432393,98.9705089259578) Palm Springs Nimman Phoenix, Muang Chiang Mai Chiang Mai
+21011.5s 1685 Done 1659: (18.79897283243239,98.9706494259578) Palm Springs Nimman Royal, Muang Chiang Mai Chiang Mai
+21017.0s 1686 Done 1660: (13.722300132432393,100.5237795259578) Panburi, Bang Rak Bangkok
+21068.5s 1687 Done 1661: (12.892092532432393,100.8744732259578) Panchalae Boutique Residences Condo,
+21083.7s 1688 Done 1662: (13.805810071066452,100.6098585928716) Panchasarp Suite Ratchada-Ladprao, Lat Phrao Bangkok
+21098.8s 1689 Done 1663: (13.70323937106645,100.5911222928716) Pandao Place, Khlong Toei Bangkok
+21208.9s 1690 Still error getting lat,lon at 341: (47.61430967106645,-122.3464719071284) Bangrak Condominium, Sathon Bangkok
+21330.4s 1691 Still error getting lat,lon at 363: (30.270289471066448,-87.58049160712841) Best Western Premier Bayphere Pattaya, Sattahip Chonburi
+21452.2s 1692 Still error getting lat,lon at 380: (46.23571687106645,-63.1311970071284) Blue Lagoon Resort Hua Hin, Cha-Am Petchburi
+21570.0s 1693 Still error getting lat,lon at 532: (38.87233007106645,-77.0180578071284) Chiang Mai Riverside Condominium, Muang Chiang Mai Chiang Mai
+21669.7s 1694 Still error getting lat,lon at 657: (43.828187532432395,-79.5314588740422) Duliya Chalisma, Huai Khwang Bangkok
+21779.4s 1695 Still error getting lat,lon at 658: (41.91782607106645,-87.6840282071284) Duliya Place Condo, Lat Phrao Bangkok
+21841.6s 1696 Still error getting lat,lon at 768: (41.917824932432396,-87.6840268740422) Future Place Condominium, Thanyaburi Pathumthani
+21959.7s 1697 Still error getting lat,lon at 955: (42.35393237106645,-71.0519973071284) Intercontinental Residences Hua Hin, Hua Hin Prachaubkirikhan
+22080.5s 1698 Still error getting lat,lon at 1062: (28.59325017106645,-81.3628020071284) Krungthep Thani Tower, Khlong Toei Bangkok
+22200.6s 1699 Still error getting lat,lon at 1094: (41.91782607106645,-87.6840282071284) Ladda Place Condo Sriracha, Si Racha Chonburi
+22273.7s 1700 Still error getting lat,lon at 1186: (30.177011532432395,-85.8078144740422) Long Beach Condo, Sattahip Chonburi
+22394.9s 1701 Still error getting lat,lon at 1334: (32.77932037106645,-79.9273739071284) Magnolias Waterfront Residences, Khlong San Bangkok
+22485.7s 1702 Still error getting lat,lon at 1467: (38.94635397106645,-74.9102492071284) New Nordic C - View Boutique, Bang Lamung Chonburi
+22578.6s 1703 Still error getting lat,lon at 1472: (43.849143871066445,-79.3308766071284) New York Condo, Khan Na Yao Bangkok
+22703.7s 1704 Still error getting lat,lon at 1535: (0,0) North Park Place, Lak Si Bangkok
+22824.9s 1705 Still error getting lat,lon at 1577: (33.79112677106645,-78.7337401071284) Ocean Sands, Thalang Phuket
+22824.9s 1706 ------------------------------
+22824.9s 1707 Results exported
+22832.6s 1708 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+22832.6s 1709 warn(
+22832.6s 1710 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+22832.6s 1711 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+22833.6s 1712 [NbConvertApp] Writing 197912 bytes to __notebook__.ipynb
+22835.7s 1713 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+22835.7s 1714 warn(
+22835.7s 1715 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+22835.7s 1716 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+22837.4s 1717 [NbConvertApp] Writing 518119 bytes to __results__.html

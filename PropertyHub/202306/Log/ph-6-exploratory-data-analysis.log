@@ -1,0 +1,147 @@
+28.4s 1 Data imported !
+35.6s 2 There are NO new condo locations !
+35.6s 3 Geocodes manually filled for NaN geocodes !
+37.1s 4 Tables loaded : Thailand provinces and districts from Wiki !
+45.7s 5 --------------------
+45.7s 6 Getting provinces
+45.7s 7 No. of two names = 0
+45.7s 8 No. of not founds = 0
+150.4s 9 --------------------
+150.4s 10 Getting districts
+150.4s 11 No. of two names = 0
+150.4s 12 No. of not founds = 0
+150.4s 13 --------------------
+150.4s 14 Removing outliers ...
+150.6s 15 For-rent: before removing outliers: 103053 records
+335.3s 16 For-rent: after removing outliers: 98993 records
+335.3s 17 For-sale: before removing outliers: 52348 records
+778.2s 18 For-sale: after removing outliers: 50147 records
+778.2s 19 --------------------
+778.2s 20 Plotting graphs ...
+795.3s 21 For-Rent
+795.3s 22 record_no
+795.3s 23 unit_type
+795.3s 24 1 Bedroom             67218
+795.3s 25 2 Bedroom             19176
+795.3s 26 Studio                 6182
+795.3s 27 3 Bedroom              2042
+795.3s 28 Duplex 1 Bedroom        664
+795.3s 29 4 Bedroom               250
+795.3s 30 Duplex 2 Bedroom        151
+795.3s 31 Duplex 3 Bedroom         29
+795.3s 32 Penthouse                19
+795.3s 33 5 Bedroom                14
+795.3s 34 Moff                     12
+795.3s 35 6 Bedroom                 8
+795.3s 36 Duplex 4 Bedroom          5
+795.3s 37 Duplex 5 Bedroom          2
+795.3s 38 Villa                     2
+795.3s 39 Total:                95774
+795.3s 40 
+795.3s 41 
+795.3s 42 For-Sale
+795.3s 43 record_no
+795.3s 44 unit_type
+795.3s 45 1 Bedroom             29142
+795.3s 46 2 Bedroom             12749
+795.3s 47 Studio                 4255
+795.3s 48 3 Bedroom              2658
+795.3s 49 4 Bedroom               358
+795.3s 50 Duplex 1 Bedroom        101
+795.3s 51 5 Bedroom                65
+795.3s 52 Duplex 2 Bedroom         37
+795.3s 53 Penthouse                32
+795.3s 54 6 Bedroom                18
+795.3s 55 Duplex 3 Bedroom         11
+795.3s 56 Moff                      4
+795.3s 57 Duplex 4 Bedroom          2
+795.3s 58 Villa                     2
+795.3s 59 Total:                49434
+1138.0s 60 For-Rent
+1138.0s 61 record_no
+1138.0s 62 province
+1138.0s 63 Bangkok                       83495
+1138.0s 64 Nonthaburi                     5117
+1138.0s 65 Samut Prakan                   3429
+1138.0s 66 Chonburi                       2026
+1138.0s 67 Pathum Thani                    432
+1138.0s 68 Chiang Mai                      351
+1138.0s 69 Phuket                          311
+1138.0s 70 Nakhon Pathom                   186
+1138.0s 71 Rayong                          135
+1138.0s 72 Prachuap Khiri Khan              63
+1138.0s 73 Songkhla                         43
+1138.0s 74 Nakhon Ratchasima                40
+1138.0s 75 Udon Thani                       33
+1138.0s 76 Surat Thani                      24
+1138.0s 77 Khon Kaen                        17
+1138.0s 78 Phetchaburi                      15
+1138.0s 79 Phra Nakhon Si Ayutthaya         10
+1138.0s 80 Samut Sakhon                      9
+1138.0s 81 Chiang Rai                        7
+1138.0s 82 Ubon Ratchathani                  7
+1138.0s 83 Phitsanulok                       5
+1138.0s 84 Lampang                           4
+1138.0s 85 Chachoengsao                      4
+1138.0s 86 Nakhon Sawan                      3
+1138.0s 87 Sakon Nakhon                      2
+1138.0s 88 Buriram                           2
+1138.0s 89 Maha Sarakham                     1
+1138.0s 90 Prachinburi                       1
+1138.0s 91 Tak                               1
+1138.0s 92 Kanchanaburi                      1
+1138.0s 93 Total:                        95774
+1138.0s 94 
+1138.0s 95 
+1138.0s 96 For-Sale
+1138.0s 97 record_no
+1138.0s 98 province
+1138.0s 99 Bangkok                       41570
+1138.0s 100 Chonburi                       3685
+1138.0s 101 Nonthaburi                     1321
+1138.0s 102 Samut Prakan                    943
+1138.0s 103 Phuket                          541
+1138.0s 104 Chiang Mai                      509
+1138.0s 105 Pathum Thani                    499
+1138.0s 106 Prachuap Khiri Khan             162
+1138.0s 107 Phetchaburi                      53
+1138.0s 108 Nakhon Pathom                    38
+1138.0s 109 Rayong                           31
+1138.0s 110 Songkhla                         21
+1138.0s 111 Samut Sakhon                     13
+1138.0s 112 Khon Kaen                        12
+1138.0s 113 Nakhon Ratchasima                 7
+1138.0s 114 Surat Thani                       5
+1138.0s 115 Udon Thani                        4
+1138.0s 116 Chiang Rai                        4
+1138.0s 117 Ubon Ratchathani                  2
+1138.0s 118 Nakhon Sawan                      2
+1138.0s 119 Buriram                           2
+1138.0s 120 Phra Nakhon Si Ayutthaya          2
+1138.0s 121 Saraburi                          1
+1138.0s 122 Krabi                             1
+1138.0s 123 Chachoengsao                      1
+1138.0s 124 Lampang                           1
+1138.0s 125 Phetchabun                        1
+1138.0s 126 Maha Sarakham                     1
+1138.0s 127 Lamphun                           1
+1138.0s 128 Phitsanulok                       1
+1138.0s 129 Total:                        49434
+1298.9s 130 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+1298.9s 131 warn(
+1298.9s 132 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+1298.9s 133 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+1300.3s 134 [NbConvertApp] Writing 29707151 bytes to __notebook__.ipynb
+1302.6s 135 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+1302.6s 136 warn(
+1302.6s 137 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+1302.7s 138 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+1306.7s 139 [NbConvertApp] Support files will be in __results___files/
+1306.7s 140 [NbConvertApp] Making directory __results___files
+1306.7s 141 [NbConvertApp] Making directory __results___files
+1306.7s 142 [NbConvertApp] Making directory __results___files
+1306.7s 143 [NbConvertApp] Making directory __results___files
+1306.7s 144 [NbConvertApp] Making directory __results___files
+1306.7s 145 [NbConvertApp] Making directory __results___files
+1306.7s 146 [NbConvertApp] Making directory __results___files
+1306.7s 147 [NbConvertApp] Writing 28325103 bytes to __results__.html
