@@ -1,0 +1,81 @@
+9.3s 1 [IPKernelApp] WARNING | Error in loading extension: bq_stats
+9.3s 2 Check your config files in /root/.ipython/profile_default
+9.3s 3 Traceback (most recent call last):
+9.3s 4 File "/opt/conda/lib/python3.10/site-packages/IPython/core/shellapp.py", line 282, in init_extensions
+9.3s 5 self.shell.extension_manager.load_extension(ext)
+9.3s 6 File "/opt/conda/lib/python3.10/site-packages/IPython/core/extensions.py", line 76, in load_extension
+9.3s 7 return self._load_extension(module_str)
+9.3s 8 File "/opt/conda/lib/python3.10/site-packages/IPython/core/extensions.py", line 91, in _load_extension
+9.3s 9 mod = import_module(module_str)
+9.3s 10 File "/opt/conda/lib/python3.10/importlib/__init__.py", line 126, in import_module
+9.3s 11 return _bootstrap._gcd_import(name[level:], package, level)
+9.3s 12 File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+9.3s 13 File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+9.3s 14 File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+9.3s 15 ModuleNotFoundError: No module named 'bq_stats'
+12.4s 16 4th batch: for-rent data len: 21834
+12.6s 17 Thread 65: Scraping for 1364 links ...Thread 66: Scraping for 1365 links ...
+12.6s 18 
+12.6s 19 Thread 67: Scraping for 1365 links ...
+12.6s 20 Thread 68: Scraping for 1364 links ...
+12.6s 21 Thread 69: Scraping for 1365 links ...
+12.6s 22 Thread 70: Scraping for 1365 links ...
+12.6s 23 Thread 71: Scraping for 1364 links ...
+12.6s 24 Thread 72: Scraping for 1365 links ...
+8320.7s 25 Error at https://propertyhub.in.th/en/listings/lumpini-ram44-size-64-sq-m-2-beds-14-b-fl-17-000-baht-094-549-4104---3584700
+9426.2s 26 Thread 72: !!! Scraping completed
+9426.2s 27 Thread 73: Scraping for 1364 links ...
+9550.5s 28 Thread 67: !!! Scraping completed
+9550.5s 29 Thread 74: Scraping for 1365 links ...
+9643.9s 30 Thread 68: !!! Scraping completed
+9643.9s 31 Thread 75: Scraping for 1365 links ...
+9838.6s 32 Thread 69: !!! Scraping completed (1 errors, 1 invalid links)
+9838.6s 33 Thread 76: Scraping for 1364 links ...
+9872.9s 34 Thread 71: !!! Scraping completed
+9872.9s 35 Thread 77: Scraping for 1365 links ...
+10105.1s 36 Error at https://propertyhub.in.th/en/listings/park-ramindra--a19e08b2---3818978
+10113.5s 37 Error at https://propertyhub.in.th/en/listings/the-origin-phahol-saphanmai-for-rent-12000-thb---3118736
+10161.9s 38 Thread 66: !!! Scraping completed
+10161.9s 39 Thread 78: Scraping for 1365 links ...
+10388.4s 40 Thread 70: !!! Scraping completed
+10388.4s 41 Thread 79: Scraping for 1364 links ...
+10408.4s 42 Thread 65: !!! Scraping completed
+10408.4s 43 Thread 80: Scraping for 1365 links ...
+12496.6s 44 Error at https://propertyhub.in.th/en/listings/for-rent-lumpini-condo-town-chonburi-sukhumvit-1-bed-21-sq-m-6th-floor---1862669
+13305.3s 45 Error at https://propertyhub.in.th/en/listings/g-3818-中国客户，请加微信。-在联系方式的旁边-for-rent-the-kith-tiwanon-line️-condopremium️---1234863
+13487.6s 46 Error at https://propertyhub.in.th/en/listings/g-2735-中国客户，请加微信。-在联系方式的旁边-for-rent-the-kith-tiwanon-line️-condopremium️---925396
+13542.8s 47 Error at https://propertyhub.in.th/en/listings/lumpini-township-rangsit-klong1--9720089f---3131113
+14239.3s 48 Error at https://propertyhub.in.th/en/listings/punna-cmu-4-for-rent-13-500-baht-doi-suthep-view-tel-082-3899314-khun-boo--c7e60ac1---3741704
+14345.3s 49 Error at https://propertyhub.in.th/en/listings/unio-rama-2-thakham-condomidium---3367531
+14411.5s 50 Error at https://propertyhub.in.th/en/listings/for-rent-lumpini-park-nawamin-sriburapha-1-bedroom-7th-floor-building-a1-near-intrarak-market-line-id-316qhucz---3773235
+14434.1s 51 Error at https://propertyhub.in.th/en/listings/dl23070648-condo-for-rent-lumpini-ville-onnut-phatthanakan-near-ready-to-move-in-call-urgently-0842740999-lineid-655ebbvc---3834859
+14437.3s 52 Error at https://propertyhub.in.th/en/listings/️condo-next-to-bts-saphan-mai-very-good-price️-reach-condo-phaholyothin-52-starting-at-7-500-baht-month---3590777
+14440.6s 53 Error at https://propertyhub.in.th/en/listings/palm-sea-view-20f-studio-thb15-000-month彡---3825420
+14456.6s 54 Error at https://propertyhub.in.th/en/listings/amazing-high-rise-1-br-condo-at-life-sukhumvit-48-near-bts-phra-khanong-id-329212---3837172
+14502.2s 55 Error at https://propertyhub.in.th/en/listings/niche-mono-mega-space-bangna-condo-for-rent-line-mintocondo---3282096
+14532.8s 56 Error at https://propertyhub.in.th/en/listings/condo-for-rent-lumpini-ville-on-nut-phatthanakan--a9d0092d---3041125
+14548.8s 57 Error at https://propertyhub.in.th/en/listings/studio-condo-at-sukhumvit-plus-near-bts-phra-khanong-id-510178--b5500a12---3565124
+14551.1s 58 Error at https://propertyhub.in.th/en/listings/punna-cmu-4-for-rent-13-500-baht-doi-suthep-view-tel-082-3899314-khun-boo--af1b0991---3741706
+14583.2s 59 Error at https://propertyhub.in.th/en/listings/riviera-wongamat-sea-view-26f-1bedroom-thb18-000-month彡---3824063
+14594.5s 60 Error at https://propertyhub.in.th/en/listings/for-rentsupalai-park-srinakarin️line-0883894733--9d2608ea---3813629
+14625.2s 61 Error at https://propertyhub.in.th/en/listings/mb508-elements-srinakarin-beautiful-room-fully-furnished-beautifully-decorated-convenient-transportation-next-to-the-suan-luang-bts-station---3820227
+14647.0s 62 Error at https://propertyhub.in.th/en/listings/urgently-knightsbridge-phaholyothin-interchange-for-rent-18k-with-fully-furnished---3228035
+20153.7s 63 Thread 78: !!! Scraping completed (2 errors, 4 invalid links)
+20573.4s 64 Thread 74: !!! Scraping completed (4 errors, 6 invalid links)
+20621.7s 65 Thread 76: !!! Scraping completed (1 errors, 1 invalid links)
+20689.4s 66 Thread 73: !!! Scraping completed (2 errors, 6 invalid links)
+20746.1s 67 Thread 75: !!! Scraping completed (3 errors, 11 invalid links)
+20752.1s 68 Thread 77: !!! Scraping completed (2 errors, 2 invalid links)
+20907.3s 69 Thread 80: !!! Scraping completed (3 errors, 5 invalid links)
+20969.2s 70 Thread 79: !!! Scraping completed (4 errors, 19 invalid links)
+20972.1s 71 Total output length: 21731
+20975.2s 72 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+20975.2s 73 warn(
+20975.3s 74 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+20975.3s 75 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+20975.7s 76 [NbConvertApp] Writing 26124 bytes to __notebook__.ipynb
+20977.3s 77 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+20977.3s 78 warn(
+20977.3s 79 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+20977.3s 80 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+20978.2s 81 [NbConvertApp] Writing 339360 bytes to __results__.html

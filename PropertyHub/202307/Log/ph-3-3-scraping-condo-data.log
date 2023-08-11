@@ -1,0 +1,59 @@
+19.0s 1 3rd batch: for-rent data len: 21834
+19.2s 2 Thread 33: Scraping for 1364 links ...
+19.2s 3 Thread 34: Scraping for 1365 links ...
+19.2s 4 Thread 35: Scraping for 1365 links ...
+19.2s 5 Thread 36: Scraping for 1364 links ...
+19.2s 6 Thread 37: Scraping for 1365 links ...
+19.2s 7 Thread 38: Scraping for 1365 links ...
+19.2s 8 Thread 39: Scraping for 1364 links ...
+19.2s 9 Thread 40: Scraping for 1365 links ...
+9497.3s 10 Thread 37: !!! Scraping completed
+9497.3s 11 Thread 41: Scraping for 1365 links ...
+9857.3s 12 Thread 34: !!! Scraping completed
+9857.3s 13 Thread 42: Scraping for 1364 links ...
+10110.1s 14 Error at https://propertyhub.in.th/en/listings/luxury-style-1-bed-1-bath-good-view-good-location-mrt-sukhumvit-20-m-bts-asok-condo-for-rent-ashton-asoke-แอชตัน-อโศก---3574090
+10139.1s 15 Error at https://propertyhub.in.th/en/listings/️-update-today-for-rent-wind-sukhumvit-23-near-bts-asoke-please-inform-the-property-code-via-line-2304-301--afd50995---3712543
+10181.9s 16 Thread 35: !!! Scraping completed
+10181.9s 17 Thread 43: Scraping for 1365 links ...
+10243.8s 18 Thread 36: !!! Scraping completed
+10243.8s 19 Thread 44: Scraping for 1365 links ...
+10365.6s 20 Thread 33: !!! Scraping completed
+10365.6s 21 Thread 45: Scraping for 1364 links ...
+10522.9s 22 Thread 38: !!! Scraping completed
+10522.9s 23 Thread 46: Scraping for 1365 links ...
+11499.2s 24 Thread 40: !!! Scraping completed
+11499.2s 25 Thread 47: Scraping for 1365 links ...
+11772.8s 26 Thread 39: !!! Scraping completed (1 errors, 5 invalid links)
+11772.8s 27 Thread 48: Scraping for 1364 links ...
+12756.6s 28 Error at https://propertyhub.in.th/en/listings/for-rent-at-the-light-house-sathorn-charoen-nakhon-negotiable-at-m678-with-too---3803987
+14283.2s 29 Error at https://propertyhub.in.th/en/listings/condo-for-rent-the-address-asoke-fully-furnished-confirm-again-when-visit--a6aa08db---3066379
+14322.5s 30 Error at https://propertyhub.in.th/en/listings/for-rent-the-key-phaholyothin-34-1-bedroom-4th-floor-building-a-near-bts-senanikom-line-id-579gllfh---3777910
+14373.3s 31 Error at https://propertyhub.in.th/en/listings/1-br-condo-at-belle-grand-rama-9-near-mrt-phra-ram-9-id-882086--ac6a09b3---3831403
+14387.2s 32 Error at https://propertyhub.in.th/en/listings/condo-for-rent-harmony-living-sukhumvit-15-fully-furnished---3406350
+14397.5s 33 Error at https://propertyhub.in.th/en/listings/metro-sky-prachachuen--a555096b---3794594
+14414.7s 34 Error at https://propertyhub.in.th/en/listings/for-rent-life-ladprao-studio-44th-floor-building-a-near-bts-lad-phrao-intersection-line-id-579gllfh---3779986
+14425.5s 35 Error at https://propertyhub.in.th/en/listings/for-rent-life-asoke-rama-9-near-mrt-rama9--b443095f---3725045
+14489.7s 36 Error at https://propertyhub.in.th/en/listings/chateau-in-town-ratchada-36--abe609a4---3798522
+14504.2s 37 Error at https://propertyhub.in.th/en/listings/for-rent-lumpini-ville-ratburana-riverview-2-6th-floor-building-:-a-size-23-sq-m-studio-1-bathroom-1513---1945392
+14506.9s 38 Error at https://propertyhub.in.th/en/listings/for-rent-modiz-ratchada-32-1-bedroom-4th-floor-near-mrt-lat-phrao-line-id-579gllfh---3784220
+14554.1s 39 Error at https://propertyhub.in.th/en/listings/3-br-condo-at-belle-grand-rama-9-near-mrt-phra-ram-9-id-514958--b75c09d4---3831571
+14677.4s 40 Error at https://propertyhub.in.th/en/listings/regent-home6-prachachuen---3803061
+21063.5s 41 Thread 45: !!! Scraping completed (3 errors, 4 invalid links)
+21230.0s 42 Thread 44: !!! Scraping completed (2 errors, 2 invalid links)
+21444.3s 43 Thread 46: !!! Scraping completed
+21686.4s 44 Thread 42: !!! Scraping completed (1 errors, 3 invalid links)
+21758.5s 45 Thread 41: !!! Scraping completed (3 errors, 4 invalid links)
+21873.0s 46 Thread 43: !!! Scraping completed (2 errors, 2 invalid links)
+22013.6s 47 Thread 47: !!! Scraping completed
+22188.4s 48 Thread 48: !!! Scraping completed (3 errors, 1 invalid links)
+22190.6s 49 Total output length: 21769
+22194.4s 50 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+22194.4s 51 warn(
+22194.4s 52 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+22194.4s 53 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+22194.8s 54 [NbConvertApp] Writing 25514 bytes to __notebook__.ipynb
+22196.2s 55 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+22196.2s 56 warn(
+22196.2s 57 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+22196.2s 58 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+22197.1s 59 [NbConvertApp] Writing 338898 bytes to __results__.html

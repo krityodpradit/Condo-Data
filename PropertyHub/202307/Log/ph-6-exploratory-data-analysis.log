@@ -1,0 +1,145 @@
+28.9s 1 Data imported !
+36.4s 2 There are NO new condo locations !
+36.4s 3 Geocodes manually filled for NaN geocodes !
+37.7s 4 Tables loaded : Thailand provinces and districts from Wiki !
+46.5s 5 --------------------
+46.5s 6 Getting provinces
+46.5s 7 No. of two names = 0
+46.5s 8 No. of not founds = 0
+153.3s 9 --------------------
+153.3s 10 Getting districts
+153.3s 11 No. of two names = 0
+153.3s 12 No. of not founds = 0
+153.3s 13 --------------------
+153.3s 14 Removing outliers outside IQR ...
+153.6s 15 For-rent: before removing outliers: 105834 records
+332.8s 16 For-rent: after removing outliers: 101980 records
+332.8s 17 For-sale: before removing outliers: 37575 records
+639.6s 18 For-sale: after removing outliers: 36012 records
+639.6s 19 --------------------
+639.6s 20 Exporting results ...
+639.6s 21 Plotting graphs ...
+655.4s 22 For-Rent
+655.4s 23 record_no
+655.4s 24 unit_type
+655.4s 25 1 Bedroom             68732
+655.4s 26 2 Bedroom             19797
+655.4s 27 Studio                 6641
+655.4s 28 3 Bedroom              2084
+655.4s 29 Duplex 1 Bedroom        795
+655.4s 30 4 Bedroom               297
+655.4s 31 Duplex 2 Bedroom        168
+655.4s 32 Penthouse                30
+655.4s 33 Duplex 3 Bedroom         19
+655.4s 34 5 Bedroom                16
+655.4s 35 Moff                     10
+655.4s 36 6 Bedroom                 5
+655.4s 37 Duplex 4 Bedroom          5
+655.4s 38 Duplex 5 Bedroom          2
+655.4s 39 Villa                     1
+655.4s 40 Total:                98602
+655.4s 41 
+655.4s 42 
+655.4s 43 For-Sale
+655.4s 44 record_no
+655.4s 45 unit_type
+655.4s 46 1 Bedroom             21606
+655.4s 47 2 Bedroom              8132
+655.4s 48 Studio                 3733
+655.4s 49 3 Bedroom              1403
+655.4s 50 4 Bedroom               202
+655.4s 51 Duplex 1 Bedroom         95
+655.4s 52 Duplex 2 Bedroom         38
+655.4s 53 5 Bedroom                36
+655.4s 54 Penthouse                34
+655.4s 55 6 Bedroom                11
+655.4s 56 Duplex 3 Bedroom         11
+655.4s 57 Moff                      4
+655.4s 58 Duplex 4 Bedroom          2
+655.4s 59 Villa                     2
+655.4s 60 Total:                35309
+972.6s 61 For-Rent
+972.6s 62 record_no
+972.6s 63 province
+972.6s 64 Bangkok                       86346
+972.6s 65 Nonthaburi                     5060
+972.6s 66 Samut Prakan                   3540
+972.6s 67 Chonburi                       1979
+972.6s 68 Pathum Thani                    478
+972.6s 69 Chiang Mai                      332
+972.6s 70 Phuket                          240
+972.6s 71 Nakhon Pathom                   198
+972.6s 72 Rayong                          162
+972.6s 73 Prachuap Khiri Khan              69
+972.6s 74 Nakhon Ratchasima                55
+972.6s 75 Songkhla                         23
+972.6s 76 Phetchaburi                      19
+972.6s 77 Phra Nakhon Si Ayutthaya         18
+972.6s 78 Khon Kaen                        17
+972.6s 79 Udon Thani                       14
+972.6s 80 Samut Sakhon                      9
+972.6s 81 Ubon Ratchathani                  8
+972.6s 82 Surat Thani                       7
+972.6s 83 Chiang Rai                        5
+972.6s 84 Nakhon Sawan                      4
+972.6s 85 Phitsanulok                       4
+972.6s 86 Lampang                           4
+972.6s 87 Chachoengsao                      4
+972.6s 88 Buriram                           3
+972.6s 89 Prachinburi                       1
+972.6s 90 Kanchanaburi                      1
+972.6s 91 Sakon Nakhon                      1
+972.6s 92 Tak                               1
+972.6s 93 Total:                        98602
+972.6s 94 
+972.6s 95 
+972.6s 96 For-Sale
+972.6s 97 record_no
+972.6s 98 province
+972.6s 99 Bangkok                       27678
+972.6s 100 Chonburi                       3406
+972.6s 101 Nonthaburi                     1466
+972.6s 102 Samut Prakan                    965
+972.6s 103 Chiang Mai                      522
+972.6s 104 Pathum Thani                    516
+972.6s 105 Phuket                          379
+972.6s 106 Prachuap Khiri Khan             170
+972.6s 107 Phetchaburi                      62
+972.6s 108 Nakhon Pathom                    40
+972.6s 109 Rayong                           33
+972.6s 110 Songkhla                         18
+972.6s 111 Samut Sakhon                     12
+972.6s 112 Khon Kaen                        10
+972.6s 113 Nakhon Ratchasima                 8
+972.6s 114 Surat Thani                       5
+972.6s 115 Udon Thani                        4
+972.6s 116 Chiang Rai                        3
+972.6s 117 Buriram                           2
+972.6s 118 Nakhon Sawan                      2
+972.6s 119 Krabi                             1
+972.6s 120 Phra Nakhon Si Ayutthaya          1
+972.6s 121 Phetchabun                        1
+972.6s 122 Chachoengsao                      1
+972.6s 123 Saraburi                          1
+972.6s 124 Maha Sarakham                     1
+972.6s 125 Lamphun                           1
+972.6s 126 Phitsanulok                       1
+972.6s 127 Total:                        35309
+1123.6s 128 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+1123.6s 129 warn(
+1123.6s 130 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+1123.7s 131 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+1125.1s 132 [NbConvertApp] Writing 29484775 bytes to __notebook__.ipynb
+1127.3s 133 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+1127.3s 134 warn(
+1127.3s 135 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+1127.3s 136 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+1131.1s 137 [NbConvertApp] Support files will be in __results___files/
+1131.1s 138 [NbConvertApp] Making directory __results___files
+1131.1s 139 [NbConvertApp] Making directory __results___files
+1131.1s 140 [NbConvertApp] Making directory __results___files
+1131.1s 141 [NbConvertApp] Making directory __results___files
+1131.1s 142 [NbConvertApp] Making directory __results___files
+1131.1s 143 [NbConvertApp] Making directory __results___files
+1131.1s 144 [NbConvertApp] Making directory __results___files
+1131.1s 145 [NbConvertApp] Writing 28138513 bytes to __results__.html

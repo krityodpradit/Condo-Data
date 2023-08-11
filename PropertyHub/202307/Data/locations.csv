@@ -1,0 +1,870 @@
+place_type,place_name,link_name,num_rent,num_sale,num_avg,flag
+School,Srinakharinwirot University Prasarnmit Demonstration School,srinakharinwirot-university-prasarnmit-demonstration-school,37958,10484,24221.0,1
+University/College,Bangkok University,bangkok-university--3,37137,9908,23522.5,1
+University/College,Srinakharinwirot University Prasanmit Campus,srinakharinwirot-university-prasanmit-campus,36399,10488,23443.5,1
+School,Sai Namphueng School,sai-namphueng-school,35391,9684,22537.5,1
+International School,Trinity International School,trinity-international-school,31492,8444,19968.0,1
+Bangkok,Watthana,watthana,26709,7168,16938.5,1
+University/College,University of the Thai Chamber of Commerce,university-of-the-thai-chamber-of-commerce,24473,6868,15670.5,1
+School,Wat Pathum Wanaram School,wat-pathum-wanaram-school,19402,5954,12678.0,1
+Bangkok,Khlong Toei,khlong-toei,17589,4732,11160.5,1
+International School,Ekamai International School,ekamai-international-school,15973,4115,10044.0,1
+School,St. Joseph Convent School,st-joseph-convent-school,14610,5386,9998.0,1
+University/College,Chulalongkorn University,chulalongkorn-university,13134,4511,8822.5,1
+University/College,Mahidol University Phaya Thai,mahidol-university-phaya-thai,13379,4259,8819.0,1
+BTS Sukhumvit Line,BTS Phra Khanong,bts-phra-khanong,13666,3175,8420.5,1
+BTS Sukhumvit Line,BTS Thong Lo (Thong Lor),bts-thong-lo-thong-lor,13217,3544,8380.5,1
+School,Silom Commercial College,silom-commercial-college,11660,4444,8052.0,1
+School,Thawsi School,thawsi-school,12794,3263,8028.5,1
+School,Santirat Institute Of Bussiness Adminstration,santirat-institute-of-bussiness-adminstration,12452,3463,7957.5,2
+School,St. Theresa School,st-theresa-school,11475,4406,7940.5,2
+School,Bangkok Christian College,bangkok-christian-college,11473,4369,7921.0,2
+School,Assumption Convent Silom School,assumption-convent-silom-school,11455,4348,7901.5,2
+School,Satri Woranat Bang Khen School,satri-woranat-bang-khen-school,12367,3397,7882.0,2
+School,Thai-Japanese Association School,thai-japanese-association-school,12213,3501,7857.0,2
+Bangkok,Huai Khwang,huai-khwang,12199,3396,7797.5,2
+MRT Blue line,MRT Phetchaburi,mrt-phetchaburi,11988,3247,7617.5,2
+School,Wattana Wittaya Academy,wattana-wittaya-academy,11704,3314,7509.0,2
+University/College,Siam University,siam-university,11532,3360,7446.0,2
+School,Assumption Commercial College (A.C.C.),assumption-commercial-college-a-c-c,10624,4176,7400.0,2
+School,Samsen Wittayalai School,samsen-wittayalai-school,10960,3441,7200.5,2
+University/College,Thonburi Vocational College,thonburi-vocational-college,10834,3090,6962.0,2
+BTS Sukhumvit Line,BTS Phrom Phong,bts-phrom-phong,10284,3241,6762.5,2
+University/College,Borom Ratchachonnani Bangkok Nursing College,borom-ratchachonnani-bangkok-nursing-college,9870,2993,6431.5,2
+University/College,Command And General Staff College,command-and-general-staff-college,9735,3066,6400.5,2
+International School,Berkeley International School,berkeley-international-school,10005,2317,6161.0,2
+University/College,Suan Dusit Rajabhat University,suan-dusit-rajabhat-university,9568,2749,6158.5,2
+University/College,Suan Sunandha University,suan-sunandha-university,9511,2772,6141.5,2
+University/College,Boromratchachonnani Nursing College,boromratchachonnani-nursing-college,9820,2392,6106.0,2
+MRT Blue line,MRT Sukhumvit,mrt-sukhumvit,8992,2971,5981.5,2
+University/College,Vajiravudh College,vajiravudh-college,9113,2755,5934.0,2
+BTS Sukhumvit Line,BTS On Nut,bts-on-nut,9469,2294,5881.5,2
+University/College,Rajamangala University of Technology Krungthep South Bangkok Campus,rajamangala-university-of-technology-krungthep-south-bangkok-campus,8451,3301,5876.0,2
+Bangkok,Siam Discovery,siam-discovery,8889,2788,5838.5,2
+Bangkok,Chatuchak,chatuchak--3,9344,2261,5802.5,2
+School,Wat Patumkongka School,wat-patumkongka-school,8406,3125,5765.5,2
+Bangkok,Ratchathewi,ratchathewi,9168,2282,5725.0,2
+University/College,Samitivej Thonburi Hospital,samitivej-thonburi-hospital,8674,2670,5672.0,2
+University/College,Thonburi Commercial College,thonburi-commercial-college,8734,2491,5612.5,2
+BTS Sukhumvit Line,BTS Ekkamai,bts-ekkamai,8955,2154,5554.5,2
+BTS Sukhumvit Line,BTS Asok,bts-asok,8202,2709,5455.5,2
+University/College,Rajamangala University of Technology Krungthep,rajamangala-university-of-technology-krungthep,7633,3136,5384.5,2
+School,Wijit Withaya School,wijit-withaya-school,7990,2261,5125.5,2
+School,Nonsi Witthaya School,nonsi-witthaya-school,7259,2889,5074.0,2
+MRT Blue line,MRT Phra Ram 9,mrt-phra-ram-9,7996,1949,4972.5,3
+University/College,King Mongkut s University of Technology North Bangkok,king-mongkut-s-university-of-technology-north-bangkok,7729,2133,4931.0,3
+University/College,Chandrakasem Rajabhat University,chandrakasem-rajabhat-university,7794,2033,4913.5,3
+School,Chan Hun Bumpen School,chan-hun-bumpen-school,7135,2380,4757.5,3
+Nonthaburi,Thailand Nursing and Midwifery Council,thailand-nursing-and-midwifery-council,7308,1962,4635.0,3
+Nonthaburi,The Food and Drug Administration (FDA),the-food-and-drug-administration-fda,7244,1934,4589.0,3
+University/College,Royal Thai Army Nursing College,royal-thai-army-nursing-college,7063,2031,4547.0,3
+University/College,Phramongkutklao College of Medicine,phramongkutklao-college-of-medicine,7062,2028,4545.0,3
+School,Bangkok Patana School,bangkok-patana-school,7432,1648,4540.0,3
+Nonthaburi,Social Security Office Bangkok Head office,social-security-office-bangkok-head-office,7022,1885,4453.5,3
+Nonthaburi,Department of Mental Health,department-of-mental-health,7000,1898,4449.0,3
+School,Sri Ayudhya School,sri-ayudhya-school,6771,1960,4365.5,3
+University/College,Rajabhat Thonburi University,rajabhat-thonburi-university,6709,1922,4315.5,3
+University/College,Srithanya Nursing College,srithanya-nursing-college,6749,1841,4295.0,3
+Bangkok,Pathum Wan,pathum-wan,6368,1941,4154.5,3
+University/College,Rajamangala University of Technology Phra Nakhon North Bangkok Campus,rajamangala-university-of-technology-phra-nakhon-north-bangkok-campus,6402,1730,4066.0,3
+School,Wat Khemapirataram School,wat-khemapirataram-school,6369,1696,4032.5,3
+International School,Shrewsbury International School,shrewsbury-international-school,5751,2287,4019.0,3
+University/College,Boromarajonani College Of Nursing Bamrasnaradura,boromarajonani-college-of-nursing-bamrasnaradura,6339,1615,3977.0,3
+Nonthaburi,Muang Nonthaburi Nonthaburi,muang-nonthaburi-nonthaburi,6252,1338,3795.0,3
+University/College,Ratchaphak Technology And Management College,ratchaphak-technology-and-management-college,5791,1634,3712.5,3
+Bangkok,Bang Na,bang-na,6178,1188,3683.0,3
+School,Wat Nuan Noradit School,wat-nuan-noradit-school,5680,1618,3649.0,3
+Bangkok,Phra Khanong,phra-khanong,5853,1436,3644.5,3
+School,Saint Francis Xavier Convent School,saint-francis-xavier-convent-school,5583,1613,3598.0,3
+Bangkok,Phet Kasem Road,phet-kasem-road,5488,1529,3508.5,3
+Bangkok,Din Daeng,din-daeng,5179,1609,3394.0,3
+School,Watrajaoros School,watrajaoros-school,5279,1435,3357.0,3
+University/College,Assumption University Huamark Campus (Abac Huamark),assumption-university-huamark-campus-abac-huamark,5025,1532,3278.5,3
+Nonthaburi,Rattanathibet Road,rattanathibet-road--3,5484,1001,3242.5,3
+School,Lycée Français International de Bangkok,lyc%C3%A9e-fran%C3%A7ais-international-de-bangkok,4946,1514,3230.0,3
+School,Silachara Phiphat School,silachara-phiphat-school,5036,1383,3209.5,3
+Bangkok,Suan Luang,suan-luang,4948,1391,3169.5,3
+Nonthaburi,Esplanade Ngamwongwan-Khaerai,esplanade-ngamwongwan-khaerai,4913,1392,3152.5,3
+University/College,Reserves Training Center Territorial Defense Department,reserves-training-center-territorial-defense-department,4787,1514,3150.5,3
+School,Wat Wettawan Thammawat School,wat-wettawan-thammawat-school,4864,1362,3113.0,3
+University/College,Inthrachai Commercial College,inthrachai-commercial-college,4750,1450,3100.0,3
+Bangkok,Bang Sue,bang-sue,4554,1270,2912.0,3
+School,Bang Pakok Wittaya School,bang-pakok-wittaya-school,4372,1388,2880.0,3
+Samut Prakarn,Muang Samut Prakarn Samut Prakarn,muang-samut-prakarn-samut-prakarn,4637,1113,2875.0,3
+School,Ramkhamhaeng University Demonstration Schoo,ramkhamhaeng-university-demonstration-schoo,4258,1370,2814.0,3
+Bangkok,Bang Rak,bang-rak,3934,1644,2789.0,3
+BTS Sukhumvit Line,BTS Chit Lom,bts-chit-lom,4287,1279,2783.0,3
+BTS Sukhumvit Line,BTS Nana,bts-nana,4180,1356,2768.0,3
+School,Santirat Witthayalai School,santirat-witthayalai-school,4073,1343,2708.0,3
+MRT Blue line,MRT Si Lom,mrt-si-lom,3834,1561,2697.5,3
+International School,Singapore International School of Bangkok (SISB),singapore-international-school-of-bangkok-sisb,3979,1409,2694.0,3
+School,Song Wittaya School,song-wittaya-school,4315,980,2647.5,3
+BTS Silom Line,BTS Sala Daeng,bts-sala-daeng,3764,1524,2644.0,3
+Bangkok,Sathon,sathon,3662,1595,2628.5,3
+BTS Sukhumvit Line,BTS Phloen Chit,bts-phloen-chit,3992,1122,2557.0,3
+Bangkok,Pracha Uthit (Huai Khwang),pracha-uthit-huai-khwang,3837,1215,2526.0,3
+BTS Sukhumvit Line,BTS Bang Chak,bts-bang-chak,4096,875,2485.5,3
+BTS Sukhumvit Line,BTS Punnawithi,bts-punnawithi,3881,1003,2442.0,3
+Bangkok,Thon Buri,thon-buri,3921,945,2433.0,3
+BTS Sukhumvit Line,BTS Udom Suk,bts-udom-suk,3889,961,2425.0,3
+Bangkok,Ramkhamhaeng Road,ramkhamhaeng-road,3629,1190,2409.5,3
+MRT Blue line,MRT Sam Yan,mrt-sam-yan,3330,1307,2318.5,3
+Nonthaburi,"Lak Mueang Shrine, Nonthaburi",lak-mueang-shrine-nonthaburi,3613,968,2290.5,3
+Bangkok,Bang Kapi,bang-kapi,3468,1099,2283.5,3
+School,Phaya Thai School,phaya-thai-school,3400,1160,2280.0,3
+School,Wat Ratchabophit School,wat-ratchabophit-school,3387,1148,2267.5,3
+Bangkok,Khlong San,khlong-san,3430,1085,2257.5,3
+BTS Silom Line,BTS Chong Nonsi,bts-chong-nonsi,3200,1227,2213.5,3
+MRT Blue line,MRT Lumphini,mrt-lumphini,3138,1146,2142.0,3
+MRT Blue line,MRT Phahon Yothin,mrt-phahon-yothin,3537,711,2124.0,3
+Grey Line,Bangkok University Station,bangkok-university-station--2,3284,935,2109.5,3
+MRT Blue line,MRT Queen Sirikit National Convention Center,mrt-queen-sirikit-national-convention-center,3052,1148,2100.0,3
+School,Amnuay Silpa School,amnuay-silpa-school,3126,1071,2098.5,3
+BTS Sukhumvit Line,BTS Ladphrao Intersection,bts-ladphrao-intersection,3479,694,2086.5,3
+School,St. Joseph Bangna,st-joseph-bangna,3305,801,2053.0,3
+MRT Orange Line,MRT Pratu Nam,mrt-pratu-nam,3108,957,2032.5,3
+Grey Line,Ban Kluai Tai Station,ban-kluai-tai-station,3262,751,2006.5,4
+School,La Salle College,la-salle-college,3289,719,2004.0,4
+Chonburi,Bang Lamung Chonburi,bang-lamung-chonburi,957,3038,1997.5,4
+MRT Orange Line,MRT MRTA,mrt-mrta,3232,703,1967.5,4
+Nonthaburi,Pantip Plaza Ngamwongwan,pantip-plaza-ngamwongwan,3069,857,1963.0,4
+Bangkok,Tawanna,tawanna,2833,960,1896.5,4
+University/College,Ramkhamhaeng University,ramkhamhaeng-university,2912,880,1896.0,4
+School,Ladprao Bilingual School,ladprao-bilingual-school,2877,867,1872.0,4
+BTS Silom Line,BTS Talat Phlu,bts-talat-phlu,3029,674,1851.5,4
+Bangkok,Phaya Thai,phaya-thai,2741,900,1820.5,4
+Grey Line,Phetchaburi-Thonglor Station,phetchaburi-thonglor-station,2865,771,1818.0,4
+Grey Line,Thonglor 10 Station,thonglor-10-station,2915,717,1816.0,4
+School,Wat Samian Nari School,wat-samian-nari-school,2829,796,1812.5,4
+School,Udom Kasem Business,udom-kasem-business,2803,742,1772.5,4
+School,Rajinibon School,rajinibon-school,2830,709,1769.5,4
+MRT Blue line,MRT Huai Khwang,mrt-huai-khwang,2733,782,1757.5,4
+School,Santichon Islamic School,santichon-islamic-school,2724,757,1740.5,4
+BTS Sukhumvit Line,BTS Mo Chit,bts-mo-chit,2713,690,1701.5,4
+University/College,Rattana Bandit University (Rbac),rattana-bandit-university-rbac,2594,790,1692.0,4
+BTS Sukhumvit Line,BTS Bearing,bts-bearing,2739,628,1683.5,4
+Bangkok,Metropolitan Electricity Authority Bang Khen,metropolitan-electricity-authority-bang-khen,2650,691,1670.5,4
+MRT Blue line,MRT Thailand Cultural Centre,mrt-thailand-cultural-centre,2432,843,1637.5,4
+BTS Silom Line,BTS Ratchadamri,bts-ratchadamri,2256,952,1604.0,4
+Samut Prakarn,Soi Bearing (Sukhumvit 107),soi-bearing-sukhumvit-107,2571,576,1573.5,4
+University/College,Sukhothai Thammathirat Open University,sukhothai-thammathirat-open-university,2623,510,1566.5,4
+Grey Line,Suan Plu Station,suan-plu-station--2,2324,790,1557.0,4
+Nonthaburi,Pak Kret Nonthaburi,pak-kret-nonthaburi,2590,497,1543.5,4
+University/College,National Institute of Development Administration (NIDA),national-institute-of-development-administration-nida,2313,763,1538.0,4
+MRT Blue line,MRT Sutthisan,mrt-sutthisan,2266,780,1523.0,4
+Bangkok,Chan Road,chan-road,2158,853,1505.5,4
+MRT Blue line,MRT Tao Poon,mrt-tao-poon,2327,672,1499.5,4
+BTS Sukhumvit Line,BTS Bang Na,bts-bang-na,2521,478,1499.5,4
+School,Mathayom Prachaniwet school,mathayom-prachaniwet-school,2399,560,1479.5,4
+Nonthaburi,Chang Chui,chang-chui,2331,559,1445.0,4
+School,Chonprathanwittaya School,chonprathanwittaya-school,2483,389,1436.0,4
+Gold Line,Krung Thon Buri Station,krung-thon-buri-station,2249,613,1431.0,4
+BTS Sukhumvit Line,BTS Samrong,bts-samrong,2131,615,1373.0,4
+School,Benjamarachanusorn School,benjamarachanusorn-school,2235,491,1363.0,4
+Bangkok,Bang Phlat,bang-phlat,2213,507,1360.0,4
+Bangkok,Asoke Road,asoke-road,2106,597,1351.5,4
+University/College,Panyapiwat Institute of Management,panyapiwat-institute-of-management,2254,446,1350.0,4
+BTS Silom Line,BTS Wutthakat,bts-wutthakat,2168,518,1343.0,4
+BTS Sukhumvit Line,BTS Saphan Khwai,bts-saphan-khwai,1977,679,1328.0,4
+BTS Sukhumvit Line,BTS Victory Monument,bts-victory-monument,1997,644,1320.5,4
+BTS Silom Line,BTS Surasak,bts-surasak,1681,954,1317.5,4
+MRT Orange Line,MRT Ramkhamhaeng 12,mrt-ramkhamhaeng-12,2062,558,1310.0,4
+International School,International Community School (ICS),international-community-school-ics,2050,531,1290.5,4
+Grey Line,Kasemrat Station,kasemrat-station,1969,594,1281.5,4
+Bangkok,Wong Sawang Road,wong-sawang-road,1943,603,1273.0,4
+International School,Thai-Singapore International School Srinakarin,thai-singapore-international-school-srinakarin,2063,468,1265.5,4
+University/College,Thammasat University,thammasat-university,2072,453,1262.5,4
+School,Satri Witthaya 2 School,satri-witthaya-2-school,1918,591,1254.5,4
+Bangkok,Yan Nawa,yan-nawa,1633,795,1214.0,4
+MRT Blue line,MRT Ratchadaphisek,mrt-ratchadaphisek,1717,681,1199.0,4
+University/College,Phranakhon Rajabhat University,phranakhon-rajabhat-university,1894,492,1193.0,4
+University/College,Kasetsart University,kasetsart-university,1816,564,1190.0,4
+School,Yothinburana School,yothinburana-school,1786,560,1173.0,4
+School,Panaya Phatthanakan,panaya-phatthanakan,1765,538,1151.5,4
+MRT Purple line,MRT Bang Son,mrt-bang-son,1804,462,1133.0,4
+Nonthaburi,Impact Muang Thong,impact-muang-thong,1886,379,1132.5,4
+Nonthaburi,Muang Thong Thanee,muang-thong-thanee,1883,378,1130.5,4
+School,Sarawittaya School,sarawittaya-school,1720,499,1109.5,4
+Grey Line,Narathiwat Station,narathiwat-station,1563,634,1098.5,4
+University/College,Krirk University,krirk-university,1731,463,1097.0,4
+Grey Line,Jamjan Station,jamjan-station,1739,437,1088.0,4
+MRT Blue line,MRT Lat Phrao,mrt-lat-phrao,1634,534,1084.0,4
+SRT Light Red Line,Bang Son Station,bang-son-station,1699,456,1077.5,4
+School,Saint Gabriel College,saint-gabriel-college,1773,375,1074.0,4
+University/College,Thai Business Administration Technological College,thai-business-administration-technological-college,1634,505,1069.5,4
+International School,Thai-Singapore International School,thai-singapore-international-school,1731,408,1069.5,4
+BTS Silom Line,BTS Krung Thon Buri,bts-krung-thon-buri,1647,474,1060.5,4
+BTS Sukhumvit Line,BTS Ratchathewi,bts-ratchathewi,1566,554,1060.0,4
+Bangkok,Phasi Charoen,phasi-charoen,1588,517,1052.5,4
+School,Satri Woranat School,satri-woranat-school,1666,378,1022.0,4
+BTS Sukhumvit Line,BTS Siam,bts-siam,1426,600,1013.0,4
+BTS Silom Line,BTS Bang Wa,bts-bang-wa,1521,501,1011.0,4
+BTS Sukhumvit Line,BTS Sena Ruam,bts-sena-ruam,1511,511,1011.0,4
+MRT Blue line,MRT Chatuchak Park,mrt-chatuchak-park,1677,345,1011.0,4
+MRT Purple line,MRT Phra Nang klao Bridge,mrt-phra-nang-klao-bridge,1786,223,1004.5,4
+BTS Sukhumvit Line,BTS Phaya Thai,bts-phaya-thai,1514,409,961.5,4
+Bangkok,Bang Khen,bang-khen,1510,395,952.5,4
+School,Assumption Samutprakarn School,assumption-samutprakarn-school,1535,369,952.0,4
+Chonburi,Wat Phra Yai,wat-phra-yai,392,1510,951.0,4
+MRT Orange Line,MRT Ratchathewi,mrt-ratchathewi,1380,513,946.5,4
+International School,Concordian International School,concordian-international-school,1498,372,935.0,4
+University/College,King Mongkut University Of Technology Thonburi,king-mongkut-university-of-technology-thonburi,1297,512,904.5,4
+University/College,Navamindradhiraj University,navamindradhiraj-university,1514,258,886.0,4
+Bangkok,Prasert Manukit Road,prasert-manukit-road,1348,422,885.0,4
+MRT Purple line,MRT Wong Sawang,mrt-wong-sawang,1496,266,881.0,4
+MRT Yellow Line,MRT Ratchada,mrt-ratchada--ab2b0965,1317,436,876.5,4
+Bangkok,Chom Thong,chom-thong,1337,414,875.5,4
+School,Suankularb Wittayalai Nonthaburi School,suankularb-wittayalai-nonthaburi-school,1530,217,873.5,4
+MRT Orange Line,MRT Wat Phra Ram 9,mrt-wat-phra-ram-9,1356,376,866.0,4
+School,Ratchawinit Bang Khae School,ratchawinit-bang-khae-school--2,1374,341,857.5,4
+Grey Line,Nang Lingee Station,nang-lingee-station,1187,489,838.0,4
+Bangkok,Sukumvit 24,sukumvit-24,1253,419,836.0,4
+MRT Yellow Line,MRT Phattanakan,mrt-phattanakan,1287,373,830.0,4
+BTS Silom Line,BTS Wongwian Yai,bts-wongwian-yai,1260,393,826.5,4
+MRT Yellow Line,MRT Bang Kapi,mrt-bang-kapi,1210,407,808.5,4
+MRTA Pink Line,Khae Rai Station,khae-rai-station,1296,312,804.0,4
+Bangkok,Bangkok Noi,bangkok-noi,1202,383,792.5,4
+MRT Orange Line,MRT Ramkhamhaeng 34,mrt-ramkhamhaeng-34,1253,319,786.0,4
+MRT Blue line,MRT Bang Pho,mrt-bang-pho--ae07097e,1152,420,786.0,4
+School,Loet La School,loet-la-school,1216,355,785.5,4
+MRT Purple line,MRT Bang Kraso,mrt-bang-kraso,1243,297,770.0,4
+Bangkok,Sukumvit 22,sukumvit-22,1075,460,767.5,4
+BTS Silom Line,BTS Pho Nimit,bts-pho-nimit,1222,287,754.5,4
+Chonburi,Pattaya City Hall,pattaya-city-hall,460,1047,753.5,4
+School,Ratwinit Bangkaeo School,ratwinit-bangkaeo-school,1195,305,750.0,4
+MRTA Pink Line,Mueang Thong Thani Station,mueang-thong-thani-station,1224,272,748.0,4
+BTS Sukhumvit Line,BTS Sena Nikhom,bts-sena-nikhom,1145,346,745.5,4
+School,The Pattaya Redemptorist School for the Blind,the-pattaya-redemptorist-school-for-the-blind,456,1016,736.0,4
+Grey Line,Mahai Sawan Station,mahai-sawan-station--3,1077,387,732.0,4
+Bangkok,Sukumvit 50,sukumvit-50,1214,245,729.5,4
+School,Phothi Samphan Phitthayakhan School,phothi-samphan-phitthayakhan-school,449,1007,728.0,4
+MRT Orange Line,MRT Rang Nam,mrt-rang-nam,1127,316,721.5,4
+MRT Blue line,MRT Bang Yi Khan,mrt-bang-yi-khan,1181,251,716.0,4
+Chonburi,Tiffany Show Pattaya,tiffany-show-pattaya,446,980,713.0,4
+Chonburi,Art in Paradise Pattaya,art-in-paradise-pattaya,446,980,713.0,4
+BTS Sukhumvit Line,BTS Ratchayothin,bts-ratchayothin,1116,307,711.5,4
+University/College,Mahamakut Buddhist University,mahamakut-buddhist-university,1171,250,710.5,4
+University/College,Saiaksorn School,saiaksorn-school,1096,304,700.0,4
+Chonburi,Si Racha Chonburi,si-racha-chonburi,1005,393,699.0,4
+MRTA Pink Line,Si Rat Station,si-rat-station,1106,267,686.5,4
+BTS Sukhumvit Line,BTS Kasetsart University,bts-kasetsart-university--2,1006,360,683.0,4
+School,Marryvit Pattaya School,marryvit-pattaya-school,415,927,671.0,4
+Chonburi,Pinthong Industrial Estate,pinthong-industrial-estate,980,343,661.5,4
+BTS Sukhumvit Line,BTS Phaholyothin 24,bts-phaholyothin-24,1054,267,660.5,4
+Samut Prakarn,Bang Plee Samut Prakarn,bang-plee-samut-prakarn,1036,274,655.0,4
+BTS Sukhumvit Line,BTS Ari,bts-ari,1040,266,653.0,4
+University/College,Kasetsart University Si Racha Campus,kasetsart-university-si-racha-campus,965,338,651.5,4
+University/College,Yamjard Vichanusorn School,yamjard-vichanusorn-school,1021,280,650.5,4
+University/College,The Thai Bar Under The Royal Patronage,the-thai-bar-under-the-royal-patronage,1025,269,647.0,4
+School,St.Paul s Convent School,st-paul-s-convent-school,924,353,638.5,4
+University/College,North Bangkok University,north-bangkok-university,996,262,629.0,4
+Chonburi,Pattaya Night Bazaar,pattaya-night-bazaar,306,922,614.0,4
+Nonthaburi,Bang Bua Thong Nonthaburi,bang-bua-thong-nonthaburi,1015,210,612.5,4
+Bangkok,Lak Si,lak-si,992,232,612.0,4
+MRT Blue line,MRT Tha Phra,mrt-tha-phra,932,291,611.5,4
+MRT Purple line,MRT Nonthaburi Civic Center,mrt-nonthaburi-civic-center,975,231,603.0,4
+Samut Prakarn,Anya Thani Industrial Estate (Gemopolis),anya-thani-industrial-estate-gemopolis,793,409,601.0,4
+Chiang Mai,Muang Chiang Mai Chiang Mai,muang-chiang-mai-chiang-mai,454,719,586.5,4
+Bangkok,Sukumvit 26,sukumvit-26,925,243,584.0,4
+University/College,Boromarajonani College Of Nursing Noppharat Wachi,boromarajonani-college-of-nursing-noppharat-wachi,977,185,581.0,4
+Bangkok,Wang Thonglang,wang-thonglang,881,276,578.5,4
+School,Muang Pattaya 2 School,muang-pattaya-2-school,366,778,572.0,4
+Chonburi,Sanctuary of Truth,sanctuary-of-truth,365,779,572.0,4
+Chiang Mai,Chiang Mai Pillar City Shrine,chiang-mai-pillar-city-shrine,443,683,563.0,4
+School,Ratchawinit Bang Khen School,ratchawinit-bang-khen-school,882,235,558.5,4
+MRT Orange Line,MRT Yaek Lam Sali,mrt-yaek-lam-sali,814,300,557.0,4
+MRTA Pink Line,Chaeng Watthana 14 Station,chaeng-watthana-14-station,869,241,555.0,4
+Nonthaburi,The Square Bang Yai,the-square-bang-yai,911,194,552.5,4
+Bangkok,Pradist Manutham Road,pradist-manutham-road,830,260,545.0,4
+Bangkok,Bang Khae,bang-khae,877,210,543.5,4
+MRT Purple line,MRT Ministry of Public Health,mrt-ministry-of-public-health,831,250,540.5,4
+School,Wat Nimmanoradee,wat-nimmanoradee,862,185,523.5,4
+Chiang Mai,Provincial Waterworks Authority Chiang Mai,provincial-waterworks-authority-chiang-mai,417,625,521.0,4
+School,Navamindarajudis Krungthepmahanakhon School,navamindarajudis-krungthepmahanakhon-school,832,209,520.5,4
+University/College,Bangkok Arts&Crafts College,bangkok-arts-crafts-college,803,229,516.0,4
+BTS Sukhumvit Line,BTS Sanam Pao,bts-sanam-pao,758,261,509.5,4
+MRT Blue line,MRT Hua Lamphong,mrt-hua-lamphong,776,241,508.5,4
+MRT Purple line,MRT Talad Bang Yai,mrt-talad-bang-yai,832,180,506.0,4
+BTS Silom Line,BTS Saphan Taksin,bts-saphan-taksin,654,356,505.0,4
+School,Thepbodint Wittaya,thepbodint-wittaya,414,594,504.0,4
+School,Darasamut School,darasamut-school,756,250,503.0,4
+School,Si Racha School,si-racha-school,756,250,503.0,4
+MRT Blue line,MRT Bang Sue,mrt-bang-sue,777,227,502.0,4
+School,Bodindecha (Sing Singhaseni) School,bodindecha-sing-singhaseni-school,889,114,501.5,4
+School,Wat Bueng Thonglang Secondary School,wat-bueng-thonglang-secondary-school,753,240,496.5,4
+MRT Orange Line,MRT Ramkhamhaeng University,mrt-ramkhamhaeng-university,749,242,495.5,4
+School,Assumption College Sriracha,assumption-college-sriracha,734,237,485.5,4
+University/College,Siam Technology College,siam-technology-college,664,282,473.0,4
+Chiang Mai,ChiangMai Provincial Court,chiangmai-provincial-court,361,585,473.0,4
+School,Srithana Technology College,srithana-technology-college,365,577,471.0,4
+Bangkok,Bang Kho Laem,bang-kho-laem,599,340,469.5,4
+BTS Silom Line,BTS Saint Louis,bts-saint-louis,666,268,467.0,4
+Grey Line,Ratchada-Narathiwat Station,ratchada-narathiwat-station,627,307,467.0,4
+SRT Dark Red Line,Hua Lamphong Station,hua-lamphong-station,695,221,458.0,4
+Grey Line,Charoen Krung Station,charoen-krung-station,643,254,448.5,4
+Chonburi,Muang Chon Buri Chonburi,muang-chon-buri-chonburi,686,205,445.5,4
+MRT Blue line,MRT Bang Khae,mrt-bang-khae,753,135,444.0,4
+MRT Orange Line,MRT Yommarat,mrt-yommarat--2,670,210,440.0,4
+University/College,Montfort College Primary Section,montfort-college-primary-section,358,502,430.0,4
+MRT Orange Line,MRT Rajamangala,mrt-rajamangala,696,161,428.5,4
+University/College,Royal Thai Naval Academy,royal-thai-naval-academy,685,163,424.0,4
+Bangkok,Khan Na Yao,khan-na-yao,697,148,422.5,4
+MRT Yellow Line,MRT Si La Salle,mrt-si-la-salle,682,160,421.0,4
+Chiang Mai,Electricity Authority District 1 Chiang Mai,electricity-authority-district-1-chiang-mai,337,464,400.5,4
+Bangkok,Lat Krabang,lat-krabang,513,288,400.5,4
+Grey Line,Rama 4 Station,rama-4-station,589,201,395.0,4
+Bangkok,Bueng Kum,bueng-kum,571,209,390.0,4
+University/College,Rangsit University,rangsit-university,452,328,390.0,4
+Grey Line,Khlong Dan Station,khlong-dan-station,532,244,388.0,4
+University/College,Payap University (Kaeo Nawarat Campus),payap-university-kaeo-nawarat-campus,314,452,383.0,4
+University/College,Rajamangala Institute of Technology,rajamangala-institute-of-technology,559,203,381.0,4
+MRT Purple line,MRT Yaek Tiwanon,mrt-yaek-tiwanon,550,207,378.5,4
+Bangkok,Bangkok Yai,bangkok-yai,524,229,376.5,4
+BTS Sukhumvit Line,BTS Wat Phra Sri Mahathat,bts-wat-phra-sri-mahathat,561,190,375.5,4
+MRT Blue line,MRT Bang Wa,mrt-bang-wa,570,174,372.0,4
+School,Streesmutprakan School,streesmutprakan-school,578,145,361.5,4
+MRT Blue line,MRT Sirindhorn,mrt-sirindhorn,614,106,360.0,4
+Bangkok,Prawet,prawet,498,204,351.0,4
+Samut Prakarn,Bang Pu Industrial Estate,bang-pu-industrial-estate,551,145,348.0,4
+School,Sarasas Wataed Ratchaphruek School,sarasas-wataed-ratchaphruek-school,603,90,346.5,4
+MRT Blue line,MRT Bang Khun Non,mrt-bang-khun-non,566,124,345.0,4
+Bangkok,Lat Phrao,lat-phrao,477,212,344.5,4
+Pathumthani,Khlong Luang Pathumthani,khlong-luang-pathumthani,412,260,336.0,4
+School,Suankularb Wittayalai School,suankularb-wittayalai-school,524,147,335.5,4
+Chiang Mai,Suandok Park,suandok-park,230,433,331.5,4
+MRT Purple line,MRT Sam Yaek Bang Yai,mrt-sam-yaek-bang-yai,558,101,329.5,4
+Chiang Mai,Chiang Mai Provincial Land Transport Office,chiang-mai-provincial-land-transport-office,234,412,323.0,4
+School,Sarasas Witaed Chiang Mai School,sarasas-witaed-chiang-mai-school,273,366,319.5,4
+School,Pakkret School,pakkret-school,558,75,316.5,4
+MRT Blue line,MRT Fai Chai,mrt-fai-chai,517,113,315.0,4
+MRT Blue line,MRT Kamphaeng Phet,mrt-kamphaeng-phet,482,141,311.5,4
+School,Yupparaj Wittayalai School,yupparaj-wittayalai-school,252,371,311.5,4
+MRTA Pink Line,Pak Kret Station,pak-kret-station,549,73,311.0,4
+University/College,"Thammasat University, Rangsit Campus",thammasat-university-rangsit-campus,371,249,310.0,4
+University/College,Bangkok University,bangkok-university--4,372,245,308.5,4
+MRTA Pink Line,Ram Inthra 3 station,ram-inthra-3-station,503,112,307.5,4
+MRT Purple line,MRT Yaek Nonthaburi 1,mrt-yaek-nonthaburi-1,435,178,306.5,4
+Chiang Mai,U.S. Consulate General Chiang mai,u-s-consulate-general-chiang-mai,260,348,304.0,4
+Bangkok,Rat Burana,rat-burana,446,158,302.0,4
+MRT Blue line,MRT Phasi Charoen,mrt-phasi-charoen,503,100,301.5,4
+BTS Sukhumvit Line,BTS Pu Chao,bts-pu-chao,477,124,300.5,4
+Grey Line,Charoen Rat Station,charoen-rat-station,412,183,297.5,4
+MRT Blue line,MRT Bang Aor,mrt-bang-aor,441,148,294.5,4
+Chonburi,Rubberland,rubberland,161,426,293.5,4
+University/College,Thepanya Hospital,thepanya-hospital,238,348,293.0,4
+MRT Purple line,MRT Sai Ma,mrt-sai-ma,517,66,291.5,4
+MRT Blue line,MRT Lak Song,mrt-lak-song,474,103,288.5,4
+Nonthaburi,Bang Yai Nonthaburi,bang-yai-nonthaburi,482,89,285.5,4
+Chiang Mai,Macro Chiang Mai,macro-chiang-mai,255,310,282.5,4
+Grey Line,Ngamduplee Station,ngamduplee-station,439,126,282.5,4
+Gold Line,Charoen Nakhon Station,charoen-nakhon-station,379,185,282.0,4
+BTS Sukhumvit Line,BTS Chang Erawan,bts-chang-erawan,483,81,282.0,4
+School,Chiang Mai University Demonstration School,chiang-mai-university-demonstration-school,186,375,280.5,4
+Chonburi,King Power Pattaya Complex,king-power-pattaya-complex,151,409,280.0,4
+MRT Yellow Line,MRT Lat Phrao 101,mrt-lat-phrao-101,429,128,278.5,4
+Grey Line,Sathu Pradit Station,sathu-pradit-station,368,185,276.5,4
+University/College,Far Eastern University,far-eastern-university,200,353,276.5,4
+University/College,Montfort College Secondary Section,montfort-college-secondary-section,251,301,276.0,4
+Chonburi,Si Racha Post Center,si-racha-post-center,380,168,274.0,4
+MRT Blue line,MRT Phet Kasem 48,mrt-phet-kasem-48,405,140,272.5,4
+University/College,Payap University (Mae Khao Campus),payap-university-mae-khao-campus,234,308,271.0,4
+MRT Yellow Line,MRT Si Kritha,mrt-si-kritha,326,214,270.0,4
+Bangkok,Siam Park,siam-park,456,81,268.5,4
+Chiang Mai,Chiang Mai International Exhibition and Convention Centre,chiang-mai-international-exhibition-and-convention-centre,170,365,267.5,4
+Chiang Mai,Bikky Arcade Chiang Mai,bikky-arcade-chiang-mai,232,298,265.0,4
+Chonburi,Nong Mai Daeng,nong-mai-daeng,447,75,261.0,4
+Chiang Mai,Charoen Thai Post Office Chiang Mai,charoen-thai-post-office-chiang-mai,228,280,254.0,4
+MRT Yellow Line,MRT Phawana,mrt-phawana,339,167,253.0,4
+University/College,Wat Manorom School,wat-manorom-school,344,158,251.0,4
+BTS Sukhumvit Line,BTS Sai Yud,bts-sai-yud,406,96,251.0,4
+University/College,Sriracha Technological College,sriracha-technological-college--3,343,158,250.5,4
+SRT Light Red Line,Bang Bamru Station,bang-bamru-station,373,126,249.5,4
+MRTA Pink Line,Chaeng Watthana-Pak Kret 28 Station,chaeng-watthana-pak-kret-28-station,448,47,247.5,4
+Gold Line,Klongsan Station,klongsan-station,388,105,246.5,4
+Phuket,Muang Phuket Phuket,muang-phuket-phuket,211,282,246.5,4
+School,Thammasat Klong Luang Wittayakom,thammasat-klong-luang-wittayakom,337,155,246.0,4
+School,Saipanyarangsit School,saipanyarangsit-school,175,315,245.0,4
+University/College,The Prince Royal College,the-prince-royal-college,218,272,245.0,4
+School,Thanyaburi School,thanyaburi-school,174,315,244.5,4
+School,Navamindarajudis Phayap School,navamindarajudis-phayap-school,145,337,241.0,4
+Grey Line,Saphan Rama 9 Station,saphan-rama-9-station,324,157,240.5,4
+Pathumthani,Lumlukka Road,lumlukka-road,161,313,237.0,4
+Chiang Mai,Maya Chiang Mai,maya-chiang-mai,162,309,235.5,4
+University/College,Mahachulalongkorn Rajavidyalaya University Chiang Mai,mahachulalongkorn-rajavidyalaya-university-chiang-mai,155,314,234.5,4
+MRT Blue line,MRT Khlong Toei,mrt-khlong-toei,338,130,234.0,4
+MRTA Pink Line,Phranakhon Rajabhat University Station,phranakhon-rajabhat-university-station,360,106,233.0,4
+Chonburi,Tukcom Chonburi,tukcom-chonburi,415,47,231.0,4
+School,Anuban Chonburi School,anuban-chonburi-school,413,46,229.5,4
+School,Chonradsadornumrung School,chonradsadornumrung-school,413,46,229.5,4
+Chonburi,Provincial Waterworks Authority Region 1,provincial-waterworks-authority-region-1,413,46,229.5,4
+Chonburi,Provincial Waterworks Authority Chonburi,provincial-waterworks-authority-chonburi,413,46,229.5,4
+School,Chonkanyanukoon School,chonkanyanukoon-school,413,46,229.5,4
+University/College,Chiang Mai University,chiang-mai-university,151,308,229.5,4
+MRTA Pink Line,Synphae Station,synphae-station,382,75,228.5,4
+Chiang Mai,The Ring Avenue,the-ring-avenue,152,301,226.5,4
+Bangkok,Somapa Nawamin School,somapa-nawamin-school,330,121,225.5,4
+MRT Orange Line,MRT Ratchaprarop,mrt-ratchaprarop,328,121,224.5,4
+University/College,King Mongkut Institute of Technology Ladkrabang,king-mongkut-institute-of-technology-ladkrabang,320,129,224.5,4
+Bangkok,Don Mueang,don-mueang,363,85,224.0,4
+MRT Purple line,MRT Khlong Bang Phai,mrt-khlong-bang-phai,353,92,222.5,4
+University/College,Chiang Mai Vocational College,chiang-mai-vocational-college,167,274,220.5,4
+Chiang Mai,Baan Kang Wat,baan-kang-wat,154,285,219.5,4
+Bangkok,Bang Khun Thian,bang-khun-thian,329,109,219.0,4
+Bangkok,Min Buri,min-buri,385,47,216.0,4
+MRT Blue line,MRT Charan 13,mrt-charan-13,319,110,214.5,4
+MRTA Pink Line,Lad Pla Khao Station,lad-pla-khao-station,354,73,213.5,4
+School,Wat Noen Sutthawat Municipal School,wat-noen-sutthawat-municipal-school,388,39,213.5,4
+University/College,Asian Institute of Technology (AIT),asian-institute-of-technology-ait,310,113,211.5,4
+Chonburi,Sattahip Chonburi,sattahip-chonburi,112,309,210.5,4
+School,Kawila Wittayalai School,kawila-wittayalai-school,205,213,209.0,4
+BTS Silom Line,BTS National Stadium,bts-national-stadium,297,119,208.0,4
+School,Wat Kampaeng Udom Pittayakon School,wat-kampaeng-udom-pittayakon-school,386,27,206.5,4
+School,Inthapanya Municipal School (Wat Yai Intharam),inthapanya-municipal-school-wat-yai-intharam,386,27,206.5,4
+School,Su Aree Wittaya School,su-aree-wittaya-school,386,27,206.5,4
+School,Sarasas Witaed Chonburi School,sarasas-witaed-chonburi-school,386,27,206.5,4
+MRT Yellow Line,MRT Chok chai 4,mrt-chok-chai-4,279,128,203.5,4
+School,Samut Prakan School,samut-prakan-school,314,90,202.0,4
+Samut Prakarn,Metropolitan Electricty Authority Samut Prakan,metropolitan-electricty-authority-samut-prakan,313,90,201.5,4
+MRT Yellow Line,MRT Thipphawan,mrt-thipphawan,352,50,201.0,4
+University/College,Ramkhamhaeng University 2,ramkhamhaeng-university-2,261,131,196.0,4
+Gold Line,Prajadhipok Station,prajadhipok-station,323,68,195.5,4
+SRT Dark Red Line,Wat Samian Nari Station,wat-samian-nari-station,312,79,195.5,4
+Chiang Mai,Chiang Mai Police Station,chiang-mai-police-station,164,225,194.5,4
+Pathumthani,Thanyaburi Pathumthani,thanyaburi-pathumthani,134,252,193.0,4
+University/College,Rajamangala University of Technology Lanna (Jedyod),rajamangala-university-of-technology-lanna-jedyod--aff909f7,128,254,191.0,4
+SRT Dark Red Line,Bang Khen Station,bang-khen-station,348,31,189.5,4
+School,Sarasas Witaed Minburi School,sarasas-witaed-minburi-school,329,44,186.5,4
+BTS Sukhumvit Line,BTS Saphan Mai,bts-saphan-mai,299,72,185.5,4
+Samut Prakarn,Bang Phli Industrial Estate,bang-phli-industrial-estate,281,87,184.0,4
+School,Won Naphasap School,won-naphasap-school,241,118,179.5,4
+University/College,Assumption University Bang Na Campus (Abac Bang Na),assumption-university-bang-na-campus-abac-bang-na,274,84,179.0,4
+SRT Dark Red Line,Lak Si Station,lak-si-station,271,84,177.5,4
+School,Sansuk School,sansuk-school,225,124,174.5,4
+School,Satree Phuket School,satree-phuket-school,169,174,171.5,4
+School,Phuket Wittayalai School,phuket-wittayalai-school,169,174,171.5,4
+BTS Sukhumvit Line,BTS Phahon Yothin 59,bts-phahon-yothin-59,250,91,170.5,4
+MRT Blue line,MRT Bang Phat,mrt-bang-phat,311,30,170.5,4
+Grey Line,Khlong Phum Station,khlong-phum-station,242,95,168.5,4
+University/College,Burapha University,burapha-university--b88009f3,220,111,165.5,4
+MRT Blue line,MRT Bang Phai,mrt-bang-phai,254,74,164.0,4
+University/College,Chiang Mai Technical College,chiang-mai-technical-college,125,197,161.0,4
+Bangkok,Lang Suan Road,lang-suan-road,195,111,153.0,4
+Bangkok,Sai Mai,sai-mai,238,66,152.0,4
+University/College,Boromarajonani Nursing College Chiang Mai,boromarajonani-nursing-college-chiang-mai,115,187,151.0,4
+Chonburi,Laem Chabang Industrial Estate,laem-chabang-industrial-estate,196,99,147.5,4
+School,Thetsaban Tambon Laem Chabang 2 School,thetsaban-tambon-laem-chabang-2-school,195,98,146.5,4
+School,Sarasas Witaed Suwanabhumi School,sarasas-witaed-suwanabhumi-school,224,68,146.0,4
+University/College,Chiang Mai Rajabhat University,chiang-mai-rajabhat-university,100,192,146.0,4
+Chiang Mai,Art in Paradise Chiang Mai,art-in-paradise-chiang-mai,141,148,144.5,4
+SRT Dark Red Line,Don Mueang Station,don-mueang-station,229,57,143.0,4
+MRT Yellow Line,MRT Si Udom,mrt-si-udom,202,84,143.0,4
+MRTA Pink Line,Khu Bon Station,khu-bon-station,222,55,138.5,4
+MRT Yellow Line,MRT Si Dan,mrt-si-dan,216,60,138.0,4
+MRTA Pink Line,Watcharaphon Station,watcharaphon-station,209,65,137.0,4
+University/College,Chiang Mai Physical Education College,chiang-mai-physical-education-college,91,180,135.5,4
+University/College,Mahamakut Buddhist University (Lanna),mahamakut-buddhist-university-lanna,113,157,135.0,4
+Bangkok,Ladprao 101 (Lat Phrao 101),ladprao-101-lat-phrao-101,210,60,135.0,4
+Samut Prakarn,Phra Pra Daeng Samut Prakarn,phra-pra-daeng-samut-prakarn,184,85,134.5,4
+Nakhon Pathom,Phuttha Mon Thon Nakhon Pathom,phuttha-mon-thon-nakhon-pathom,224,43,133.5,4
+University/College,Mahidol University Salaya,mahidol-university-salaya,224,42,133.0,4
+MRTA Pink Line,Bangkok Government Complex Station,bangkok-government-complex-station,234,31,132.5,4
+Nakhon Pathom,Salaya,salaya,222,43,132.5,4
+Nakhon Pathom,Tesco Lotus Salaya,tesco-lotus-salaya,222,43,132.5,4
+School,Satri Witthaya School,satri-witthaya-school,235,27,131.0,4
+Samut Prakarn,Bang Pu Industrial Estate (North),bang-pu-industrial-estate-north,210,51,130.5,4
+Nakhon Pathom,Provincial Electricity Authority Salaya,provincial-electricity-authority-salaya,218,39,128.5,4
+Chiang Mai,Lanna Folklife Museum,lanna-folklife-museum,102,155,128.5,4
+MRT Yellow Line,MRT Si Thepha,mrt-si-thepha,199,55,127.0,4
+Grey Line,Khlong Chong Nonsi Station,khlong-chong-nonsi-station,162,90,126.0,4
+SRT Dark Red Line,Chiang Rak Station,chiang-rak-station--2,174,78,126.0,4
+Chachoengsao,Wellgrow Industrial Estate,wellgrow-industrial-estate,188,62,125.0,4
+MRT Orange Line,MRT Din Daeng,mrt-din-daeng,183,57,120.0,4
+Phuket,Kathu Phuket,kathu-phuket,81,159,120.0,4
+Chiang Mai,Chiang Mai Zoo,chiang-mai-zoo,83,156,119.5,4
+Prachaubkirikhan,Hua Hin Prachaubkirikhan,hua-hin-prachaubkirikhan,65,173,119.0,4
+MRTA Pink Line,Maiyalap Station,maiyalap-station,185,47,116.0,4
+MRTA Pink Line,Setthabutbamphen Station,setthabutbamphen-station,193,37,115.0,4
+Samut Prakarn,Bang Bo Samut Prakarn,bang-bo-samut-prakarn,174,51,112.5,4
+Rayong,Muang Rayong,muang-rayong,194,30,112.0,4
+University/College,Muang Chiang Mai Stadium,muang-chiang-mai-stadium,68,149,108.5,4
+MRTA Pink Line,East Outer Ring Road station,east-outer-ring-road-station,165,46,105.5,4
+BTS Sukhumvit Line,BTS Pak Nam,bts-pak-nam,156,51,103.5,4
+MRTA Pink Line,Pak Kret Bypass Station,pak-kret-bypass-station,175,25,100.0,4
+SRT Dark Red Line,Chatuchak Station,chatuchak-station,143,54,98.5,4
+School,Sarasas Witaed Samut Prakan School,sarasas-witaed-samut-prakan-school,162,31,96.5,4
+SRT Dark Red Line,Lak Hok Station,lak-hok-station,54,137,95.5,4
+BTS Sukhumvit Line,BTS Phraek Sa,bts-phraek-sa,160,31,95.5,4
+Pathumthani,Muang Ek,muang-ek,54,137,95.5,4
+MRT Yellow Line,MRT Si Bearing,mrt-si-bearing,182,9,95.5,4
+Grey Line,Saphan Rama 3 Station,saphan-rama-3-station,128,61,94.5,4
+Bangkok,Ramkhamhaeng 43/1,ramkhamhaeng-43-1,151,37,94.0,4
+Grey Line,Kaset-Nawamin Station,kaset-nawamin-station,131,56,93.5,4
+Bangkok,Lat Phao 71,lat-phao-71,144,41,92.5,4
+MRT Yellow Line,MRT Si Iam,mrt-si-iam,155,30,92.5,4
+Samut Prakarn,Sukumvit 109,sukumvit-109,127,56,91.5,4
+School,Taweethapisek School,taweethapisek-school,147,35,91.0,4
+BTS Sukhumvit Line,BTS Bang Bua,bts-bang-bua,114,63,88.5,4
+School,Sarasas Witaed Thonburi School,sarasas-witaed-thonburi-school,142,34,88.0,4
+SRT Dark Red Line,Bang Sue Grand Station Station,bang-sue-grand-station-station,109,66,87.5,4
+Rayong,Laemtong Shopping Plaza Rayong,laemtong-shopping-plaza-rayong,149,25,87.0,4
+BTS Sukhumvit Line,BTS Royal Thai Naval Academy,bts-royal-thai-naval-academy,136,38,87.0,4
+School,Wat Khot Khimtharam Municipal School,wat-khot-khimtharam-municipal-school,139,25,82.0,4
+MRTA Pink Line,Ram Inthra Km.4 Station,ram-inthra-km-4-station,136,28,82.0,4
+Rayong,IRPC Public Company Limited,irpc-public-company-limited,138,24,81.0,4
+Rayong,Map Ta Phut Industrial Estate,map-ta-phut-industrial-estate,138,19,78.5,4
+Prachaubkirikhan,Hua Hin Bus Station,hua-hin-bus-station,47,108,77.5,4
+International School,Anuban Taksin Rayong International School,anuban-taksin-rayong-international-school,130,23,76.5,4
+School,Matthayomtaksin Rayong School,matthayomtaksin-rayong-school,130,23,76.5,4
+MRT Yellow Line,MRT Kalantan,mrt-kalantan,138,11,74.5,4
+University/College,Samut Prakan Polytechnic College Chumchon Mueang Mai Bang Phli,samut-prakan-polytechnic-college-chumchon-mueang-mai-bang-phli,112,37,74.5,4
+School,Wat Lum Mahachai Chumpon Municipal School,wat-lum-mahachai-chumpon-municipal-school,125,24,74.5,4
+MRTA Pink Line,TOT Station,tot-station,137,11,74.0,4
+Samut Prakarn,Bang Sao Thong Samut Prakarn,bang-sao-thong-samut-prakarn,106,41,73.5,4
+Rayong,Asia Terminal Industrial Estate,asia-terminal-industrial-estate,128,17,72.5,4
+MRT Orange Line,MRT Kheha Ramkhamhaeng,mrt-kheha-ramkhamhaeng--ab72094b,136,7,71.5,4
+University/College,North Bangkok University Rangsit Campus,north-bangkok-university-rangsit-campus,37,100,68.5,4
+Pathumthani,Lam Luk Ka,lam-luk-ka,57,80,68.5,4
+Bangkok,Ramkhamhaeng 24,ramkhamhaeng-24,126,9,67.5,4
+MRTA Pink Line,Bang Chan Station,bang-chan-station,121,9,65.0,4
+Samut Prakarn,Sukumvit 113,sukumvit-113,105,24,64.5,4
+Bangkok,Ratchadapisek 10,ratchadapisek-10,97,30,63.5,4
+University/College,Chiang Mai College Of Dramatic Arts,chiang-mai-college-of-dramatic-arts,65,62,63.5,4
+Samut Prakarn,Sukumvit 117,sukumvit-117,125,1,63.0,4
+Nonthaburi,The Crystal SB,the-crystal-sb,85,41,63.0,4
+MRT Orange Line,MRT Min Buri,mrt-min-buri,121,5,63.0,4
+Bangkok,Taling Chan,taling-chan,80,41,60.5,4
+School,St.Joseph Rayong,st-joseph-rayong,104,16,60.0,4
+University/College,Assumption College Rayong,assumption-college-rayong,103,16,59.5,4
+SRT Dark Red Line,Pradiphat Station,pradiphat-station,67,52,59.5,4
+School,Nonthaburi Wittayalai School,nonthaburi-wittayalai-school,100,17,58.5,4
+MRTA Pink Line,Samakkhi Station,samakkhi-station,83,33,58.0,4
+School,Laem Chabang 3 School,laem-chabang-3-school,82,28,55.0,4
+MRT Purple line,MRT Bang Rak Yai,mrt-bang-rak-yai,95,15,55.0,4
+Pathumthani,Muang Pathum Thani Pathumthani,muang-pathum-thani-pathumthani,85,24,54.5,4
+Petchburi,Cha-Am Petchburi,cha-am-petchburi,28,81,54.5,4
+Grey Line,Pracha Uthit Station,pracha-uthit-station,78,29,53.5,4
+Rayong,Muang Rayong District Office,muang-rayong-district-office,91,15,53.0,4
+Grey Line,Sri Wara Station,sri-wara-station,76,24,50.0,4
+Bangkok,Nimmana Haeminda Road,nimmana-haeminda-road,44,56,50.0,4
+SRT Dark Red Line,Khlong Nueng Station,khlong-nueng-station,23,76,49.5,4
+Prachaubkirikhan,Hua Hin Market Village,hua-hin-market-village,36,57,46.5,4
+Bangkok,Sukumvit 35,sukumvit-35,73,18,45.5,4
+Nonthaburi,Bang Kruai Nonthaburi,bang-kruai-nonthaburi,79,11,45.0,4
+Chiang Mai,Chiang Mai Provincial Government Offices,chiang-mai-provincial-government-offices,26,63,44.5,4
+Chiang Mai,Promenada Chiang Mai,promenada-chiang-mai,24,63,43.5,4
+MRT Orange Line,MRT Sanam Luang,mrt-sanam-luang,72,12,42.0,4
+SRT Dark Red Line,Thung Song Hong Station,thung-song-hong-station,69,10,39.5,4
+Bangkok,Bang Bon,bang-bon,70,9,39.5,4
+Chiang Mai,San Sai Chiang Mai,san-sai-chiang-mai,34,44,39.0,4
+Samut Prakarn,Sukumvit 115,sukumvit-115,47,30,38.5,4
+Bangkok,Ladprao 1 (Lat Phrao),ladprao-1-lat-phrao,51,24,37.5,4
+MRT Yellow Line,MRT Lat Phrao 71,mrt-lat-phrao-71,60,10,35.0,4
+MRTA Pink Line,Nopparat Rajathanee Station,nopparat-rajathanee-station,51,18,34.5,4
+School,Muang Pattaya 1 School,muang-pattaya-1-school,16,53,34.5,4
+Bangkok,Thung Khru,thung-khru,55,14,34.5,4
+School,Pathum Wilai School,pathum-wilai-school,53,14,33.5,4
+University/College,Prince of Songkla University,prince-of-songkla-university--2,29,37,33.0,4
+Songkhla,Hat Yai Songkhla,hat-yai-songkhla,29,37,33.0,4
+MRTA Pink Line,Sanambin Nam Station,sanambin-nam-station,51,15,33.0,4
+Songkhla,Diana Plaza Hat Yai,diana-plaza-hat-yai,29,37,33.0,4
+Bangkok,Khlong Sam Wa,khlong-sam-wa,62,3,32.5,4
+University/College,Stamford International University Hua Hin,stamford-international-university-hua-hin,14,51,32.5,4
+Bangkok,Samphanthawong,samphanthawong,34,30,32.0,4
+Nakhon Ratchasima,Muang Nakhon Ratchasima Nakhon Ratchasima,muang-nakhon-ratchasima-nakhon-ratchasima,59,4,31.5,4
+Chonburi,Ammata Nakhon Industrial Estate,ammata-nakhon-industrial-estate,34,29,31.5,4
+MRT Yellow Line,MRT Suan Luang Ro 9,mrt-suan-luang-ro-9,55,8,31.5,4
+Chonburi,Amata Nakorn,amata-nakorn,34,29,31.5,4
+School,Rattana Chai Suksa School,rattana-chai-suksa-school,30,32,31.0,4
+Phuket,Surin Circle Clock Tower,surin-circle-clock-tower,13,49,31.0,4
+School,Tessaban 3 Yommaratsamakki School Nakhon Ratchasima,tessaban-3-yommaratsamakki-school-nakhon-ratchasima,56,4,30.0,4
+University/College,Rajamangala University of Technology Thanyaburi,rajamangala-university-of-technology-thanyaburi,40,20,30.0,4
+Nakhon Ratchasima,"Klang Plaza, Jomsurang",klang-plaza-jomsurang,56,4,30.0,4
+University/College,Nakhon Rachasima Vocational Education College,nakhon-rachasima-vocational-education-college,56,4,30.0,4
+School,Thetsaban 1 School Burapha Witthayakon Nakhon Ratchasima,thetsaban-1-school-burapha-witthayakon-nakhon-ratchasima,56,4,30.0,4
+Bangkok,Ratchadapisek 32,ratchadapisek-32,44,16,30.0,4
+University/College,Nakhon Ratchasima Rajabhat University,nakhon-ratchasima-rajabhat-university,56,4,30.0,4
+University/College,Eastern Asia University,eastern-asia-university,40,20,30.0,4
+School,Anuban Nakhon Ratchasima,anuban-nakhon-ratchasima,56,4,30.0,4
+MRTA Pink Line,Min Buri Market station,min-buri-market-station,48,9,28.5,4
+School,Ban Sala School,ban-sala-school,15,40,27.5,4
+University/College,Suan Dusit Rajabhat University Hua Hin,suan-dusit-rajabhat-university-hua-hin,12,43,27.5,4
+Chiang Mai,Chiangmai Night Safari,chiangmai-night-safari,22,33,27.5,4
+Phuket,Thalang Phuket,thalang-phuket,13,41,27.0,4
+Pathumthani,Thanyarat School,thanyarat-school,39,15,27.0,4
+School,Laem Chabang 1 School,laem-chabang-1-school,41,13,27.0,4
+School,Sarasas Witaed Rangsit School,sarasas-witaed-rangsit-school,39,15,27.0,4
+School,Thanyasitsil School,thanyasitsil-school,39,15,27.0,4
+University/College,Hat Yai University,hat-yai-university,21,32,26.5,4
+Chonburi,Department of Public Works and Town & Country Planning Chon Buri District,department-of-public-works-and-town-country-planning-chon-buri-district,27,26,26.5,4
+Chonburi,Khao Chi Chan,khao-chi-chan,19,30,24.5,4
+Chiang Mai,Chiang Mai Government Center,chiang-mai-government-center,15,34,24.5,4
+School,Anuban Mueang Mai Chon Buri School,anuban-mueang-mai-chon-buri-school,29,20,24.5,4
+Grey Line,Nuan Chan Station,nuan-chan-station,32,15,23.5,4
+School,Maree Witthaya Nakhon Ratchasima,maree-witthaya-nakhon-ratchasima,44,3,23.5,4
+University/College,Nakhon Ratchasima Technical College,nakhon-ratchasima-technical-college,44,3,23.5,4
+School,Sanambin School,sanambin-school,26,20,23.0,4
+Khon Kaen,Hugzmall,hugzmall,26,20,23.0,4
+Khon Kaen,Muang Khon Kaen Khon Kaen,muang-khon-kaen-khon-kaen,26,20,23.0,4
+Khon Kaen,Bueng Kaen Nakhon Khon Kaen,bueng-kaen-nakhon-khon-kaen,26,20,23.0,4
+Khon Kaen,Bung Nong Khot Khon Kaen,bung-nong-khot-khon-kaen,26,20,23.0,4
+Khon Kaen,Bueng Thung Sang Health Garden,bueng-thung-sang-health-garden,26,20,23.0,4
+Khon Kaen,Thai-China Mittrapap Kanchanapisek Khon Kaen-Nan Ning,thai-china-mittrapap-kanchanapisek-khon-kaen-nan-ning,26,20,23.0,4
+Khon Kaen,Wufoo Wholesale Market,wufoo-wholesale-market,26,20,23.0,4
+Khon Kaen,Fairy Plaza,fairy-plaza,26,20,23.0,4
+University/College,Khon Kaen Vocational Education College,khon-kaen-vocational-education-college,26,20,23.0,4
+Khon Kaen,TUKCOM Shopping Plaza Khonkaen,tukcom-shopping-plaza-khonkaen,26,20,23.0,4
+Khon Kaen,Chao Por Lak Muang Khon Kaen Shrine,chao-por-lak-muang-khon-kaen-shrine,26,20,23.0,4
+MRT Yellow Line,MRT Lat Phrao 83,mrt-lat-phrao-83,36,9,22.5,4
+SRT Dark Red Line,Kan Kheha Station,kan-kheha-station,31,13,22.0,4
+University/College,Sripatum University Khon Kaen,sripatum-university-khon-kaen,24,20,22.0,4
+Chiang Mai,Muang Chiang Mai District Office,muang-chiang-mai-district-office,14,30,22.0,4
+Khon Kaen,Pratunam Khonkaen,pratunam-khonkaen,23,20,21.5,4
+University/College,Chiang Mai Inter Bussiness Collage,chiang-mai-inter-bussiness-collage,5,38,21.5,4
+University/College,Northeastern Vocation Institute,northeastern-vocation-institute,23,20,21.5,4
+University/College,Boromrajonani College of Nursing Nakhon Ratchasima,boromrajonani-college-of-nursing-nakhon-ratchasima,40,3,21.5,4
+School,Kanlayanawat School,kanlayanawat-school,23,20,21.5,4
+University/College,Northeast Public Health Development and Training Center,northeast-public-health-development-and-training-center,23,18,20.5,4
+MRT Yellow Line,MRT Srinagarindra 38,mrt-srinagarindra-38,37,4,20.5,4
+BTS Sukhumvit Line,BTS Srinagarindra,bts-srinagarindra,38,3,20.5,4
+University/College,Khon Kaen Technical College,khon-kaen-technical-college,23,18,20.5,4
+Songkhla,Southern Region Industrial Estate Songkhla,southern-region-industrial-estate-songkhla,22,18,20.0,4
+MRTA Pink Line,Ram Inthra Km.6 Station,ram-inthra-km-6-station,24,15,19.5,4
+BTS Sukhumvit Line,BTS 11 Infantry Regiment,bts-11-infantry-regiment,33,6,19.5,4
+Rayong,Rayong Provincial Hall,rayong-provincial-hall,35,4,19.5,4
+Samut Sakhon,Krathum Baen Samut Sakhon,krathum-baen-samut-sakhon,13,25,19.0,4
+Songkhla,Hat Yai Bus Terminal,hat-yai-bus-terminal,12,25,18.5,4
+Nakhon Ratchasima,Nakhon Ratchasima Post Office,nakhon-ratchasima-post-office,35,2,18.5,4
+Khon Kaen,Chompon Sarit Thanarat Monument,chompon-sarit-thanarat-monument,17,20,18.5,4
+Chiang Mai,Chiang Mai Premium Outlet,chiang-mai-premium-outlet,18,19,18.5,4
+Khon Kaen,Dino Water Park,dino-water-park,18,18,18.0,4
+University/College,Hua Chieo Chaloem Phrakiat University,hua-chieo-chaloem-phrakiat-university,23,13,18.0,4
+Rayong,Eastern Seaboard Industrial Estate,eastern-seaboard-industrial-estate--2,10,26,18.0,4
+Grey Line,Lat Prao 87 Station,lat-prao-87-station,30,5,17.5,4
+Pathumthani,์Navanakorn,%E0%B9%8Cnavanakorn,29,6,17.5,4
+Samut Prakarn,Srivaree Plaza,srivaree-plaza,22,13,17.5,4
+Bangkok,Dusit,dusit,23,12,17.5,4
+Khon Kaen,Khonkaen Exotic Pet,khonkaen-exotic-pet--2,17,18,17.5,4
+University/College,Mahamakut Buddhist University (Isan),mahamakut-buddhist-university-isan,17,18,17.5,4
+Samut Prakarn,MK Restaurant Group Public Company,mk-restaurant-group-public-company,22,13,17.5,4
+Samut Prakarn,Bronson and Jacobs International,bronson-and-jacobs-international,23,12,17.5,4
+Samut Prakarn,Srithai Engineering Products,srithai-engineering-products,22,13,17.5,4
+Samut Prakarn,N.Y.C. Industry,n-y-c-industry,22,13,17.5,4
+Chonburi,Ammata City Industrial Estate,ammata-city-industrial-estate,8,26,17.0,4
+Samut Prakarn,International Laboratories,international-laboratories,22,12,17.0,4
+SRT Dark Red Line,Rangsit Station,rangsit-station,26,8,17.0,4
+School,Wat Klang Municipal School,wat-klang-municipal-school,18,16,17.0,4
+BTS Sukhumvit Line,BTS Royal Forest Department,bts-royal-forest-department,28,5,16.5,4
+Chonburi,Hemaraj Chonburi Industrial Estate,hemaraj-chonburi-industrial-estate,8,25,16.5,4
+University/College,Khon Kaen Management Technological College,khon-kaen-management-technological-college,17,16,16.5,4
+School,Phanthong School,phanthong-school,20,12,16.0,4
+University/College,Rayong Technical College,rayong-technical-college,23,9,16.0,4
+Phra Nakhon Sri Ayutthaya,Bang Pa-In Industrial Estate,bang-pa-in-industrial-estate,28,3,15.5,4
+Nakhon Ratchasima,Thao Suranari (Yamo) Monument,thao-suranari-yamo-monument,29,2,15.5,4
+MRT Orange Line,MRT Si Burapha,mrt-si-burapha,16,13,14.5,4
+School,Chon Buri Physical Education School,chon-buri-physical-education-school,15,14,14.5,4
+School,Phongsiri Wittaya School Chon Buri,phongsiri-wittaya-school-chon-buri,15,14,14.5,4
+Chonburi,Institute of Physical Education,institute-of-physical-education,15,14,14.5,4
+Chonburi,Bus New Terminal Chon buri Nong Mai Daeng,bus-new-terminal-chon-buri-nong-mai-daeng,15,14,14.5,4
+MRT Yellow Line,MRT Mahat Thai,mrt-mahat-thai,24,4,14.0,4
+Udon Thani,Thai-Chinese Cultural Centre Udon Thani,thai-chinese-cultural-centre-udon-thani,21,6,13.5,4
+Udon Thani,Nong Prachak,nong-prachak,21,6,13.5,4
+School,Udonpittayanukoon School,udonpittayanukoon-school,21,6,13.5,4
+Udon Thani,Udonthani Bus station,udonthani-bus-station,21,6,13.5,4
+Udon Thani,TUKCOM LANDMARK Udon Thani,tukcom-landmark-udon-thani--2,21,6,13.5,4
+Udon Thani,Udon Thani Museum,udon-thani-museum,21,6,13.5,4
+School,Satri Rachinuthit School Udon Thani,satri-rachinuthit-school-udon-thani,21,6,13.5,4
+Udon Thani,Udon Thani city pillar shrine,udon-thani-city-pillar-shrine,21,6,13.5,4
+University/College,Udon Thani Vocational College,udon-thani-vocational-college,21,6,13.5,4
+Udon Thani,Muang Udon Thani Udon Thani,muang-udon-thani-udon-thani,21,6,13.5,4
+University/College,Udon Thani Polytechnic College,udon-thani-polytechnic-college,21,6,13.5,4
+University/College,Udon Thani Rajabhat University,udon-thani-rajabhat-university,21,6,13.5,4
+Samut Prakarn,Market Village Suvarnaphumi,market-village-suvarnaphumi,17,8,12.5,4
+School,St.Mary School,st-mary-school,18,6,12.0,4
+Chonburi,3rd Infantryman Battalion 21st Infantry Regiment,3rd-infantryman-battalion-21st-infantry-regiment,9,14,11.5,4
+School,Ban Tum Municipal School,ban-tum-municipal-school,15,8,11.5,4
+Phra Nakhon Sri Ayutthaya,Bang Pa-In Phra Nakhon Sri Ayutthaya,bang-pa-in-phra-nakhon-sri-ayutthaya,21,1,11.0,4
+Phuket,Nimit Traffic Circle Phuket,nimit-traffic-circle-phuket,1,19,10.0,4
+University/College,Sripatum University (Chonburi),sripatum-university-chonburi,6,14,10.0,4
+Phuket,Saphan Hin Mining Monument,saphan-hin-mining-monument,4,15,9.5,4
+Bangkok,Saphan Sung,saphan-sung,8,9,8.5,4
+School,Chongfah Sinseung Wanich Bamrung School,chongfah-sinseung-wanich-bamrung-school,3,14,8.5,4
+Rayong,Hemaraj Eastern Seaboard Industrial Estate,hemaraj-eastern-seaboard-industrial-estate,7,10,8.5,4
+School,Sarasas Witaed Klong Luang School,sarasas-witaed-klong-luang-school,8,8,8.0,4
+MRT Yellow Line,MRT Si Nut,mrt-si-nut,9,7,8.0,4
+School,Prempracha Wattana School,prempracha-wattana-school,15,0,7.5,4
+BTS Sukhumvit Line,BTS Khu Khot,bts-khu-khot,8,7,7.5,4
+Bangkok,Ladprao 107 (Lat Phrao 107),ladprao-107-lat-phrao-107,12,3,7.5,4
+School,Wattana Hospital,wattana-hospital,13,1,7.0,4
+Khon Kaen,Khon Kaen Bus Terminal 3,khon-kaen-bus-terminal-3,11,3,7.0,4
+University/College,Surat Commercial Technology College,surat-commercial-technology-college,7,6,6.5,4
+University/College,Boromrajonani College of Nursing Surat Thani,boromrajonani-college-of-nursing-surat-thani,7,6,6.5,4
+Surat Thani,Muang Surat Thani Surat Thani,muang-surat-thani-surat-thani,7,6,6.5,4
+MRT Blue line,MRT Itsaraphap,mrt-itsaraphap,7,6,6.5,4
+Chiang Mai,Hang Dong Chiang Mai,hang-dong-chiang-mai,8,5,6.5,4
+School,Wat Rat Samosorn School Chon Buri,wat-rat-samosorn-school-chon-buri,11,2,6.5,4
+University/College,Mahachulalongkornrajavidyalaya University Nakhon Ratchasima,mahachulalongkornrajavidyalaya-university-nakhon-ratchasima,12,1,6.5,4
+School,Kasetsart University Laboratory School Kamphaeng Saen Campus.,kasetsart-university-laboratory-school-kamphaeng-saen-campus,10,2,6.0,4
+Nakhon Pathom,Kamphaeng Saen Nakhon Pathom,kamphaeng-saen-nakhon-pathom,10,2,6.0,4
+University/College,Kasetsart University Kamphang Saen Campus,kasetsart-university-kamphang-saen-campus,10,2,6.0,4
+Nakhon Pathom,Muang Kamphaeng Saen Boyscouts Camp,muang-kamphaeng-saen-boyscouts-camp,10,2,6.0,4
+Nakhon Pathom,Provincial Electricity Authority Kamphaeng Saen,provincial-electricity-authority-kamphaeng-saen,10,2,6.0,4
+Nakhon Pathom,His Majesty The King Insect Park,his-majesty-the-king-insect-park,10,2,6.0,4
+University/College,Maejo University,maejo-university,2,10,6.0,4
+School,Kamphang Saen Wittaya,kamphang-saen-wittaya,10,2,6.0,4
+Nakhon Pathom,Kamphaeng Saen Arboretum,kamphaeng-saen-arboretum,10,2,6.0,4
+School,Benjamarachalai School,benjamarachalai-school,7,4,5.5,4
+Rayong,Pluak Daeng Rayong,pluak-daeng-rayong,4,7,5.5,4
+MRT Orange Line,MRT Sammakorn,mrt-sammakorn,7,4,5.5,4
+Chiang Rai,Muang Chiang Rai Chiang Rai,muang-chiang-rai-chiang-rai,7,4,5.5,4
+School,Chiang Rai Vidhayakhome School,chiang-rai-vidhayakhome-school,7,3,5.0,4
+School,Samakkhi Witthayakhom School,samakkhi-witthayakhom-school,7,3,5.0,4
+School,Buddhachinaraj Pittaya School,buddhachinaraj-pittaya-school,7,3,5.0,4
+School,Pibulsongkram Rajabhat University Demonstration School,pibulsongkram-rajabhat-university-demonstration-school--2,7,3,5.0,4
+School,Naresuan University Secondary Demonstration School,naresuan-university-secondary-demonstration-school,7,3,5.0,4
+Samut Prakarn,Summit Electronic Components,summit-electronic-components,6,4,5.0,4
+Samut Prakarn,Siam Grains,siam-grains,6,4,5.0,4
+Samut Prakarn,Thai Polymer Textile,thai-polymer-textile,6,4,5.0,4
+Phitsanulok,Muang Phitsanulok Phitsanulok,muang-phitsanulok-phitsanulok,7,3,5.0,4
+School,Padoongrasdra School,padoongrasdra-school,7,3,5.0,4
+Nakhon Sawan,Muang Nakhon Sawan Nakhon Sawan,muang-nakhon-sawan-nakhon-sawan,5,5,5.0,4
+Chiang Rai,Chiang Rai Provincial Electricity Authority,chiang-rai-provincial-electricity-authority,7,3,5.0,4
+Phitsanulok,Phitsanulok Provincial Court,phitsanulok-provincial-court,7,3,5.0,4
+Phitsanulok,District Office of Mueang Phitsanulok,district-office-of-mueang-phitsanulok,7,3,5.0,4
+Phitsanulok,Phitsanulok Provincial Hall,phitsanulok-provincial-hall,7,3,5.0,4
+Prachaubkirikhan,Pran Buri Prachaubkirikhan,pran-buri-prachaubkirikhan,4,6,5.0,4
+University/College,Boromarajanani College of Nursing Sawanpracharak,boromarajanani-college-of-nursing-sawanpracharak,5,5,5.0,4
+University/College,Naresuan University,naresuan-university,7,3,5.0,4
+University/College,Boromarajonani College of Nursing Buddhachinaraj,boromarajonani-college-of-nursing-buddhachinaraj,7,3,5.0,4
+University/College,Phitsanulok Technical Commercial College,phitsanulok-technical-commercial-college,7,3,5.0,4
+University/College,Phitsanulok Technical College,phitsanulok-technical-college,7,3,5.0,4
+Samut Prakarn,Modern Gems Shopping Mall,modern-gems-shopping-mall,3,6,4.5,4
+Chiang Rai,Mengrai Maharaj Monument,mengrai-maharaj-monument,6,3,4.5,4
+BTS Sukhumvit Line,BTS Sai Luat,bts-sai-luat,1,8,4.5,4
+SRT Dark Red Line,Sam Sen Station,sam-sen-station,0,9,4.5,4
+Phitsanulok,Globol House Phitsanulok,globol-house-phitsanulok,7,2,4.5,4
+BTS Sukhumvit Line,BTS Kheha,bts-kheha--2,1,8,4.5,4
+BTS Sukhumvit Line,BTS Yaek Kor Por Aor,bts-yaek-kor-por-aor,8,0,4.0,4
+University/College,Boromarajonani College Of Nursing Sanpasithiprasong,boromarajonani-college-of-nursing-sanpasithiprasong,8,0,4.0,4
+Chonburi,Phan Thong Chonburi,phan-thong-chonburi,5,3,4.0,4
+Nakhon Ratchasima,Pak Chong Nakhon Ratchasima,pak-chong-nakhon-ratchasima,1,7,4.0,4
+Ubon Ratchathani,Muang Ubon Ratchathani Ubon Ratchathani,muang-ubon-ratchathani-ubon-ratchathani,8,0,4.0,4
+Grey Line,Sangkom Songkroh Station,sangkom-songkroh-station,8,0,4.0,4
+MRT Orange Line,MRT Nom Klao,mrt-nom-klao,3,5,4.0,4
+SRT Dark Red Line,Ratchawithi Junction Station,ratchawithi-junction-station,1,6,3.5,4
+School,Ton Kaew Pha Dung Pitthayalai School,ton-kaew-pha-dung-pitthayalai-school--2,2,5,3.5,4
+Grey Line,Yothin Pattana Station,yothin-pattana-station,2,5,3.5,4
+Bangkok,Phra Nakhon,phra-nakhon,5,2,3.5,4
+School,Datdaruni School,datdaruni-school,3,3,3.0,4
+Rayong,Klaeng Rayong,klaeng-rayong,2,4,3.0,4
+School,Wat Sothon Wararam Worawihan School,wat-sothon-wararam-worawihan-school,3,3,3.0,4
+Bangkok,Pom Prap Sattru Phai,pom-prap-sattru-phai,4,2,3.0,4
+Buri Ram,Chang International Circuit,chang-international-circuit--2,4,2,3.0,4
+Chachoengsao,Chachoengsao District Office,chachoengsao-district-office--2,3,3,3.0,4
+Buri Ram,Chang Arena Stadium,chang-arena-stadium,4,2,3.0,4
+Buri Ram,Muang Buri Ram Buri Ram,muang-buri-ram-buri-ram,4,2,3.0,4
+Chachoengsao,Muang Chachoengsao Chachoengsao,muang-chachoengsao-chachoengsao,3,3,3.0,4
+School,Benchamaracharungsarit School,benchamaracharungsarit-school,3,3,3.0,4
+Phra Nakhon Sri Ayutthaya,Rojana Industrial Park,rojana-industrial-park,3,2,2.5,4
+Lamphang,Lampang Bus Station,lampang-bus-station,4,1,2.5,4
+University/College,Lampang Vocational Education College,lampang-vocational-education-college,4,1,2.5,4
+Prachinburi,Sri Maha Pho Prachinburi,sri-maha-pho-prachinburi,2,3,2.5,4
+School,Bunyawat Wittayalai School,bunyawat-wittayalai-school,4,1,2.5,4
+University/College,Royal Police Cadet Academy,royal-police-cadet-academy,3,2,2.5,4
+Rayong,Asia Industrial Estate,asia-industrial-estate,4,1,2.5,4
+Rayong,Ban Chang Rayong,ban-chang-rayong,4,1,2.5,4
+Nakhon Pathom,Sam Phran Nakhon Pathom,sam-phran-nakhon-pathom,3,2,2.5,4
+Lamphang,Muang Lampang Lamphang,muang-lampang-lamphang,4,1,2.5,4
+Phra Nakhon Sri Ayutthaya,Uthai Phra Nakhon Sri Ayutthaya,uthai-phra-nakhon-sri-ayutthaya,3,1,2.0,4
+Phra Nakhon Sri Ayutthaya,Pranakhon Si Ayutthaya Polytechnic College,pranakhon-si-ayutthaya-polytechnic-college,3,1,2.0,4
+School,Narinukun School,narinukun-school--3,4,0,2.0,4
+School,Yaowaret Suksa School,yaowaret-suksa-school,4,0,2.0,4
+School,Benchama Maharat School,benchama-maharat-school,4,0,2.0,4
+MRT Orange Line,MRT Rat Phatthana,mrt-rat-phatthana,0,4,2.0,4
+University/College,North Chiang Mai University,north-chiang-mai-university,0,4,2.0,4
+MRT Orange Line,MRT Phan Fa,mrt-phan-fa,3,1,2.0,4
+Phra Nakhon Sri Ayutthaya,The Sky Ayutthaya,the-sky-ayutthaya,3,1,2.0,4
+School,Tessaban Hang Dong Prachachom Sangsan School,tessaban-hang-dong-prachachom-sangsan-school,0,4,2.0,4
+Phra Nakhon Sri Ayutthaya,Phra Nakhon Sri Ayutthaya Phra Nakhon Sri Ayutthaya,phra-nakhon-sri-ayutthaya-phra-nakhon-sri-ayutthaya,3,1,2.0,4
+Chiang Mai,Kad Farang Village,kad-farang-village,0,4,2.0,4
+Rayong,Ban Chang Administrative Center,ban-chang-administrative-center,4,0,2.0,4
+Rayong,Provincial Electricity Authority Ban Chang,provincial-electricity-authority-ban-chang,4,0,2.0,4
+Chiang Mai,Hangdong Subdistrict Municipal Office,hangdong-subdistrict-municipal-office,0,4,2.0,4
+University/College,Ubon Ratchathani Polytechnic,ubon-ratchathani-polytechnic,4,0,2.0,4
+School,Wat Ban Chang School,wat-ban-chang-school,4,0,2.0,4
+Chiang Mai,Hang Dong Post Office,hang-dong-post-office,0,4,2.0,4
+University/College,Lampang Technical College,lampang-technical-college,3,1,2.0,4
+Nonthaburi,Sai Noi Nonthaburi,sai-noi-nonthaburi,3,1,2.0,4
+Grey Line,Khlong Lamchiak Station,khlong-lamchiak-station,0,4,2.0,4
+University/College,Nation University,nation-university,4,0,2.0,4
+Chiang Mai,Saraphi Chiang Mai,saraphi-chiang-mai,1,3,2.0,4
+University/College,Dhonburi Rajabhat University Samut Prakan Campus,dhonburi-rajabhat-university-samut-prakan-campus,1,2,1.5,4
+Udon Thani,Udon Thani Bus Station 2,udon-thani-bus-station-2,3,0,1.5,4
+University/College,Khon Kaen University,khon-kaen-university,3,0,1.5,4
+School,Assumption College Lampang,assumption-college-lampang,2,1,1.5,4
+MRT Purple line,MRT Bang Rak Noi Tha It,mrt-bang-rak-noi-tha-it,3,0,1.5,4
+School,Ayutthayanusorn School,ayutthayanusorn-school,3,0,1.5,4
+School,Chom Surang Upathum School,chom-surang-upathum-school,3,0,1.5,4
+School,Maree Anusorn School,maree-anusorn-school,1,2,1.5,4
+Samut Prakarn,Asia Industrial Estate Suvarnabhumi,asia-industrial-estate-suvarnabhumi,2,0,1.0,4
+Saraburi,Muang Saraburi Saraburi,muang-saraburi-saraburi,1,1,1.0,4
+Chachoengsao,Bang Pakong Chachoengsao,bang-pakong-chachoengsao,2,0,1.0,4
+University/College,Suan Dusit Rajabhat University Lumpang,suan-dusit-rajabhat-university-lumpang,1,1,1.0,4
+University/College,Chakri Naruebodindra Medical Institute,chakri-naruebodindra-medical-institute,1,1,1.0,4
+MRT Orange Line,MRT Pracha Songkhro,mrt-pracha-songkhro,1,1,1.0,4
+Nakhon Pathom,Nakhon Chai Sri Nakhon Pathom,nakhon-chai-sri-nakhon-pathom,0,2,1.0,4
+University/College,Mahanakorn University Of Technology,mahanakorn-university-of-technology,2,0,1.0,4
+Kanchanaburi,Muang Kanchanaburi Kanchanaburi,muang-kanchanaburi-kanchanaburi,2,0,1.0,4
+Chiang Mai,San Sai Provincial Electricity Authority,san-sai-provincial-electricity-authority,1,1,1.0,4
+University/College,Boromrajonani College of Nursing Saraburi,boromrajonani-college-of-nursing-saraburi,1,1,1.0,4
+Nakhon Pathom,Muang Nakhon Pathom Nakhon Pathom,muang-nakhon-pathom-nakhon-pathom,1,1,1.0,4
+Chachoengsao,TFD Industrial Estate,tfd-industrial-estate,2,0,1.0,4
+Chiang Rai,P-mart Superstore Chiangrai,p-mart-superstore-chiangrai,1,1,1.0,4
+Nakhon Pathom,Nakhon Chai Si District Office,nakhon-chai-si-district-office,0,2,1.0,4
+Nakhon Pathom,Provinocial Electricity Authority,provinocial-electricity-authority,0,2,1.0,4
+University/College,Chiangrai Technical College,chiangrai-technical-college,1,1,1.0,4
+School,SaraBuri Wittayakhom School,saraburi-wittayakhom-school,1,1,1.0,4
+Phra Nakhon Sri Ayutthaya,Hi-tech Industrial Estate,hi-tech-industrial-estate,0,2,1.0,4
+University/College,Silpakorn University Sanam Chandra Palace,silpakorn-university-sanam-chandra-palace,1,1,1.0,4
+School,Suankularb Wittayalai Saraburi School,suankularb-wittayalai-saraburi-school,1,1,1.0,4
+Rayong,Hemaraj Eastern Seaboard Industrial Estates,hemaraj-eastern-seaboard-industrial-estates,2,0,1.0,4
+University/College,Nakhon Ratchasima College,nakhon-ratchasima-college,2,0,1.0,4
+Rayong,Pluak Daeng District Office,pluak-daeng-district-office,2,0,1.0,4
+School,Nakhon Pathom Municipality Sport School,nakhon-pathom-municipality-sport-school,1,1,1.0,4
+Nakhon Pathom,Phra Pathom Chedi,phra-pathom-chedi,1,1,1.0,4
+Bangkok,Nong Chok,nong-chok,2,0,1.0,4
+School,Bodindecha (Sing Singhaseni) Samutprakan School,bodindecha-sing-singhaseni-samutprakan-school,1,1,1.0,4
+Chiang Rai,Chiang Rai Bus Terminol 2,chiang-rai-bus-terminol-2,1,1,1.0,4
+School,Sirindhorn School,sirindhorn-school,1,1,1.0,4
+Bangkok,Nong Khaem,nong-khaem,1,1,1.0,4
+Phitsanulok,Rueanpae Junction Phitsanulok,rueanpae-junction-phitsanulok,0,1,0.5,4
+Lamphun,Muang Lamphun Lamphun,muang-lamphun-lamphun,0,1,0.5,4
+Sakon Nakhon,Muang Sakon Nakhon Sakon Nakhon,muang-sakon-nakhon-sakon-nakhon,1,0,0.5,4
+School,Strisuksa Roi Et School,strisuksa-roi-et-school,1,0,0.5,4
+Lamphun,Northern Region Industrial Estate Lamphun,northern-region-industrial-estate-lamphun,0,1,0.5,4
+Roi Et,Muang Roi Et Roi Et,muang-roi-et-roi-et,1,0,0.5,4
+Saraburi,Nong Khae Saraburi,nong-khae-saraburi,0,1,0.5,4
+Maha Sarakham,Muang Maha Sarakham Maha Sarakham,muang-maha-sarakham-maha-sarakham,0,1,0.5,4
+Lamphun,Lamphun Industrial Estate,lamphun-industrial-estate,0,1,0.5,4
+Maha Sarakham,Sermthai Complex,sermthai-complex,0,1,0.5,4
+School,Roi Et Wittayalai School,roi-et-wittayalai-school,1,0,0.5,4
+Krabi,Muang Krabi Krabi,muang-krabi-krabi,0,1,0.5,4
+University/College,Bangkok Suvarnabhumi University,bangkok-suvarnabhumi-university,1,0,0.5,4
+University/College,Mae Fah Luang University,mae-fah-luang-university,0,1,0.5,4
+Saraburi,Nong Khae Industrial Estate,nong-khae-industrial-estate,0,1,0.5,4
+University/College,Roi Et Industrial and Community Education College,roi-et-industrial-and-community-education-college,1,0,0.5,4
+University/College,Maha Sarakham Technical College,maha-sarakham-technical-college,0,1,0.5,4
+Chiang Rai,Chiang Rai Night Bazar,chiang-rai-night-bazar,0,1,0.5,4
+University/College,Maha Sarakham Rajabhat University,maha-sarakham-rajabhat-university,0,1,0.5,4
+University/College,Mahasarakham University,mahasarakham-university,0,1,0.5,4
+MRT Orange Line,MRT Siriraj,mrt-siriraj,1,0,0.5,4
+Chiang Rai,Clock Tower Chiang Rai,clock-tower-chiang-rai--2,0,1,0.5,4
+Tak,Mae Sod Tak,mae-sod-tak,1,0,0.5,4
+University/College,Nakhon Pathom Rajabhat University Demonstration School,nakhon-pathom-rajabhat-university-demonstration-school,0,1,0.5,4
+MRT Blue line,MRT Wat Mangkon,mrt-wat-mangkon,0,1,0.5,4
+MRT Blue line,MRT Sam Yot,mrt-sam-yot,0,1,0.5,4
+Nakhon Ratchasima,Nawa Nakhon Industry Zone Nakhon Ratchasima,nawa-nakhon-industry-zone-nakhon-ratchasima,1,0,0.5,4
+University/College,Nakhon Pathom Rajabhat University,nakhon-pathom-rajabhat-university--2,0,1,0.5,4
+Prachinburi,Kabin Buri Prachinburi,kabin-buri-prachinburi,0,1,0.5,4
+Chiang Rai,Chiang Rai Night Bazaar,chiang-rai-night-bazaar,0,1,0.5,4
+Phetchabun,Khao Kho Phetchabun,khao-kho-phetchabun,0,1,0.5,4
+Pathumthani,"Lak Mueang Shrine, Pathum Thani",lak-mueang-shrine-pathum-thani,0,1,0.5,4

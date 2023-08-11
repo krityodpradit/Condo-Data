@@ -1,0 +1,69 @@
+17.8s 1 2nd batch: for-rent data len: 21834
+18.0s 2 Thread 17: Scraping for 1365 links ...
+18.0s 3 Thread 18: Scraping for 1365 links ...
+18.0s 4 Thread 19: Scraping for 1364 links ...
+18.0s 5 Thread 20: Scraping for 1365 links ...
+18.0s 6 Thread 21: Scraping for 1365 links ...
+18.0s 7 Thread 22: Scraping for 1364 links ...
+18.0s 8 Thread 23: Scraping for 1365 links ...
+18.0s 9 Thread 24: Scraping for 1365 links ...
+9880.8s 10 Error at https://propertyhub.in.th/en/listings/noble-ploenchit-3-bedrooms-for-rent---3771843
+10145.1s 11 Error at https://propertyhub.in.th/en/listings/for-rent-maru-akkamai2-2bed-pet-friendly-line-yosita828---3687222
+10590.6s 12 Thread 21: !!! Scraping completed
+10590.6s 13 Thread 25: Scraping for 1364 links ...
+10855.2s 14 Thread 23: !!! Scraping completed
+10855.2s 15 Thread 26: Scraping for 1365 links ...
+10971.7s 16 Thread 22: !!! Scraping completed
+10971.7s 17 Thread 27: Scraping for 1365 links ...
+10977.3s 18 Thread 24: !!! Scraping completed (1 errors, 0 invalid links)
+10977.3s 19 Thread 28: Scraping for 1364 links ...
+11188.9s 20 Thread 20: !!! Scraping completed
+11188.9s 21 Thread 29: Scraping for 1365 links ...
+11716.4s 22 Thread 18: !!! Scraping completed
+11716.4s 23 Thread 30: Scraping for 1365 links ...
+11949.6s 24 Thread 17: !!! Scraping completed (1 errors, 0 invalid links)
+11949.6s 25 Thread 31: Scraping for 1364 links ...
+12240.1s 26 Thread 19: !!! Scraping completed
+12240.1s 27 Thread 32: Scraping for 1365 links ...
+13411.6s 28 Error at https://propertyhub.in.th/en/listings/rhythm-sukhumvit-42-for-rent--a7540945---3759903
+13506.3s 29 Error at https://propertyhub.in.th/en/listings/urgently-aspire-sukhumvit-48-for-rent-14k-with-fully-furnished---3742377
+13541.0s 30 Error at https://propertyhub.in.th/en/listings/a-space-asoke-ratchada-line-id-youcondo-with-too-please-send-us-a-line-for-site-viewing---3470061
+13570.9s 31 Error at https://propertyhub.in.th/en/listings/novel-1-br-condo-at-the-monument-sanampao-near-bts-ari-min-lease-6-mth-id-335454--ae4409d9---3567080
+14018.8s 32 Error at https://propertyhub.in.th/en/listings/h17093-life-asoke-available-unit-contact-us-line-id-condo900-with---3336583
+14234.9s 33 Error at https://propertyhub.in.th/en/listings/h16571-condolette-ize-ratchathewi-available-unit-contact-us-line-id-condo900-with---3328948
+14365.4s 34 Error at https://propertyhub.in.th/en/listings/dl23050302-condo-for-rent-life-asoke-rama-9-near-mrt-พระราม-9-ready-to-move-in-call-urgently-0842740999-lineid-655ebbvc---3726043
+14403.4s 35 Error at https://propertyhub.in.th/en/listings/for-rent-at-the-tempo-ruamrudee-negotiable-at-condo9000-with-too---3513313
+14403.7s 36 Error at https://propertyhub.in.th/en/listings/3-br-condo-at-baan-siri-sukhumvit-13-condominium-near-bts-nana-id-884159--af7c0943---3831419
+14410.8s 37 Error at https://propertyhub.in.th/en/listings/for-rent-at-supalai-oriental-sukhumvit-39-negotiable-at-condo678-with-too--ae4e09b6---3595747
+14445.7s 38 Error at https://propertyhub.in.th/en/listings/studio-condo-at-ivy-thonglor-23-near-bts-thong-lor-id-375230--a93b0982---3243908
+14467.7s 39 Error at https://propertyhub.in.th/en/listings/for-rent-at-the-line-phahon-pradipat-negotiable-at-likebkk-with-too--c2960ac4---3755980
+14468.1s 40 Error at https://propertyhub.in.th/en/listings/c2-3575-rent-aspire-sukhumvit-48---3416692
+14482.8s 41 Error at https://propertyhub.in.th/en/listings/dl23050433-condo-for-rent-supalai-veranda-rama-9-near-mrt-พระราม-9-ready-to-move-in-call-urgently-0659984551-lineid-257sxzzu---3731732
+14488.4s 42 Error at https://propertyhub.in.th/en/listings/condo-for-rent-fully-furnished-1st-floor-pool-view-a-space-asoke-ratchada-48-sq-m-near-mrt-rama-9---3601434
+14496.3s 43 Error at https://propertyhub.in.th/en/listings/for-rent-at-noble-ploenchit-negotiable-at-condo92-with-too---3515207
+14496.6s 44 Error at https://propertyhub.in.th/en/listings/spectacular-high-rise-2-br-condo-at-the-prime11-sukhumvit-condominium-near-bts-nana-id-476280--b249099c---3831546
+14503.7s 45 Error at https://propertyhub.in.th/en/listings/for-rent-at-ideo-mobi-asoke-negotiable-at-condo9000-with-too---3595763
+14575.8s 46 Error at https://propertyhub.in.th/en/listings/dl23050490-condo-for-rent-belle-grand-rama-9-belle-avenue-near-mrt-พระราม-9-ready-to-move-in-call-urgently-0659984551-lineid-257sxzzu---3732739
+14584.9s 47 Error at https://propertyhub.in.th/en/listings/for-rent-at-supalai-elite-phayathai-negotiable-at-c555-with-too--bcc80a29---3545629
+14585.9s 48 Error at https://propertyhub.in.th/en/listings/c2-3990-rent-life-sukhumvit-48---3684081
+14589.6s 49 Error at https://propertyhub.in.th/en/listings/2-br-condo-at-the-prime11-sukhumvit-condominium-near-bts-nana-id-631043--aaa5096e---3831547
+14661.9s 50 Error at https://propertyhub.in.th/en/listings/p15cr2107089-circle-condominium-1-bed---3494054
+21815.4s 51 Thread 26: !!! Scraping completed (3 errors, 0 invalid links)
+21824.6s 52 Thread 25: !!! Scraping completed (4 errors, 6 invalid links)
+22088.7s 53 Thread 27: !!! Scraping completed (3 errors, 0 invalid links)
+22254.1s 54 Thread 28: !!! Scraping completed (3 errors, 1 invalid links)
+22260.0s 55 Thread 29: !!! Scraping completed (4 errors, 2 invalid links)
+22496.2s 56 Thread 30: !!! Scraping completed (2 errors, 4 invalid links)
+22502.1s 57 Thread 31: !!! Scraping completed (3 errors, 1 invalid links)
+22637.5s 58 Thread 32: !!! Scraping completed (1 errors, 0 invalid links)
+22641.4s 59 Total output length: 21793
+22644.9s 60 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+22644.9s 61 warn(
+22644.9s 62 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+22644.9s 63 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+22645.3s 64 [NbConvertApp] Writing 27014 bytes to __notebook__.ipynb
+22647.0s 65 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+22647.0s 66 warn(
+22647.0s 67 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+22647.0s 68 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+22648.0s 69 [NbConvertApp] Writing 340277 bytes to __results__.html

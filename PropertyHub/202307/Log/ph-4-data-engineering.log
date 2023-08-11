@@ -1,0 +1,55 @@
+21.6s 1 Start Data Engineering ...
+37.2s 2 ------------------------------
+37.2s 3 Done importing
+37.2s 4 Total len: 146482
+37.2s 5 for-rent len: 108811
+37.2s 6 for-sale len: 37671
+37.2s 7 ------------------------------
+1803.7s 8 Finish decomposing room info
+3034.1s 9 Finish decomposing room amenities
+5021.0s 10 Finish decomposing project facilities
+8525.2s 11 Finish decomposing project info
+8589.5s 12 Finish decomposing nearby property
+8589.5s 13 ------------------------------
+8589.5s 14 Done decomposing data objects into dataframe
+8589.5s 15 6 room_info_cols: ['Building', 'Facing', 'No. of Bed room', 'On Floor', 'Room size', 'Unit type']
+8589.5s 16 12 room_amenities_cols: ['Air Conditioner', 'Digital Door Lock', 'Furnished', 'Hot Tub', 'In-room WIFI', 'Kitchen Hood', 'Kitchen Stove', 'Phone', 'Refrigerator', 'TV', 'Washer', 'Water Heater']
+8589.5s 17 20 facilities_cols: ['Bicycle Parking', 'CCTV', 'Convenience Store', 'Fingerprint Access Control', 'Fitness', 'Jacuzzi', 'Keycard Access Control', 'Kids Playground', 'Library', 'Lift', 'Massage Room', 'Park / BBQ Areas', 'Parking', 'Restaurant', 'Sauna', 'Security', 'Shuttle Service', 'Steam Room', 'Swimming Pool', 'WIFI']
+8589.5s 18 10 project_details_attributes_cols: ['Address', 'Ceiling Height', 'Completed on', 'No. of Building', 'No. of Floor', 'Other names', 'Project Name', 'Total Units', 'Unit Types', 'Utility Fee']
+8589.5s 19 ------------------------------
+8589.5s 20 There are NO errors in info columns
+8589.5s 21 ------------------------------
+8596.0s 22 All = 146482 records
+8596.2s 23 Same post_name = 28816 records
+8707.7s 24 Same post_name,price,room_size,etc = 2915 records
+8707.7s 25 Remaining = 143567 records
+8707.7s 26 Done creating room table
+8861.0s 27 Done creating project table
+8870.3s 28 Done creating Project_Name table
+8882.7s 29 Done creating Project_Unit_Type table
+8979.8s 30 Done creating Property table
+8979.8s 31 ------------------------------
+8979.8s 32 Room: 143567 records
+8979.8s 33 Project: 3320 records
+8979.8s 34 Project Name: 5426 records
+8979.8s 35 Project Unit: 6906 records
+8979.8s 36 Property Nearby: 85160 records
+8979.8s 37 ------------------------------
+8979.8s 38 Start Data Wrangling ...
+9267.9s 39 Finish wrangling room table
+9269.4s 40 Finish wrangling project table
+9269.4s 41 Finish wrangling project_name table
+9269.4s 42 Finish wrangling project_unit_type table
+9269.4s 43 Finish wrangling property_nearby table
+9279.5s 44 ------------------------------
+9279.5s 45 Results exported
+9284.9s 46 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+9284.9s 47 warn(
+9284.9s 48 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+9284.9s 49 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+9285.5s 50 [NbConvertApp] Writing 49385 bytes to __notebook__.ipynb
+9287.6s 51 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+9287.6s 52 warn(
+9287.6s 53 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+9287.7s 54 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+9289.1s 55 [NbConvertApp] Writing 460728 bytes to __results__.html

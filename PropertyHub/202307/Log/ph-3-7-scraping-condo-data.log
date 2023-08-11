@@ -1,0 +1,62 @@
+22.2s 1 2nd batch: for-sale data len: 18918
+22.4s 2 Thread 17: Scraping for 1182 links ...
+22.4s 3 Thread 18: Scraping for 1182 links ...
+22.4s 4 Thread 19: Scraping for 1183 links ...
+22.4s 5 Thread 20: Scraping for 1182 links ...
+22.4s 6 Thread 21: Scraping for 1182 links ...
+22.4s 7 Thread 22: Scraping for 1183 links ...
+22.4s 8 Thread 23: Scraping for 1182 links ...
+22.4s 9 Thread 24: Scraping for 1182 links ...
+8344.2s 10 Thread 23: !!! Scraping completed
+8344.2s 11 Thread 25: Scraping for 1183 links ...
+8396.2s 12 Thread 24: !!! Scraping completed
+8396.2s 13 Thread 26: Scraping for 1182 links ...
+8401.1s 14 Error at https://propertyhub.in.th/en/listings/for-sell-ready-to-move-in-regent-home-27-bangson---3835968
+8629.6s 15 Thread 22: !!! Scraping completed
+8629.6s 16 Thread 27: Scraping for 1182 links ...
+8773.5s 17 Thread 18: !!! Scraping completed
+8773.5s 18 Thread 28: Scraping for 1183 links ...
+8953.6s 19 Thread 21: !!! Scraping completed
+8953.6s 20 Thread 29: Scraping for 1182 links ...
+9168.7s 21 Thread 20: !!! Scraping completed
+9168.7s 22 Thread 30: Scraping for 1182 links ...
+9861.5s 23 Thread 19: !!! Scraping completed (1 errors, 2 invalid links)
+9861.5s 24 Thread 31: Scraping for 1183 links ...
+9988.8s 25 Thread 17: !!! Scraping completed
+9988.8s 26 Thread 32: Scraping for 1182 links ...
+12081.4s 27 Error at https://propertyhub.in.th/en/listings/ae66024-sell-the-iris-rama-9-srinakarin-1-bedroom-45-5-sqm-high-floor-pool-view-brand-new-furniture---3731894
+12492.0s 28 Error at https://propertyhub.in.th/en/listings/condo-for-sale-lumpini-ville-on-nut-phatthanakan-lumpini-ville-onnut-pattanakarn--b4e70a0b---3801584
+12731.8s 29 Error at https://propertyhub.in.th/en/listings/oneplus-jedyod1-condo-for-sale-moutain-view-near-chiangmai-university--ab1c0941---3600540
+13380.7s 30 Error at https://propertyhub.in.th/en/listings/for-sale-dcondo-campus-resort-rangsit-phase-1-c-building-6th-floor-1-7-mb---3184031
+13438.6s 31 Error at https://propertyhub.in.th/en/listings/city-garden-condo-for-sale-in-pattaya---3695667
+13658.0s 32 Error at https://propertyhub.in.th/en/listings/cs298-for-sale-lumpini-park-riverside-rama-3-brt-wat-dok-mai-064-665-4666---3716535
+14300.7s 33 Error at https://propertyhub.in.th/en/listings/studio-pattaya-plaza-condotel-for-sale--b01209c9---3716357
+14348.4s 34 Error at https://propertyhub.in.th/en/listings/urgently-starview-rama-3-for-sale-11-99m-with-fully-furnished---3760087
+14363.4s 35 Error at https://propertyhub.in.th/en/listings/condo-for-sale-the-base-height-mittraphap-khonkaen---3741417
+14412.5s 36 Error at https://propertyhub.in.th/en/listings/property-id-220cs-chom-doi-condo-square-building-1bed1bath35m2-near-chiang-mai-university---3761304
+14418.2s 37 Error at https://propertyhub.in.th/en/listings/sale-the-parkland-lite-sukhumvit-paknam-owner--ae0409f1---3689601
+14434.2s 38 Error at https://propertyhub.in.th/en/listings/novel-2-br-condo-at-grand-avenue-pattaya-close-to-pattaya-klang-id-1003160--a4f80923---3785066
+14455.4s 39 Error at https://propertyhub.in.th/en/listings/sell-baan-suan-thon-condominium-soi-bhuddhabucha-47-size-56-sq-m-2-bedrooms-1-bathroom-full-furnished---3756247
+14502.0s 40 Error at https://propertyhub.in.th/en/listings/condo-for-sale-d-condo-campus-resort-bangna-1-bedroom-1st-floor-building-c-near-abac-bangna-line-id-501farwc---3838317
+14526.4s 41 Error at https://propertyhub.in.th/en/listings/modern-2-br-condo-at-the-base-central-pattaya-id-1002892--a7a908c9---3785075
+14529.7s 42 Error at https://propertyhub.in.th/en/listings/property-id244cs-serano-condo-1bed-1bath-26m2-nearbyairport-cnx---3764062
+14547.7s 43 Error at https://propertyhub.in.th/en/listings/condo-for-sale-lumpini-park-riverside-rama-3-chao-phraya-riverside-beautiful-room-fully-built-in-furniture-very-cheap-price-line-id-ppagent---2743711
+18371.7s 44 Thread 29: !!! Scraping completed (2 errors, 2 invalid links)
+18520.0s 45 Thread 30: !!! Scraping completed (1 errors, 33 invalid links)
+18814.5s 46 Thread 25: !!! Scraping completed (1 errors, 2 invalid links)
+18860.4s 47 Thread 28: !!! Scraping completed (1 errors, 2 invalid links)
+19062.4s 48 Thread 27: !!! Scraping completed (3 errors, 28 invalid links)
+19102.1s 49 Thread 31: !!! Scraping completed (4 errors, 4 invalid links)
+19134.1s 50 Thread 26: !!! Scraping completed (5 errors, 6 invalid links)
+19504.7s 51 Thread 32: !!! Scraping completed
+19508.8s 52 Total output length: 18800
+19512.6s 53 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+19512.6s 54 warn(
+19512.6s 55 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+19512.6s 56 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+19513.1s 57 [NbConvertApp] Writing 25992 bytes to __notebook__.ipynb
+19515.1s 58 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+19515.1s 59 warn(
+19515.1s 60 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+19515.1s 61 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+19516.3s 62 [NbConvertApp] Writing 339343 bytes to __results__.html

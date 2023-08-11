@@ -1,0 +1,69 @@
+22.8s 1 1st batch: for-rent data len: 21834
+23.0s 2 Thread 1: Scraping 1365 links ...
+23.0s 3 Thread 2: Scraping 1364 links ...
+23.0s 4 Thread 3: Scraping 1365 links ...
+23.0s 5 Thread 4: Scraping 1365 links ...
+23.0s 6 Thread 5: Scraping 1364 links ...
+23.0s 7 Thread 6: Scraping 1365 links ...
+23.0s 8 Thread 7: Scraping 1365 links ...
+23.0s 9 Thread 8: Scraping 1364 links ...
+8246.1s 10 Error at https://propertyhub.in.th/en/listings/corner-unit-1-bed-1-bath-with-bathtub-nice-view-perfect-location-bts-thong-lo-at-condo-noble-remix-condo-for-rent---3689945
+10168.3s 11 Error at https://propertyhub.in.th/en/listings/condominium-170000-bath-beatniq-sukhumvit-32---3306769
+10808.2s 12 Thread 1: !!! Scraping completed (1 errors, 1 invalid links)
+10808.2s 13 Thread 9: Scraping 1365 links ...
+10956.1s 14 Thread 2: !!! Scraping completed
+10956.1s 15 Thread 10: Scraping 1364 links ...
+10963.5s 16 Thread 3: !!! Scraping completed (1 errors, 1 invalid links)
+10963.5s 17 Thread 11: Scraping 1365 links ...
+11284.3s 18 Thread 4: !!! Scraping completed
+11284.3s 19 Thread 12: Scraping 1365 links ...
+11376.3s 20 Thread 7: !!! Scraping completed
+11376.3s 21 Thread 13: Scraping 1364 links ...
+11482.4s 22 Thread 5: !!! Scraping completed
+11482.4s 23 Thread 14: Scraping 1365 links ...
+11640.0s 24 Thread 6: !!! Scraping completed
+11640.0s 25 Thread 15: Scraping 1365 links ...
+12166.3s 26 Thread 8: !!! Scraping completed
+12166.3s 27 Thread 16: Scraping 1364 links ...
+12742.8s 28 Error at https://propertyhub.in.th/en/listings/omg2565-brand-new-bright-spacious-1-bedroom-available-now-19-jul-23-supalai-premier-charoen-nakhon---3832449
+12746.0s 29 Error at https://propertyhub.in.th/en/listings/modern-nice-2-bd-corner-unit-for-rent-with-good-view-in-sathorn-nara-9-by-eastern-star-นารา-9-บาย-อีสเทอร์น-สตาร์---3573404
+12785.2s 30 Error at https://propertyhub.in.th/en/listings/corner-unit-3-beds-3-baths-with-bathtub-high-fl-25-good-view-perfect-location-bts-thong-lo-noble-remix-โนเบิล-รีมิกซ์---3611225
+13443.3s 31 Error at https://propertyhub.in.th/en/listings/studio-modern-style-pool-view-high-fl-10-good-location-bts-thong-lo-350-m-for-rent-for-sale-rhythm-sukhumvit-36-38-ริทึม-สุขุมวิท-36-38---3715270
+13468.8s 32 Error at https://propertyhub.in.th/en/listings/condo-for-rent-fuse-sathorn-taksin-fully-furnished-line-id-ppagent--a96d0926---1766193
+13486.9s 33 Error at https://propertyhub.in.th/en/listings/rent-the-address-sathorn-beautiful-room-fully-furnished-near-bts-you-can-contact-via-line---3238126
+13945.9s 34 Error at https://propertyhub.in.th/en/listings/1-br-condo-at-the-seed-memories-siam-near-bts-national-stadium-id-868468---3837089
+14397.8s 35 Error at https://propertyhub.in.th/en/listings/sr058-special-deal-for-rent-condo-59heritage--a98b0949---2582699
+14402.6s 36 Error at https://propertyhub.in.th/en/listings/ready-to-move-big-room-only-14-000-month-separated-bedroom-for-rent-baan-nonsee---3839006
+14404.6s 37 Error at https://propertyhub.in.th/en/listings/for-rent-the-bangkok-sathorn-ready-to-move-in-s05-2511---3796125
+14430.8s 38 Error at https://propertyhub.in.th/en/listings/the-lofts-silom-2-bedrooms-for-rent---3770392
+14444.7s 39 Error at https://propertyhub.in.th/en/listings/condo-for-rent-sathorn-gardens-near-the-embassy-of-malaysia-fully-furnished-line-id-ppagent---2958542
+14460.6s 40 Error at https://propertyhub.in.th/en/listings/right-at-the-heart-of-bangkok-condo-only-30-meters-to-bts-ratchathewi-pyne-by-sansiri--a930099e---3701291
+14522.4s 41 Error at https://propertyhub.in.th/en/listings/knightsbridge-prime-sathorn-for-rent-ready-to-move-in-01-08-23-s05-2673---3806373
+14523.1s 42 Error at https://propertyhub.in.th/en/listings/185-rajadamri-185-ราชดำริ-1-bedroom-for-rent---3770453
+14536.9s 43 Error at https://propertyhub.in.th/en/listings/condo-for-rent-centric-sathorn-saint-louis-42sqm-fully-furnished-line-id-ppagent--b3c309a3---2948823
+14544.9s 44 Error at https://propertyhub.in.th/en/listings/fullerton-sukhumvit-3-bedrooms-for-rent---3771930
+14552.8s 45 Error at https://propertyhub.in.th/en/listings/right-at-the-heart-of-bangkok-only-800-meters-to-bts-chong-nonsi-supalai-elite-sathorn-suanplu---3707845
+14561.6s 46 Error at https://propertyhub.in.th/en/listings/available-to-deposits-corner-unit-2bedrooms-nice-view-near-chula-for-rent-wish-samyan---3756854
+14615.3s 47 Error at https://propertyhub.in.th/en/listings/the-legend-saladaeng-4-bedrooms-for-rent---3770496
+14629.4s 48 Error at https://propertyhub.in.th/en/listings/sr136-special-deal-for-rent-condo-noble-ora---2766967
+17781.4s 49 Error at https://propertyhub.in.th/en/listings/for-rent-at-oka-house-sukhumvit-36-negotiable-at-condo9000-with-too---3692695
+17938.6s 50 Error at https://propertyhub.in.th/en/listings/p285-for-rent-the-madison-sukhumvit-41-size-115-sq-m-2-bedrooms-2-bathrooms-9th-floor-near-bts-phrom-phong---3833183
+22653.9s 51 Thread 9: !!! Scraping completed (2 errors, 0 invalid links)
+22722.5s 52 Thread 10: !!! Scraping completed (4 errors, 0 invalid links)
+22750.9s 53 Thread 12: !!! Scraping completed (1 errors, 0 invalid links)
+22825.1s 54 Thread 14: !!! Scraping completed (2 errors, 18 invalid links)
+22894.7s 55 Thread 15: !!! Scraping completed (4 errors, 2 invalid links)
+22912.8s 56 Thread 11: !!! Scraping completed (4 errors, 2 invalid links)
+22988.6s 57 Thread 16: !!! Scraping completed (3 errors, 0 invalid links)
+23008.9s 58 Thread 13: !!! Scraping completed (3 errors, 0 invalid links)
+23014.6s 59 Total output length: 21782
+23018.9s 60 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+23018.9s 61 warn(
+23018.9s 62 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+23019.0s 63 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+23019.5s 64 [NbConvertApp] Writing 27029 bytes to __notebook__.ipynb
+23021.6s 65 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+23021.6s 66 warn(
+23021.6s 67 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+23021.6s 68 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+23022.9s 69 [NbConvertApp] Writing 340200 bytes to __results__.html

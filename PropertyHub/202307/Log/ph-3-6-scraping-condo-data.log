@@ -1,0 +1,62 @@
+16.0s 1 1st batch: for-sale data len: 18918
+16.2s 2 Thread 1: Scraping for 1182 links ...
+16.2s 3 Thread 2: Scraping for 1183 links ...
+16.2s 4 Thread 3: Scraping for 1182 links ...
+16.2s 5 Thread 4: Scraping for 1182 links ...
+16.2s 6 Thread 5: Scraping for 1183 links ...
+16.2s 7 Thread 6: Scraping for 1182 links ...
+16.2s 8 Thread 7: Scraping for 1182 links ...
+16.2s 9 Thread 8: Scraping for 1183 links ...
+9406.0s 10 Thread 1: !!! Scraping completed
+9406.0s 11 Thread 9: Scraping for 1182 links ...
+9554.3s 12 Thread 3: !!! Scraping completed
+9554.3s 13 Thread 10: Scraping for 1182 links ...
+9581.1s 14 Thread 7: !!! Scraping completed
+9581.1s 15 Thread 11: Scraping for 1183 links ...
+9590.1s 16 Thread 2: !!! Scraping completed
+9590.1s 17 Thread 12: Scraping for 1182 links ...
+9596.7s 18 Thread 6: !!! Scraping completed
+9596.7s 19 Thread 13: Scraping for 1182 links ...
+9600.0s 20 Thread 4: !!! Scraping completed
+9600.0s 21 Thread 14: Scraping for 1183 links ...
+9702.0s 22 Thread 5: !!! Scraping completed
+9702.0s 23 Thread 15: Scraping for 1182 links ...
+9841.8s 24 Thread 8: !!! Scraping completed
+9841.8s 25 Thread 16: Scraping for 1183 links ...
+10073.9s 26 Error at https://propertyhub.in.th/en/listings/plum-ramkhamhaeng-station-27sqm-22fl-pool-view-2-59-mb-092-597-4998---3384576
+10073.9s 27 Error at https://propertyhub.in.th/en/listings/for-sale-ideo-q-chula-samyan1bed-34-sq-m-beautiful-room-fully-furnished---3588972
+12146.4s 28 Error at https://propertyhub.in.th/en/listings/for-sale-quinn-ratchada-17-1-bedroom-46-sq-m-25th-floor-fully-furnished-near-mrt-sutthisan-only-250-meters--af0d09b5---3544855
+12433.0s 29 Error at https://propertyhub.in.th/en/listings/large-1-br-condo-at-bright-sukhumvit-24-condominium-near-mrt-queen-sirikit-national-convention-centre-id-766490--a7d50973---3257170
+13412.1s 30 Error at https://propertyhub.in.th/en/listings/buy-condo-ideo-q-chula-samyan---3601756
+13812.3s 31 Error at https://propertyhub.in.th/en/listings/for-sale-siri-residence-141-64-sq-m-3-beds-3baths-15th-floor-newly-decorated-room-fully-furnished-ben-garden-view-32-59-mb-sell-with-tenant---3738439
+13873.6s 32 Error at https://propertyhub.in.th/en/listings/condo-for-sale-fully-furnished-4th-floor-building-c-happy-condo-ratchada-18-28-sqm-near-mrt-sutthisan---3623268
+14280.2s 33 Error at https://propertyhub.in.th/en/listings/comdominium-for-sale-yennakart-near-lumpini-mrt-close-to-express-way-all-ready-to-move---3411896
+14352.7s 34 Error at https://propertyhub.in.th/en/listings/grand-langsuan-bts-chidlom-close-to-ratchadamri-pluenchit-ruamrudee-somkid---3064233
+14372.6s 35 Error at https://propertyhub.in.th/en/listings/centric-ratchada-huai-khwang--b6b70a65---2745342
+14422.3s 36 Error at https://propertyhub.in.th/en/listings/condo-for-sale-aguston-sukhumvit-22-fully-furnished--9f4f091b---3810229
+14445.0s 37 Error at https://propertyhub.in.th/en/listings/urgently-ashton-chula-silom-for-sell-16-5m-with-fully-furnished---3215435
+14472.9s 38 Error at https://propertyhub.in.th/en/listings/urgently-maestro-19-for-sale-4-39m-with-fully-furnished--b8e70992---3790991
+14492.6s 39 Error at https://propertyhub.in.th/en/listings/sale-scope-langsuan-3-bedrooms--b09009ae---3436080
+14513.0s 40 Error at https://propertyhub.in.th/en/listings/sell-preemption-quintara-mhygen-ratchada-huai-khwang--a0db091b---3604520
+14527.1s 41 Error at https://propertyhub.in.th/en/listings/condo-for-sale-the-lumpini-24-fully-furnished--b06009cd---3710952
+14545.1s 42 Error at https://propertyhub.in.th/en/listings/amazing-high-rise-4-br-penthouse-at-the-met-sathorn-near-bts-chong-nonsi-id-1017163--b6eb09b4---3784690
+14619.4s 43 Error at https://propertyhub.in.th/en/listings/urgent-sale-siri-residence-sukhumvit24-3bed-3bath-141sq-m-line-greenyosita---3669300
+20098.6s 44 Thread 9: !!! Scraping completed (2 errors, 2 invalid links)
+20198.3s 45 Thread 14: !!! Scraping completed (1 errors, 2 invalid links)
+20505.7s 46 Thread 15: !!! Scraping completed
+20549.3s 47 Thread 16: !!! Scraping completed (6 errors, 2 invalid links)
+20624.8s 48 Thread 10: !!! Scraping completed (3 errors, 13 invalid links)
+20851.5s 49 Thread 11: !!! Scraping completed (1 errors, 2 invalid links)
+20911.4s 50 Thread 13: !!! Scraping completed (3 errors, 2 invalid links)
+20972.1s 51 Thread 12: !!! Scraping completed (2 errors, 0 invalid links)
+20977.1s 52 Total output length: 18871
+20980.7s 53 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+20980.7s 54 warn(
+20980.8s 55 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+20980.8s 56 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+20981.3s 57 [NbConvertApp] Writing 25933 bytes to __notebook__.ipynb
+20983.2s 58 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+20983.2s 59 warn(
+20983.2s 60 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+20983.3s 61 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+20984.4s 62 [NbConvertApp] Writing 339188 bytes to __results__.html

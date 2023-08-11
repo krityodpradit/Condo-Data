@@ -1,0 +1,62 @@
+22.9s 1 Number of threads: 17
+22.9s 2 Thread 1: getting 48442 links ...
+22.9s 3 Thread 2: getting 47045 links ...
+22.9s 4 Thread 3: getting 46887 links ...
+22.9s 5 Thread 4: getting 45075 links ...
+22.9s 6 Thread 5: getting 39936 links ...
+22.9s 7 Thread 6: getting 33877 links ...
+22.9s 8 Thread 7: getting 31341 links ...
+22.9s 9 Thread 8: getting 25356 links ...
+356.3s 10 There is an invalid link: https://propertyhub.in.th/en/condo-for-rent/srinakharinwirot-university-prasarnmit-demonstration-school
+467.2s 11 There is an invalid link: https://propertyhub.in.th/en/condo-for-rent/srinakharinwirot-university-prasanmit-campus
+486.7s 12 There is an invalid link: https://propertyhub.in.th/en/condo-for-rent/wat-pathum-wanaram-school
+887.6s 13 There is an invalid link: https://propertyhub.in.th/en/condo-for-rent/university-of-the-thai-chamber-of-commerce
+1292.5s 14 There is an invalid link: https://propertyhub.in.th/en/condo-for-sale/srinakharinwirot-university-prasarnmit-demonstration-school
+1292.7s 15 Thread 1: finished !!!
+1292.7s 16 Thread 9: getting 22321 links ...
+1890.0s 17 Thread 8: finished !!!
+1890.0s 18 Thread 10: getting 20088 links ...
+2481.4s 19 Thread 7: finished !!!
+2481.4s 20 Thread 11: getting 19996 links ...
+2511.9s 21 There is an invalid link: https://propertyhub.in.th/en/condo-for-rent/watthana
+2538.9s 22 There is an invalid link: https://propertyhub.in.th/en/condo-for-rent/trinity-international-school
+2727.2s 23 Thread 3: finished !!!
+2727.2s 24 Thread 12: getting 17645 links ...
+2749.7s 25 There is an invalid link: https://propertyhub.in.th/en/condo-for-rent/khlong-toei
+3622.6s 26 There is an invalid link: https://propertyhub.in.th/en/condo-for-sale/trinity-international-school
+3622.6s 27 Thread 5: finished !!!
+3622.6s 28 Thread 13: getting 17638 links ...
+3702.1s 29 There is an invalid link: https://propertyhub.in.th/en/condo-for-rent/bangkok-university--3
+3752.1s 30 Thread 9: finished !!!
+3752.1s 31 Thread 14: getting 16841 links ...
+3805.4s 32 There is an invalid link: https://propertyhub.in.th/en/condo-for-rent/ekamai-international-school
+3906.0s 33 Thread 6: finished !!!
+3906.0s 34 Thread 15: getting 16761 links ...
+3971.7s 35 There is an invalid link: https://propertyhub.in.th/en/condo-for-rent/chulalongkorn-university
+3993.8s 36 There is an invalid link: https://propertyhub.in.th/en/condo-for-rent/sai-namphueng-school
+4687.7s 37 Thread 10: finished !!!
+4687.7s 38 Thread 16: getting 16104 links ...
+5117.9s 39 Thread 12: finished !!!
+5117.9s 40 Thread 17: getting 16057 links ...
+5469.9s 41 There is an invalid link: https://propertyhub.in.th/en/condo-for-rent/bts-thong-lo-thong-lor
+5895.7s 42 Thread 2: finished !!!
+6185.1s 43 Thread 15: finished !!!
+6300.3s 44 Thread 4: finished !!!
+7083.7s 45 Thread 13: finished !!!
+7083.7s 46 Thread 11: finished !!!
+7138.9s 47 Thread 14: finished !!!
+7665.2s 48 Thread 16: finished !!!
+7917.7s 49 Thread 17: finished !!!
+7918.8s 50 !!!!!! Finished Scraping Links !!!!!!
+7918.8s 51 for-rent data len: 45612
+7918.8s 52 for-sale data len: 20814
+7923.3s 53 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+7923.3s 54 warn(
+7923.3s 55 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+7923.3s 56 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+7923.8s 57 [NbConvertApp] Writing 16150 bytes to __notebook__.ipynb
+7926.0s 58 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+7926.0s 59 warn(
+7926.1s 60 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+7926.1s 61 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+7927.4s 62 [NbConvertApp] Writing 315785 bytes to __results__.html

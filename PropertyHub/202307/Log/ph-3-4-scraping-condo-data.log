@@ -1,0 +1,67 @@
+18.4s 1 4th batch: for-rent data len: 21834
+18.6s 2 Thread 49: Scraping for 1365 links ...
+18.6s 3 Thread 50: Scraping for 1364 links ...
+18.6s 4 Thread 51: Scraping for 1365 links ...
+18.6s 5 Thread 52: Scraping for 1365 links ...
+18.6s 6 Thread 53: Scraping for 1364 links ...
+18.6s 7 Thread 54: Scraping for 1365 links ...
+18.6s 8 Thread 55: Scraping for 1365 links ...
+18.6s 9 Thread 56: Scraping for 1364 links ...
+1936.9s 10 Error at https://propertyhub.in.th/en/listings/2-bedrooms-condo-available-now-for-rent-ideo-sukhumvit-93-rt-01---3586585
+9632.4s 11 Thread 56: !!! Scraping completed
+9632.4s 12 Thread 57: Scraping for 1365 links ...
+9661.7s 13 Thread 53: !!! Scraping completed
+9661.7s 14 Thread 58: Scraping for 1365 links ...
+9821.2s 15 Thread 51: !!! Scraping completed
+9821.2s 16 Thread 59: Scraping for 1364 links ...
+10353.5s 17 Thread 52: !!! Scraping completed
+10353.5s 18 Thread 60: Scraping for 1365 links ...
+10406.6s 19 Thread 50: !!! Scraping completed
+10406.6s 20 Thread 61: Scraping for 1365 links ...
+10588.3s 21 Thread 54: !!! Scraping completed
+10588.3s 22 Thread 62: Scraping for 1364 links ...
+10679.8s 23 Thread 55: !!! Scraping completed (1 errors, 4 invalid links)
+10679.8s 24 Thread 63: Scraping for 1365 links ...
+10822.6s 25 Thread 49: !!! Scraping completed
+10822.6s 26 Thread 64: Scraping for 1365 links ...
+12155.2s 27 Error at https://propertyhub.in.th/en/listings/wonderful-high-rise-2-br-condo-at-nusasiri-grand-condominium-near-bts-ekkamai-id-646637--b0b4098a---3831204
+12187.2s 28 Error at https://propertyhub.in.th/en/listings/lumpini-condotown-bodindecha-ramkhamhaeng--ae9309d5---3814206
+13387.3s 29 Error at https://propertyhub.in.th/en/listings/for-rent-at-lumpini-park-rama-9-ratchada-negotiable-at-condo456-with-too--bb030a60---3538840
+13399.5s 30 Error at https://propertyhub.in.th/en/listings/for-rent-at-the-president-sathorn-ratchaphruek-3-negotiable-at-likebkk-with-too---3602422
+13479.5s 31 Error at https://propertyhub.in.th/en/listings/for-rent-at-noble-revolve-ratchada-negotiable-at-condo9999-with-too--bf6f09d5---3541149
+13520.4s 32 Error at https://propertyhub.in.th/en/listings/nice-room-3-beds-with-bathtub-large-unie-good-location-mrt-phra-ram-9-500-m-and-centralplaza-belle-grand-rama-9-เบ็ล-แกรนด์-พระราม-9--aa8b08bc---3756899
+13681.1s 33 Error at https://propertyhub.in.th/en/listings/for-rent-life-asoke-rama-9-near-mrt-rama9--be0b0a08---3806744
+14291.1s 34 Error at https://propertyhub.in.th/en/listings/condo-for-rent-lumpini-park-rattanathibet-ngamwongwan-beautiful-room-with-electrical-appliances-fully-furnished--af75097d---3096827
+14304.4s 35 Error at https://propertyhub.in.th/en/listings/for-rent-xt-huaykwang-1bed-35sqm-fully-furnished-ready-to-move-in---3018958
+14360.3s 36 Error at https://propertyhub.in.th/en/listings/code-t274-amanta-ratchada-2-condominium---3834171
+14383.3s 37 Error at https://propertyhub.in.th/en/listings/rent-aspire-rattanathibet-2-with-furniture-and-electrical-appliances-near-big-c-rattanathibet-and-bang-krasor-station---3772492
+14404.4s 38 Error at https://propertyhub.in.th/en/listings/for-rent-at-lumpini-park-rama-9-ratchada-negotiable-at-you1234-with-too--a5fc08dc---3756827
+14430.4s 39 Error at https://propertyhub.in.th/en/listings/super-luxury-condominium-only-570-meters-to-bts-thong-lor-royal-castle---3840236
+14433.3s 40 Error at https://propertyhub.in.th/en/listings/for-rent-lumpini-condo-town-bangkhae-1-bed-27-sq-m-4th-floor--a01708e6---1915370
+14435.4s 41 Error at https://propertyhub.in.th/en/listings/politan-breezeways-riverside-condo-for-rent---2831666
+14475.5s 42 Error at https://propertyhub.in.th/en/listings/a64-132-condo-for-rent-the-politan-rive-next-to-the-river-next-to-phra-nang-klao-mrt-station-beautiful-ready-to-move-in--a6000947---3011620
+14496.6s 43 Error at https://propertyhub.in.th/en/listings/for-rent-at-monte-rama-9-negotiable-at-home999-with-too---3759599
+14522.6s 44 Error at https://propertyhub.in.th/en/listings/a23-057-condo-for-rent-bts-phrom-phong-supalai-place-sukhumvit-39-size-77-sq-m---3668242
+14525.5s 45 Error at https://propertyhub.in.th/en/listings/for-rent-condo-ease-2-rama-2-ready-to-move-in--bdfe09b3---2834644
+14527.6s 46 Error at https://propertyhub.in.th/en/listings/room-for-rent-condo-aspire-rattanathibet-2--abfa091d---3748465
+14528.5s 47 Error at https://propertyhub.in.th/en/listings/1-br-condo-at-villa-asoke-near-mrt-phetchaburi-id-883828--b41009ac---3567378
+14567.8s 48 Error at https://propertyhub.in.th/en/listings/the-hotel-service-33-sqm-fully-furnished-and-electrical-appliances-near-mrt-ready-to-move-in---3442872
+20816.7s 49 Thread 59: !!! Scraping completed (3 errors, 1 invalid links)
+20887.8s 50 Thread 58: !!! Scraping completed (2 errors, 3 invalid links)
+20981.2s 51 Thread 57: !!! Scraping completed (4 errors, 2 invalid links)
+21576.2s 52 Thread 60: !!! Scraping completed (2 errors, 0 invalid links)
+21615.5s 53 Thread 63: !!! Scraping completed (4 errors, 1 invalid links)
+21736.0s 54 Thread 62: !!! Scraping completed (2 errors, 2 invalid links)
+21758.9s 55 Thread 64: !!! Scraping completed (2 errors, 12 invalid links)
+21770.1s 56 Thread 61: !!! Scraping completed (3 errors, 9 invalid links)
+21773.4s 57 Total output length: 21736
+21777.1s 58 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+21777.1s 59 warn(
+21777.1s 60 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+21777.2s 61 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+21777.6s 62 [NbConvertApp] Writing 26777 bytes to __notebook__.ipynb
+21779.3s 63 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+21779.3s 64 warn(
+21779.3s 65 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+21779.3s 66 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+21780.3s 67 [NbConvertApp] Writing 340072 bytes to __results__.html
