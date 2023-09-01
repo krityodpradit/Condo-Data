@@ -1,0 +1,143 @@
+18.6s 1 2nd batch: for-rent data len: 21560
+18.8s 2 Thread 17: Scraping for 1347 links ...
+18.8s 3 Thread 18: Scraping for 1348 links ...
+18.8s 4 Thread 19: Scraping for 1347 links ...
+18.8s 5 Thread 20: Scraping for 1348 links ...
+18.8s 6 Thread 21: Scraping for 1347 links ...
+18.8s 7 Thread 22: Scraping for 1347 links ...
+18.8s 8 Thread 23: Scraping for 1348 links ...
+18.8s 9 Thread 24: Scraping for 1347 links ...
+497.1s 10 Error at https://propertyhub.in.th/en/listings/condo-life-asoke-rama-9-furnished--ab420968---3904474
+2185.5s 11 Error at https://propertyhub.in.th/en/listings/laviq-sukhumvit-57nice-room-nice-deoration-1-bed-46-sq-m-price-is-negotiable-next-to-bts-thonglor---3393019
+2289.4s 12 Error at https://propertyhub.in.th/en/listings/rent-one9five-asoke-rama-9-1-bedroom-19th-f-fully-furnished-near-mrt-rama-9---3716729
+2425.8s 13 Error at https://propertyhub.in.th/en/listings/lth8267-ideo-rama-9-asoke-for-rent-1-bed-1-bath-size-52-13-sq-m-near-mrt-rama-9-station-only-50k-month---3875400
+2465.8s 14 Error at https://propertyhub.in.th/en/listings/ashton-asoke-rama9-1-bedroom-fully-furnished-near-mrt-rama9---3832060
+2574.8s 15 Error at https://propertyhub.in.th/en/listings/condo-for-rent-quattro-by-sansiri-line-mintocondo---3762298
+2736.1s 16 Error at https://propertyhub.in.th/en/listings/for-rent-at-tc-green-rama-9-negotiable-at-you1234-with-too---3804012
+3264.3s 17 Error at https://propertyhub.in.th/en/listings/3-br-condo-at-lumpini-suite-sukhumvit-41-near-bts-phrom-phong-id-510623--bb7a09cd---3830856
+3373.5s 18 Error at https://propertyhub.in.th/en/listings/lth7918-downtown-forty-nine-for-rent-2-beds-2-baths-size-68-86-sq-m-nearby-bts-phrom-phong-station-only-39k-month---3874805
+3791.1s 19 Error at https://propertyhub.in.th/en/listings/p35cr2306063-condolette-dwell-sukhumvit-26-1-bed--b3c90983---3860551
+3991.0s 20 Error at https://propertyhub.in.th/en/listings/spectacular-high-rise-1-br-condo-at-aspire-rama-9-near-bts-nana-id-882046--a2f90911---3678634
+4086.4s 21 Error at https://propertyhub.in.th/en/listings/urgently-belle-grand-rama-9-for-rent-32k-with-fully-furnished---3468641
+4110.8s 22 Error at https://propertyhub.in.th/en/listings/p10cr2101012-fullerton-2-bed--c1e00a40---3860663
+4473.5s 23 Error at https://propertyhub.in.th/en/listings/for-rent-condo-xt-eklamai-line-hubcondo---3890673
+4626.2s 24 Error at https://propertyhub.in.th/en/listings/urgently-noble-revolve-ratchada-1-for-rent-16k-with-fully-furnished--b19909b1---3109563
+6232.5s 25 Error at https://propertyhub.in.th/en/listings/for-rent-life-asoke-rama-9-studio-24th-floor-building-a-near-mrt-rama-9--981108b8---3893378
+6692.4s 26 Error at https://propertyhub.in.th/en/listings/g-2167-中国客户，请加微信。-在联系方式的旁边-for-rent-noble-revolve-ratchada-2-line️-condopremium️---772754
+6772.1s 27 Error at https://propertyhub.in.th/en/listings/for-rent-noble-revolve-ratchada-2-studio-16th-floor-near-aia-capital-center--aa6309ce---3877868
+7184.7s 28 Error at https://propertyhub.in.th/en/listings/novel-1-br-condo-at-condo-one-thonglor-station-near-bts-thong-lor-id-386660---3561017
+8326.4s 29 Error at https://propertyhub.in.th/en/listings/new-room-hot-price-2-bed-with-bathtub-washlet-close-to-bts-phrom-phong-the-emporium-at-condo-noble-be33-condo-for-rent--b48909a2---3315921
+8573.3s 30 Error at https://propertyhub.in.th/en/listings/for-rent-ashton-asoke-rama-9-1-bedroom-27th-floor-omega-building-near-mrt-rama-9-line-id-501farwc---3872021
+10581.4s 31 Thread 23: !!! Scraping completed
+10581.4s 32 Thread 25: Scraping for 1348 links ...
+10699.4s 33 Thread 22: !!! Scraping completed (3 errors, 25 invalid links)
+10699.4s 34 Thread 26: Scraping for 1347 links ...
+10711.3s 35 Thread 20: !!! Scraping completed (2 errors, 10 invalid links)
+10711.3s 36 Thread 27: Scraping for 1348 links ...
+10752.0s 37 Thread 24: !!! Scraping completed (4 errors, 24 invalid links)
+10752.0s 38 Thread 28: Scraping for 1347 links ...
+10885.7s 39 Thread 19: !!! Scraping completed (3 errors, 15 invalid links)
+10885.7s 40 Thread 29: Scraping for 1348 links ...
+10975.0s 41 Thread 21: !!! Scraping completed (1 errors, 27 invalid links)
+10975.0s 42 Thread 30: Scraping for 1347 links ...
+11402.9s 43 Thread 18: !!! Scraping completed (3 errors, 28 invalid links)
+11402.9s 44 Thread 31: Scraping for 1348 links ...
+11878.2s 45 Thread 17: !!! Scraping completed (5 errors, 20 invalid links)
+11878.2s 46 Thread 32: Scraping for 1347 links ...
+15885.8s 47 Thread 25: !!! Scraping completed
+16294.3s 48 Thread 27: !!! Scraping completed
+16430.5s 49 Thread 26: !!! Scraping completed
+16618.5s 50 Thread 30: !!! Scraping completed
+16797.5s 51 Thread 29: !!! Scraping completed
+16908.3s 52 Thread 31: !!! Scraping completed
+16960.7s 53 Thread 28: !!! Scraping completed
+17316.7s 54 Thread 32: !!! Scraping completed
+17318.6s 55 Total output length: 21231
+17322.2s 56 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+17322.2s 57 warn(
+17322.2s 58 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+17322.2s 59 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+17322.3s 60 [NbConvertApp] ERROR | Notebook JSON is invalid: Additional properties are not allowed ('kernelspec', 'language_info' were unexpected)
+17322.3s 61 
+17322.3s 62 Failed validating 'additionalProperties' in notebook:
+17322.3s 63 
+17322.3s 64 On instance:
+17322.3s 65 {'cells': ['...6 cells...'],
+17322.3s 66 'kernelspec': {'display_name': 'Python 3',
+17322.3s 67 'language': 'python',
+17322.3s 68 'name': 'python3'},
+17322.3s 69 'language_info': {'codemirror_mode': {'name': 'ipython', 'version': 3},
+17322.3s 70 'file_extension': '.py',
+17322.3s 71 'mimetype': 'text/x-python',
+17322.3s 72 'name': 'python',
+17322.3s 73 'nbconvert_exporter': 'python',
+17322.3s 74 'pygments_lexer': 'ipython3',
+17322.3s 75 'version': '3.6.4'},
+17322.3s 76 'metadata': {'kernelspec': {'display_name': 'Python 3',
+17322.3s 77 'language': 'python',
+17322.3s 78 'name': 'python3'},
+17322.3s 79 'language_info': {'codemirror_mode': {'name': 'ipython',
+17322.3s 80 'version': 3},
+17322.3s 81 'file_extension': '.py',
+17322.3s 82 'mimetype': 'text/x-python',
+17322.3s 83 'name': 'python',
+17322.3s 84 'nbconvert_exporter': 'python',
+17322.3s 85 'pygments_lexer': 'ipython3',
+17322.3s 86 'version': '3.10.10'},
+17322.3s 87 'papermill': {'default_parameters': {},
+17322.3s 88 'duration': 17315.518543,
+17322.3s 89 'end_time': '2023-08-31T16:00:24.972790',
+17322.3s 90 'environment_variables': {},
+17322.3s 91 'exception': None,
+17322.3s 92 'input_path': '__notebook__.ipynb',
+17322.3s 93 'output_path': '__notebook__.ipynb',
+17322.3s 94 'parameters': {},
+17322.3s 95 'start_time': '2023-08-31T11:11:49.454247',
+17322.3s 96 'version': '2.4.0'}},
+17322.3s 97 'nbformat': 4,
+17322.3s 98 'nbformat_minor': 5}
+17322.6s 99 [NbConvertApp] Writing 26752 bytes to __notebook__.ipynb
+17324.1s 100 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+17324.1s 101 warn(
+17324.1s 102 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+17324.1s 103 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+17324.2s 104 [NbConvertApp] ERROR | Notebook JSON is invalid: Additional properties are not allowed ('kernelspec', 'language_info' were unexpected)
+17324.2s 105 
+17324.2s 106 Failed validating 'additionalProperties' in notebook:
+17324.2s 107 
+17324.2s 108 On instance:
+17324.2s 109 {'cells': ['...6 cells...'],
+17324.2s 110 'kernelspec': {'display_name': 'Python 3',
+17324.2s 111 'language': 'python',
+17324.2s 112 'name': 'python3'},
+17324.2s 113 'language_info': {'codemirror_mode': {'name': 'ipython', 'version': 3},
+17324.2s 114 'file_extension': '.py',
+17324.2s 115 'mimetype': 'text/x-python',
+17324.2s 116 'name': 'python',
+17324.2s 117 'nbconvert_exporter': 'python',
+17324.2s 118 'pygments_lexer': 'ipython3',
+17324.2s 119 'version': '3.6.4'},
+17324.2s 120 'metadata': {'kernelspec': {'display_name': 'Python 3',
+17324.2s 121 'language': 'python',
+17324.2s 122 'name': 'python3'},
+17324.2s 123 'language_info': {'codemirror_mode': {'name': 'ipython',
+17324.2s 124 'version': 3},
+17324.2s 125 'file_extension': '.py',
+17324.2s 126 'mimetype': 'text/x-python',
+17324.2s 127 'name': 'python',
+17324.2s 128 'nbconvert_exporter': 'python',
+17324.2s 129 'pygments_lexer': 'ipython3',
+17324.2s 130 'version': '3.10.10'},
+17324.2s 131 'papermill': {'default_parameters': {},
+17324.2s 132 'duration': 17315.518543,
+17324.2s 133 'end_time': '2023-08-31T16:00:24.972790',
+17324.2s 134 'environment_variables': {},
+17324.2s 135 'exception': None,
+17324.2s 136 'input_path': '__notebook__.ipynb',
+17324.2s 137 'output_path': '__notebook__.ipynb',
+17324.2s 138 'parameters': {},
+17324.2s 139 'start_time': '2023-08-31T11:11:49.454247',
+17324.2s 140 'version': '2.4.0'}},
+17324.2s 141 'nbformat': 4,
+17324.2s 142 'nbformat_minor': 5}
+17325.0s 143 [NbConvertApp] Writing 339710 bytes to __results__.html

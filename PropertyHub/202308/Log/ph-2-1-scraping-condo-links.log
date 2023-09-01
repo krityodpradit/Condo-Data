@@ -1,0 +1,126 @@
+16.8s 1 Number of threads: 17
+16.8s 2 Thread 1: getting 48442 links ...
+16.8s 3 Thread 2: getting 47045 links ...
+16.8s 4 Thread 3: getting 46887 links ...
+16.8s 5 Thread 4: getting 45075 links ...
+16.8s 6 Thread 5: getting 39936 links ...
+16.8s 7 Thread 6: getting 33877 links ...
+16.8s 8 Thread 7: getting 31341 links ...
+16.8s 9 Thread 8: getting 25356 links ...
+1999.6s 10 Thread 8: finished !!!
+1999.6s 11 Thread 9: getting 22321 links ...
+2364.3s 12 Thread 7: finished !!!
+2364.3s 13 Thread 10: getting 20088 links ...
+2575.2s 14 Thread 6: finished !!!
+2575.2s 15 Thread 11: getting 19996 links ...
+3026.1s 16 Thread 5: finished !!!
+3026.1s 17 Thread 12: getting 17645 links ...
+3484.4s 18 Thread 2: finished !!!
+3484.4s 19 Thread 13: getting 17638 links ...
+3489.3s 20 Thread 9: finished !!!
+3489.3s 21 Thread 14: getting 16841 links ...
+3551.4s 22 Thread 3: finished !!!
+3551.4s 23 Thread 15: getting 16761 links ...
+3583.2s 24 Thread 10: finished !!!
+3583.2s 25 Thread 16: getting 16104 links ...
+3585.4s 26 Thread 4: finished !!!
+3585.4s 27 Thread 17: getting 16057 links ...
+3733.8s 28 Thread 1: finished !!!
+3906.5s 29 Thread 11: finished !!!
+4122.4s 30 Thread 12: finished !!!
+4304.6s 31 Thread 14: finished !!!
+4306.9s 32 Thread 17: finished !!!
+4311.9s 33 Thread 16: finished !!!
+4317.0s 34 Thread 15: finished !!!
+4347.4s 35 Thread 13: finished !!!
+4349.2s 36 !!!!!! Finished Scraping Links !!!!!!
+4349.2s 37 for-rent data len: 65952
+4349.2s 38 for-sale data len: 20731
+4352.7s 39 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+4352.7s 40 warn(
+4352.7s 41 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+4352.8s 42 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+4352.8s 43 [NbConvertApp] ERROR | Notebook JSON is invalid: Additional properties are not allowed ('kernelspec', 'language_info' were unexpected)
+4352.8s 44 
+4352.8s 45 Failed validating 'additionalProperties' in notebook:
+4352.8s 46 
+4352.8s 47 On instance:
+4352.8s 48 {'cells': ['...5 cells...'],
+4352.8s 49 'kernelspec': {'display_name': 'Python 3',
+4352.8s 50 'language': 'python',
+4352.8s 51 'name': 'python3'},
+4352.8s 52 'language_info': {'codemirror_mode': {'name': 'ipython', 'version': 3},
+4352.8s 53 'file_extension': '.py',
+4352.8s 54 'mimetype': 'text/x-python',
+4352.8s 55 'name': 'python',
+4352.8s 56 'nbconvert_exporter': 'python',
+4352.8s 57 'pygments_lexer': 'ipython3',
+4352.8s 58 'version': '3.6.4'},
+4352.8s 59 'metadata': {'kernelspec': {'display_name': 'Python 3',
+4352.8s 60 'language': 'python',
+4352.8s 61 'name': 'python3'},
+4352.8s 62 'language_info': {'codemirror_mode': {'name': 'ipython',
+4352.8s 63 'version': 3},
+4352.8s 64 'file_extension': '.py',
+4352.8s 65 'mimetype': 'text/x-python',
+4352.8s 66 'name': 'python',
+4352.8s 67 'nbconvert_exporter': 'python',
+4352.8s 68 'pygments_lexer': 'ipython3',
+4352.8s 69 'version': '3.10.10'},
+4352.8s 70 'papermill': {'default_parameters': {},
+4352.8s 71 'duration': 4346.53584,
+4352.8s 72 'end_time': '2023-08-31T10:58:56.725464',
+4352.8s 73 'environment_variables': {},
+4352.8s 74 'exception': None,
+4352.8s 75 'input_path': '__notebook__.ipynb',
+4352.8s 76 'output_path': '__notebook__.ipynb',
+4352.8s 77 'parameters': {},
+4352.8s 78 'start_time': '2023-08-31T09:46:30.189624',
+4352.8s 79 'version': '2.4.0'}},
+4352.8s 80 'nbformat': 4,
+4352.8s 81 'nbformat_minor': 5}
+4353.2s 82 [NbConvertApp] Writing 14933 bytes to __notebook__.ipynb
+4354.9s 83 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+4354.9s 84 warn(
+4354.9s 85 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+4354.9s 86 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+4355.0s 87 [NbConvertApp] ERROR | Notebook JSON is invalid: Additional properties are not allowed ('kernelspec', 'language_info' were unexpected)
+4355.0s 88 
+4355.0s 89 Failed validating 'additionalProperties' in notebook:
+4355.0s 90 
+4355.0s 91 On instance:
+4355.0s 92 {'cells': ['...5 cells...'],
+4355.0s 93 'kernelspec': {'display_name': 'Python 3',
+4355.0s 94 'language': 'python',
+4355.0s 95 'name': 'python3'},
+4355.0s 96 'language_info': {'codemirror_mode': {'name': 'ipython', 'version': 3},
+4355.0s 97 'file_extension': '.py',
+4355.0s 98 'mimetype': 'text/x-python',
+4355.0s 99 'name': 'python',
+4355.0s 100 'nbconvert_exporter': 'python',
+4355.0s 101 'pygments_lexer': 'ipython3',
+4355.0s 102 'version': '3.6.4'},
+4355.0s 103 'metadata': {'kernelspec': {'display_name': 'Python 3',
+4355.0s 104 'language': 'python',
+4355.0s 105 'name': 'python3'},
+4355.0s 106 'language_info': {'codemirror_mode': {'name': 'ipython',
+4355.0s 107 'version': 3},
+4355.0s 108 'file_extension': '.py',
+4355.0s 109 'mimetype': 'text/x-python',
+4355.0s 110 'name': 'python',
+4355.0s 111 'nbconvert_exporter': 'python',
+4355.0s 112 'pygments_lexer': 'ipython3',
+4355.0s 113 'version': '3.10.10'},
+4355.0s 114 'papermill': {'default_parameters': {},
+4355.0s 115 'duration': 4346.53584,
+4355.0s 116 'end_time': '2023-08-31T10:58:56.725464',
+4355.0s 117 'environment_variables': {},
+4355.0s 118 'exception': None,
+4355.0s 119 'input_path': '__notebook__.ipynb',
+4355.0s 120 'output_path': '__notebook__.ipynb',
+4355.0s 121 'parameters': {},
+4355.0s 122 'start_time': '2023-08-31T09:46:30.189624',
+4355.0s 123 'version': '2.4.0'}},
+4355.0s 124 'nbformat': 4,
+4355.0s 125 'nbformat_minor': 5}
+4355.9s 126 [NbConvertApp] Writing 314373 bytes to __results__.html

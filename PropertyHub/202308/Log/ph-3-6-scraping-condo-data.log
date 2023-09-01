@@ -1,0 +1,154 @@
+19.9s 1 1st batch: for-sale data len: 19124
+20.1s 2 Thread 1: Scraping for 1195 links ...
+20.1s 3 Thread 2: Scraping for 1195 links ...
+20.1s 4 Thread 3: Scraping for 1196 links ...
+20.1s 5 Thread 4: Scraping for 1195 links ...
+20.1s 6 Thread 5: Scraping for 1195 links ...
+20.1s 7 Thread 6: Scraping for 1195 links ...
+20.1s 8 Thread 7: Scraping for 1196 links ...
+20.1s 9 Thread 8: Scraping for 1195 links ...
+346.9s 10 Error at https://propertyhub.in.th/en/listings/condo-for-sale-ideo-ladprao-5-2-bedrooms-17th-floor-near-mrt-phahon-yothin-line-id-579gllfh---3838354
+659.7s 11 Error at https://propertyhub.in.th/en/listings/for-sale-c-ekkamai-1-bedroom-1-bathroom-12th-floor-near-bts-ekkamai-line-id-579gllfh---3867132
+834.4s 12 Error at https://propertyhub.in.th/en/listings/condo-for-sale-noble-revolve-ratchada-2-2-bedrooms-6th-floor-near-mrt-thailand-cultural-center--b75c09d9---3895328
+1149.0s 13 Error at https://propertyhub.in.th/en/listings/condo-for-sale-chapter-one-eco-ratchada-huai-khwang-1-bedroom-21st-floor-building-e-near-mrt-huai-khwang--b325094d---3884694
+1775.4s 14 Error at https://propertyhub.in.th/en/listings/condo-for-sale-chapter-one-eco-ratchada-huai-khwang-studio-floor-5-building-e-near-central-rama-9--ac1a0934---3882205
+1971.3s 15 Error at https://propertyhub.in.th/en/listings/condo-for-sale-noble-revolve-ratchada-2-2-bedrooms-6th-floor-near-mrt-thailand-cultural-center--adc6093e---3895306
+2091.0s 16 Error at https://propertyhub.in.th/en/listings/for-sale-noble-revolve-ratchada-2-2-bedrooms-1-bathroom-39-sqm-near-mrt-cultural-center--ac5c0947---3882216
+2147.0s 17 Error at https://propertyhub.in.th/en/listings/condo-for-sale-bts-residence-1-bedroom-10th-floor-near-central-ladprao--c3070a22---3898381
+2402.5s 18 Error at https://propertyhub.in.th/en/listings/for-sale-ratchada-city-18-pailin-building-fully-furnished---2834537
+2464.5s 19 Error at https://propertyhub.in.th/en/listings/hot-deal-5-67-mb-1-bed-unit-with-south-side-high-fl-10-perfect-location-bts-thong-lo-for-sale-noble-remix-โนเบิล-รีมิกซ์---2998738
+2778.5s 20 Error at https://propertyhub.in.th/en/listings/condo-for-sale-chapter-one-eco-ratchada-huai-khwang-1-bedroom-21st-floor-building-e-near-mrt-huai-khwang---3884598
+3063.4s 21 Error at https://propertyhub.in.th/en/listings/condo-for-sale-the-esse-at-singha-complex-1-bedroom-16th-floor-near-arl-makkasan--a56708b8---3886246
+3646.5s 22 Error at https://propertyhub.in.th/en/listings/condo-for-sale-hyde-sukhumvit-13-1-bedroom-7th-floor-near-bts-nana--b14f09ad---3898424
+3824.9s 23 Error at https://propertyhub.in.th/en/listings/condo-for-sale-a-space-play-ratchada-sutthisan-1-bedroom-1st-floor-building-a-near-robinson-ratchada--a72908f2---3898532
+3916.4s 24 Error at https://propertyhub.in.th/en/listings/condo-for-sale-ashton-asoke-rama-9-1-bedroom-size-37-sq-m-16th-floor-alpha-building-near-yu-charoen-market--b74c0960---3902113
+3937.4s 25 Error at https://propertyhub.in.th/en/listings/condo-for-sale-noble-remix-sukhumvit-36-floor-6-building-1-near-makro-food-service-thonglor-9--aa9209d1---3882263
+5002.9s 26 Error at https://propertyhub.in.th/en/listings/condo-for-sale-noble-revolve-ratchada-2-1-bedroom-15th-floor-near-aia-capital-center--9d6a0885---3896936
+6125.0s 27 Error at https://propertyhub.in.th/en/listings/condo-for-sale-noble-revolve-ratchada-2-2-bedrooms-6th-floor-near-mrt-thailand-cultural-center--9b2608b0---3895307
+6882.4s 28 Error at https://propertyhub.in.th/en/listings/condo-for-sale-chapter-one-eco-ratchada-huai-khwang-studio-floor-5-building-e-near-central-rama-9--b371091d---3882119
+6999.5s 29 Error at https://propertyhub.in.th/en/listings/for-sell-one9five-condo-beautiful-room-ready-to-move-in-inquire-at-line-id-line-dkom-th---3892575
+7074.9s 30 Error at https://propertyhub.in.th/en/listings/exclusive-2-br-condo-at-o2-hip-condominium-near-bts-phloen-chit-id-589459---3265585
+7551.8s 31 Error at https://propertyhub.in.th/en/listings/condo-for-sale-life-asoke-1-bedroom-29th-floor-near-mrt-phetchaburi--b05a0991---3901925
+7741.1s 32 Error at https://propertyhub.in.th/en/listings/wonderful-high-rise-2-br-condo-at-lumpini-suite-phetchaburi-makkasan-near-arl-makkasan-id-1032775--bb2409da---3675536
+7744.0s 33 Error at https://propertyhub.in.th/en/listings/condo-for-sale-chapter-one-eco-ratchada-huai-khwang-1-bedroom-21st-floor-building-e-near-mrt-huai-khwang--b1c9097e---3884695
+7808.4s 34 Error at https://propertyhub.in.th/en/listings/for-sale-the-monument-thonglor-3-bedrooms---2963886
+8118.0s 35 Error at https://propertyhub.in.th/en/listings/magnolias-ratchadamri-boulevard-1-bedroom-for-sale---3770049
+9799.5s 36 Error at https://propertyhub.in.th/en/listings/condo-for-sale-chapter-one-eco-ratchada-huai-khwang-studio-floor-5-building-e-near-central-rama-9--b66e09e6---3882120
+10100.3s 37 Thread 6: !!! Scraping completed (1 errors, 17 invalid links)
+10100.3s 38 Thread 9: Scraping for 1195 links ...
+10275.2s 39 Thread 4: !!! Scraping completed (1 errors, 22 invalid links)
+10275.2s 40 Thread 10: Scraping for 1195 links ...
+10346.9s 41 Error at https://propertyhub.in.th/en/listings/condo-for-sale-chapter-one-eco-ratchada-huai-khwang-1-bedroom-21st-floor-building-e-near-mrt-huai-khwang--aa9a0955---3884599
+10406.9s 42 Thread 7: !!! Scraping completed (3 errors, 25 invalid links)
+10406.9s 43 Thread 11: Scraping for 1195 links ...
+10489.5s 44 Thread 3: !!! Scraping completed (2 errors, 25 invalid links)
+10489.5s 45 Thread 12: Scraping for 1196 links ...
+10833.1s 46 Thread 8: !!! Scraping completed (2 errors, 20 invalid links)
+10833.1s 47 Thread 13: Scraping for 1195 links ...
+10952.0s 48 Thread 2: !!! Scraping completed (6 errors, 16 invalid links)
+10952.0s 49 Thread 14: Scraping for 1195 links ...
+11074.4s 50 Thread 5: !!! Scraping completed
+11074.4s 51 Thread 15: Scraping for 1195 links ...
+12543.0s 52 Thread 1: !!! Scraping completed (13 errors, 15 invalid links)
+12543.0s 53 Thread 16: Scraping for 1196 links ...
+15603.8s 54 Error at https://propertyhub.in.th/en/listings/condo-for-sale-ideo-sukhumvit-93-2-bedrooms-8th-floor-building-a-near-tesco-lotus-on-nut--a0ec0914---3902051
+15893.2s 55 Error at https://propertyhub.in.th/en/listings/condo-for-sale-ideo-sukhumvit-93-studo-15th-floor-near-tesco-lotus-on-nut-⭕line-id-876lxpvc---3859175
+16059.4s 56 Error at https://propertyhub.in.th/en/listings/condo-for-sale-ideo-sukhumvit-93-1-bedroom-6th-floor-building-c-near-bts-bang-chak-line-id-316qhucz---3838350
+16191.2s 57 Thread 11: !!! Scraping completed
+16437.0s 58 Thread 9: !!! Scraping completed
+16491.5s 59 Error at https://propertyhub.in.th/en/listings/condo-for-sale-ideo-sukhumvit-93-2-bedrooms-8th-floor-building-a-near-tesco-lotus-on-nut---3901949
+16533.3s 60 Thread 12: !!! Scraping completed
+16586.9s 61 Thread 13: !!! Scraping completed
+16630.4s 62 Thread 10: !!! Scraping completed
+16664.1s 63 Thread 14: !!! Scraping completed
+16792.3s 64 Thread 15: !!! Scraping completed
+17900.3s 65 Thread 16: !!! Scraping completed (4 errors, 6 invalid links)
+17904.5s 66 Total output length: 18887
+17908.5s 67 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+17908.5s 68 warn(
+17908.5s 69 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+17908.5s 70 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+17908.6s 71 [NbConvertApp] ERROR | Notebook JSON is invalid: Additional properties are not allowed ('kernelspec', 'language_info' were unexpected)
+17908.6s 72 
+17908.6s 73 Failed validating 'additionalProperties' in notebook:
+17908.6s 74 
+17908.6s 75 On instance:
+17908.6s 76 {'cells': ['...6 cells...'],
+17908.6s 77 'kernelspec': {'display_name': 'Python 3',
+17908.6s 78 'language': 'python',
+17908.6s 79 'name': 'python3'},
+17908.6s 80 'language_info': {'codemirror_mode': {'name': 'ipython', 'version': 3},
+17908.6s 81 'file_extension': '.py',
+17908.6s 82 'mimetype': 'text/x-python',
+17908.6s 83 'name': 'python',
+17908.6s 84 'nbconvert_exporter': 'python',
+17908.6s 85 'pygments_lexer': 'ipython3',
+17908.6s 86 'version': '3.6.4'},
+17908.6s 87 'metadata': {'kernelspec': {'display_name': 'Python 3',
+17908.6s 88 'language': 'python',
+17908.6s 89 'name': 'python3'},
+17908.6s 90 'language_info': {'codemirror_mode': {'name': 'ipython',
+17908.6s 91 'version': 3},
+17908.6s 92 'file_extension': '.py',
+17908.6s 93 'mimetype': 'text/x-python',
+17908.6s 94 'name': 'python',
+17908.6s 95 'nbconvert_exporter': 'python',
+17908.6s 96 'pygments_lexer': 'ipython3',
+17908.6s 97 'version': '3.10.10'},
+17908.6s 98 'papermill': {'default_parameters': {},
+17908.6s 99 'duration': 17901.466507,
+17908.6s 100 'end_time': '2023-08-31T16:11:26.288857',
+17908.6s 101 'environment_variables': {},
+17908.6s 102 'exception': None,
+17908.6s 103 'input_path': '__notebook__.ipynb',
+17908.6s 104 'output_path': '__notebook__.ipynb',
+17908.6s 105 'parameters': {},
+17908.6s 106 'start_time': '2023-08-31T11:13:04.822350',
+17908.6s 107 'version': '2.4.0'}},
+17908.6s 108 'nbformat': 4,
+17908.6s 109 'nbformat_minor': 5}
+17909.0s 110 [NbConvertApp] Writing 28937 bytes to __notebook__.ipynb
+17911.0s 111 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+17911.0s 112 warn(
+17911.0s 113 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+17911.0s 114 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+17911.1s 115 [NbConvertApp] ERROR | Notebook JSON is invalid: Additional properties are not allowed ('kernelspec', 'language_info' were unexpected)
+17911.1s 116 
+17911.1s 117 Failed validating 'additionalProperties' in notebook:
+17911.1s 118 
+17911.1s 119 On instance:
+17911.1s 120 {'cells': ['...6 cells...'],
+17911.1s 121 'kernelspec': {'display_name': 'Python 3',
+17911.1s 122 'language': 'python',
+17911.1s 123 'name': 'python3'},
+17911.1s 124 'language_info': {'codemirror_mode': {'name': 'ipython', 'version': 3},
+17911.1s 125 'file_extension': '.py',
+17911.1s 126 'mimetype': 'text/x-python',
+17911.1s 127 'name': 'python',
+17911.1s 128 'nbconvert_exporter': 'python',
+17911.1s 129 'pygments_lexer': 'ipython3',
+17911.1s 130 'version': '3.6.4'},
+17911.1s 131 'metadata': {'kernelspec': {'display_name': 'Python 3',
+17911.1s 132 'language': 'python',
+17911.1s 133 'name': 'python3'},
+17911.1s 134 'language_info': {'codemirror_mode': {'name': 'ipython',
+17911.1s 135 'version': 3},
+17911.1s 136 'file_extension': '.py',
+17911.1s 137 'mimetype': 'text/x-python',
+17911.1s 138 'name': 'python',
+17911.1s 139 'nbconvert_exporter': 'python',
+17911.1s 140 'pygments_lexer': 'ipython3',
+17911.1s 141 'version': '3.10.10'},
+17911.1s 142 'papermill': {'default_parameters': {},
+17911.1s 143 'duration': 17901.466507,
+17911.1s 144 'end_time': '2023-08-31T16:11:26.288857',
+17911.1s 145 'environment_variables': {},
+17911.1s 146 'exception': None,
+17911.1s 147 'input_path': '__notebook__.ipynb',
+17911.1s 148 'output_path': '__notebook__.ipynb',
+17911.1s 149 'parameters': {},
+17911.1s 150 'start_time': '2023-08-31T11:13:04.822350',
+17911.1s 151 'version': '2.4.0'}},
+17911.1s 152 'nbformat': 4,
+17911.1s 153 'nbformat_minor': 5}
+17912.3s 154 [NbConvertApp] Writing 341688 bytes to __results__.html

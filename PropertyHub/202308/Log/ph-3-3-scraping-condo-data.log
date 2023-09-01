@@ -1,0 +1,173 @@
+19.1s 1 3rd batch: for-rent data len: 21560
+19.3s 2 Thread 33: Scraping for 1348 links ...
+19.3s 3 Thread 34: Scraping for 1347 links ...
+19.3s 4 Thread 35: Scraping for 1348 links ...
+19.3s 5 Thread 36: Scraping for 1347 links ...
+19.3s 6 Thread 37: Scraping for 1348 links ...
+19.3s 7 Thread 38: Scraping for 1347 links ...
+19.3s 8 Thread 39: Scraping for 1348 links ...
+19.3s 9 Thread 40: Scraping for 1347 links ...
+316.5s 10 Error at https://propertyhub.in.th/en/listings/for-rent-the-tree-sukhumvit-71-ekamai-1bed-size-27-sq-m-fully-furnished-near-ramkhamhaeng-apl-station---3540664
+347.6s 11 Error at https://propertyhub.in.th/en/listings/for-rent-the-base-park-west-sukhumvit-77-1-bedroom-16th-floor-near-bts-on-nut--ae660909---3903533
+1944.2s 12 Error at https://propertyhub.in.th/en/listings/for-rent-at-rhythm-sukhumvit-44-1-negotiable-at-condo9000-with-too--ae93093a---3766167
+2388.9s 13 Error at https://propertyhub.in.th/en/listings/1-br-condo-at-the-room-sukhumvit-40-near-bts-thong-lor-id-756434--b01b0975---3608393
+2656.1s 14 Error at https://propertyhub.in.th/en/listings/for-rent-the-base-park-west-sukhumvit-77-1-bedroom-31st-floor-bts-on-nut-line-id-501farwc---3821139
+2955.8s 15 Error at https://propertyhub.in.th/en/listings/best-room-for-rent-the-base-park-west-sukhumvit-77-1-bedroom-11th-floor-near-bts-on-nut-line-id-316qhucz---3834392
+3348.9s 16 Error at https://propertyhub.in.th/en/listings/168-sukhumvit-36-line-id-home567-with-too-please-send-us-a-line-for-site-viewing---3502178
+3699.2s 17 Error at https://propertyhub.in.th/en/listings/for-rent-at-oka-haus-sukhumvit-36-negotiable-at-thailandhome-with-too---3586907
+3839.9s 18 Error at https://propertyhub.in.th/en/listings/for-rent-liv-49-1-bedroom-4th-floor-building-a-near-bts-thong-lo--b4630a02---3905151
+3914.7s 19 Error at https://propertyhub.in.th/en/listings/f12085-condo-for-rent-life-sukhumvit-48-beautiful-room-fully-furnished-with-a-washing-machine-special-price---2822664
+4058.8s 20 Error at https://propertyhub.in.th/en/listings/for-rent-wyne-sukhumvit-1-bedroom-6th-floor-near-bangkok-college-of-accountancy-school-line-id-931jkuys---3823817
+4159.3s 21 Error at https://propertyhub.in.th/en/listings/line-condorental-for-rent-the-room-at-oka-haus-sukhumvit-36--b469098e---3766226
+4161.0s 22 Error at https://propertyhub.in.th/en/listings/for-rent-at-the-base-park-east-sukhumvit-77-negotiable-at-condo900-with-too-c-o-n-d-o-9-0-0--c2580a1b---3597215
+4427.2s 23 Error at https://propertyhub.in.th/en/listings/p233-for-rent-nusasiri-grand-sukhumvit-42-size-82-sq-m-1-bedroom-2-bathrooms-10th-floor-building-b-near-bts-ekkamai---3798583
+4848.0s 24 Error at https://propertyhub.in.th/en/listings/for-rent-at-life-sukhumvit-48-negotiable-at-home123-with-too---3668378
+4881.3s 25 Error at https://propertyhub.in.th/en/listings/bless-residence-ekkamai--c22409a3---3810865
+5092.7s 26 Error at https://propertyhub.in.th/en/listings/for-rent-mori-haus-sukhumvit-77-ready-to-move-in-s05-3025---3840546
+5732.0s 27 Error at https://propertyhub.in.th/en/listings/good-price-noble-ambience-sukhumvit-42-ekkamai---3812189
+6449.3s 28 Error at https://propertyhub.in.th/en/listings/for-rent-xt-huai-khwang-studio-floor-6-building-a-near-mrt-huai-khwang-line-id-454hhbsx--af5908e8---3826729
+6979.6s 29 Error at https://propertyhub.in.th/en/listings/special-room-for-rent-chapter-one-eco-ratchada-huay-kwang-1-bedroom-floor-18-building-h-line-id-223ifjvn---3800917
+7010.6s 30 Error at https://propertyhub.in.th/en/listings/exclusive-for-rent-the-base-park-west-sukhumvit-77-1-bedroom-11th-floor-near-bts-on-nut-line-id-179ehpai---3834244
+7037.5s 31 Error at https://propertyhub.in.th/en/listings/for-rent-chapter-one-eco--bb210a05---3901230
+7070.9s 32 Error at https://propertyhub.in.th/en/listings/for-rent-chapter-one-eco-ratchada-huay-kwang-1-bedroom-floor-24-building-c-line-id-931jkuys---3804619
+7084.1s 33 Error at https://propertyhub.in.th/en/listings/for-rent-twenty-eight-chidlom-1-bedroom-16th-floor-villa-building-near-bts-chidlom-⭕line-id-972wwrmd---3858946
+7715.1s 34 Error at https://propertyhub.in.th/en/listings/for-rent-niche-mono-sukhumvit-50-1-bedroom-8th-floor-near-bts-onnut-line-id-167hmxgo---3823686
+7716.8s 35 Error at https://propertyhub.in.th/en/listings/for-rent-chapter-one-eco-ratchada-huai-khwang-1-bedroom-3rd-floor-building-c-line-id-330zzhdy---3863837
+7831.1s 36 Error at https://propertyhub.in.th/en/listings/for-rent-niche-mono-sukhumvit-50-1-bedroom-size-28-sqm-7th-floor-building-a-near-bts-on-nut-line-id-454hhbsx---3828584
+8528.0s 37 Error at https://propertyhub.in.th/en/listings/oka-haus-sukhumvit-36--a4dc08f4---3812470
+8967.9s 38 Error at https://propertyhub.in.th/en/listings/for-rent-chapter-one-eco-ratchada-huay-kwang-1-bedroom-floor-24-building-c-⭕line-id-876lxpvc---3804544
+9215.6s 39 Error at https://propertyhub.in.th/en/listings/for-rent-the-base-park-west-sukhumvit-77-1-bedroom-30th-floor-near-bts-on-nut-⭕line-id-750ehxtn--b7ef09b6---3834304
+10255.6s 40 Error at https://propertyhub.in.th/en/listings/for-rent-chapter-one-eco-ratchada-huai-khwang-1-bedroom-3rd-floor-building-c-⭕line-id-750ehxtn---3863747
+10380.9s 41 Thread 34: !!! Scraping completed (3 errors, 32 invalid links)
+10380.9s 42 Thread 41: Scraping for 1347 links ...
+10638.8s 43 Thread 40: !!! Scraping completed (3 errors, 30 invalid links)
+10638.8s 44 Thread 42: Scraping for 1348 links ...
+10645.5s 45 Thread 38: !!! Scraping completed (4 errors, 27 invalid links)
+10645.5s 46 Thread 43: Scraping for 1347 links ...
+10683.0s 47 Thread 37: !!! Scraping completed (2 errors, 27 invalid links)
+10683.0s 48 Thread 44: Scraping for 1348 links ...
+10826.8s 49 Thread 35: !!! Scraping completed (2 errors, 21 invalid links)
+10826.8s 50 Thread 45: Scraping for 1347 links ...
+10848.1s 51 Thread 33: !!! Scraping completed (4 errors, 37 invalid links)
+10848.1s 52 Thread 46: Scraping for 1348 links ...
+11079.7s 53 Error at https://propertyhub.in.th/en/listings/for-rent-ideo-sukhumvit-93-1-bedroom-9th-floor-building-c-near-bts-bang-chak-⭕line-id-589peqai---3825277
+11087.7s 54 Thread 39: !!! Scraping completed (2 errors, 36 invalid links)
+11087.7s 55 Thread 47: Scraping for 1347 links ...
+11098.3s 56 Error at https://propertyhub.in.th/en/listings/for-rent-ideo-sukhumvit-93-1-bedroom-14th-floor-building-a-near-bts-bang-chak--b4d309ae---3903479
+11210.7s 57 Error at https://propertyhub.in.th/en/listings/best-room-for-rent-chapter-one-eco-ratchada-huay-kwang-1-bedroom-floor-18-building-h-line-id-501farwc---3800918
+11411.8s 58 Error at https://propertyhub.in.th/en/listings/for-rent-ideo-sukhumvit-93-1-bedroom-1-bathroom-price-20000-baht-bts-bang-chak-line-id-535iehwm---3834592
+11658.0s 59 Error at https://propertyhub.in.th/en/listings/best-room-for-rent-ideo-sukhumvit-93-1-bedroom-23rd-floor-building-b-near-bts-bang-chak-line-id-579gllfh---3812875
+11801.9s 60 Thread 36: !!! Scraping completed (11 errors, 21 invalid links)
+11801.9s 61 Thread 48: Scraping for 1348 links ...
+11856.6s 62 Error at https://propertyhub.in.th/en/listings/for-rent-lumpini-ville-sukhumvit-77-2-1-bedroom-14th-floor-building-b2-near-bts-on-nut-line-id-535iehwm---3846429
+12486.6s 63 Error at https://propertyhub.in.th/en/listings/for-rent-ideo-sukhumvit-93-1-bedroom-10th-floor-building-b-near-bts-bang-chak-⭕line-id-876lxpvc--a59708d5---3812675
+12761.0s 64 Error at https://propertyhub.in.th/en/listings/super-special-for-rent-ideo-sukhumvit-93-1-bedroom-23rd-floor-building-b-near-bts-bang-chak-⭕line-id-876lxpvc---3812750
+12780.1s 65 Error at https://propertyhub.in.th/en/listings/for-rent-ideo-sukhumvit-93-1-bedroom-12th-floor-building-c-near-bts-bang-chak--ab3408e1---3884375
+12865.0s 66 Error at https://propertyhub.in.th/en/listings/for-rent-ideo-sukhumvit-93-1-bedroom-6th-floor-building-c-near-bts-bang-chak-⭕line-id-876lxpvc---3838093
+13077.4s 67 Error at https://propertyhub.in.th/en/listings/for-rent-ideo-sukhumvit-93-1-bedroom-12th-floor-building-c-near-bts-bang-chak--a9700988---3884236
+13195.6s 68 Error at https://propertyhub.in.th/en/listings/for-rent-ideo-sukhumvit-93-1-bedroom-12th-floor-building-c-near-tesco-lotus-on-nut--ac150996---3900208
+15430.8s 69 Error at https://propertyhub.in.th/en/listings/for-rent-ideo-sukhumvit-93-1-bedroom-20th-floor-building-a-near-bts-bang-chak-line-id-931jkuys---3850618
+15473.6s 70 Thread 42: !!! Scraping completed
+15809.8s 71 Thread 43: !!! Scraping completed
+15949.8s 72 Error at https://propertyhub.in.th/en/listings/for-rent-ideo-sukhumvit-93-2-bedrooms-6th-floor-building-a-near-tesco-lotus-on-nut-line-id-454hhbsx---3815194
+15981.5s 73 Error at https://propertyhub.in.th/en/listings/for-rent-lumpini-ville-sukhumvit-77-2-1-bedroom-15th-floor-building-a1-near-bts-on-nut-line-id-197mqixl---3816646
+16073.8s 74 Error at https://propertyhub.in.th/en/listings/for-rent-ideo-sukhumvit-93-1-bedroom-10th-floor-building-b-near-tesco-lotus-on-nut-line-id-197mqixl---3832720
+16125.0s 75 Error at https://propertyhub.in.th/en/listings/for-rent-ideo-sukhumvit-93-1-bedroom-19th-floor-building-b-line-id-454hhbsx---3821042
+16173.6s 76 Thread 47: !!! Scraping completed
+16221.0s 77 Error at https://propertyhub.in.th/en/listings/for-rent-ideo-sukhumvit-93-1-bedroom-9th-floor-building-c-near-bts-bang-chak-line-id-179ehpai---3825276
+16269.6s 78 Thread 41: !!! Scraping completed (1 errors, 48 invalid links)
+16434.3s 79 Thread 46: !!! Scraping completed (2 errors, 36 invalid links)
+16457.8s 80 Error at https://propertyhub.in.th/en/listings/for-rent-ideo-sukhumvit-93-1-bedroom-12th-floor-building-c-near-tesco-lotus-on-nut-line-id-197mqixl---3864891
+16784.0s 81 Thread 48: !!! Scraping completed
+17063.2s 82 Thread 45: !!! Scraping completed (5 errors, 15 invalid links)
+18106.6s 83 Error at https://propertyhub.in.th/en/listings/for-rent-ideo-sukhumvit-93-1-bedroom-12th-floor-building-c-near-tesco-lotus-on-nut-⭕line-id-589peqai---3864694
+18119.1s 84 Thread 44: !!! Scraping completed (12 errors, 10 invalid links)
+18121.6s 85 Total output length: 21131
+18125.2s 86 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+18125.2s 87 warn(
+18125.2s 88 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+18125.3s 89 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+18125.3s 90 [NbConvertApp] ERROR | Notebook JSON is invalid: Additional properties are not allowed ('kernelspec', 'language_info' were unexpected)
+18125.3s 91 
+18125.3s 92 Failed validating 'additionalProperties' in notebook:
+18125.3s 93 
+18125.3s 94 On instance:
+18125.3s 95 {'cells': ['...6 cells...'],
+18125.3s 96 'kernelspec': {'display_name': 'Python 3',
+18125.3s 97 'language': 'python',
+18125.3s 98 'name': 'python3'},
+18125.3s 99 'language_info': {'codemirror_mode': {'name': 'ipython', 'version': 3},
+18125.3s 100 'file_extension': '.py',
+18125.3s 101 'mimetype': 'text/x-python',
+18125.3s 102 'name': 'python',
+18125.3s 103 'nbconvert_exporter': 'python',
+18125.3s 104 'pygments_lexer': 'ipython3',
+18125.3s 105 'version': '3.6.4'},
+18125.3s 106 'metadata': {'kernelspec': {'display_name': 'Python 3',
+18125.3s 107 'language': 'python',
+18125.3s 108 'name': 'python3'},
+18125.3s 109 'language_info': {'codemirror_mode': {'name': 'ipython',
+18125.3s 110 'version': 3},
+18125.3s 111 'file_extension': '.py',
+18125.3s 112 'mimetype': 'text/x-python',
+18125.3s 113 'name': 'python',
+18125.3s 114 'nbconvert_exporter': 'python',
+18125.3s 115 'pygments_lexer': 'ipython3',
+18125.3s 116 'version': '3.10.10'},
+18125.3s 117 'papermill': {'default_parameters': {},
+18125.3s 118 'duration': 18118.965004,
+18125.3s 119 'end_time': '2023-08-31T16:13:48.786209',
+18125.3s 120 'environment_variables': {},
+18125.3s 121 'exception': None,
+18125.3s 122 'input_path': '__notebook__.ipynb',
+18125.3s 123 'output_path': '__notebook__.ipynb',
+18125.3s 124 'parameters': {},
+18125.3s 125 'start_time': '2023-08-31T11:11:49.821205',
+18125.3s 126 'version': '2.4.0'}},
+18125.3s 127 'nbformat': 4,
+18125.3s 128 'nbformat_minor': 5}
+18125.7s 129 [NbConvertApp] Writing 31884 bytes to __notebook__.ipynb
+18127.4s 130 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+18127.4s 131 warn(
+18127.4s 132 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+18127.4s 133 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+18127.5s 134 [NbConvertApp] ERROR | Notebook JSON is invalid: Additional properties are not allowed ('kernelspec', 'language_info' were unexpected)
+18127.5s 135 
+18127.5s 136 Failed validating 'additionalProperties' in notebook:
+18127.5s 137 
+18127.5s 138 On instance:
+18127.5s 139 {'cells': ['...6 cells...'],
+18127.5s 140 'kernelspec': {'display_name': 'Python 3',
+18127.5s 141 'language': 'python',
+18127.5s 142 'name': 'python3'},
+18127.5s 143 'language_info': {'codemirror_mode': {'name': 'ipython', 'version': 3},
+18127.5s 144 'file_extension': '.py',
+18127.5s 145 'mimetype': 'text/x-python',
+18127.5s 146 'name': 'python',
+18127.5s 147 'nbconvert_exporter': 'python',
+18127.5s 148 'pygments_lexer': 'ipython3',
+18127.5s 149 'version': '3.6.4'},
+18127.5s 150 'metadata': {'kernelspec': {'display_name': 'Python 3',
+18127.5s 151 'language': 'python',
+18127.5s 152 'name': 'python3'},
+18127.5s 153 'language_info': {'codemirror_mode': {'name': 'ipython',
+18127.5s 154 'version': 3},
+18127.5s 155 'file_extension': '.py',
+18127.5s 156 'mimetype': 'text/x-python',
+18127.5s 157 'name': 'python',
+18127.5s 158 'nbconvert_exporter': 'python',
+18127.5s 159 'pygments_lexer': 'ipython3',
+18127.5s 160 'version': '3.10.10'},
+18127.5s 161 'papermill': {'default_parameters': {},
+18127.5s 162 'duration': 18118.965004,
+18127.5s 163 'end_time': '2023-08-31T16:13:48.786209',
+18127.5s 164 'environment_variables': {},
+18127.5s 165 'exception': None,
+18127.5s 166 'input_path': '__notebook__.ipynb',
+18127.5s 167 'output_path': '__notebook__.ipynb',
+18127.5s 168 'parameters': {},
+18127.5s 169 'start_time': '2023-08-31T11:11:49.821205',
+18127.5s 170 'version': '2.4.0'}},
+18127.5s 171 'nbformat': 4,
+18127.5s 172 'nbformat_minor': 5}
+18128.4s 173 [NbConvertApp] Writing 344520 bytes to __results__.html

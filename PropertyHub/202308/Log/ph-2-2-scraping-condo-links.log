@@ -1,0 +1,162 @@
+19.0s 1 Number of threads: 35
+19.2s 2 Thread 1: getting 15915 links ...
+19.2s 3 Thread 2: getting 15881 links ...
+19.2s 4 Thread 3: getting 15842 links ...
+19.2s 5 Thread 4: getting 15803 links ...
+19.2s 6 Thread 5: getting 15764 links ...
+19.2s 7 Thread 6: getting 15714 links ...
+19.2s 8 Thread 7: getting 15595 links ...
+19.2s 9 Thread 8: getting 15235 links ...
+828.5s 10 Thread 1: finished !!!
+828.5s 11 Thread 9: getting 15018 links ...
+884.4s 12 Thread 5: finished !!!
+884.4s 13 Thread 10: getting 14892 links ...
+1038.2s 14 Thread 3: finished !!!
+1038.2s 15 Thread 11: getting 14800 links ...
+1048.5s 16 Thread 8: finished !!!
+1048.5s 17 Thread 12: getting 14401 links ...
+1050.5s 18 Thread 4: finished !!!
+1050.5s 19 Thread 13: getting 13924 links ...
+1053.1s 20 Thread 2: finished !!!
+1053.1s 21 Thread 14: getting 13525 links ...
+1068.7s 22 Thread 6: finished !!!
+1068.7s 23 Thread 15: getting 12863 links ...
+1081.6s 24 Thread 7: finished !!!
+1081.6s 25 Thread 16: getting 12801 links ...
+1562.8s 26 Thread 10: finished !!!
+1562.8s 27 Thread 17: getting 12322 links ...
+1694.8s 28 Thread 13: finished !!!
+1694.8s 29 Thread 18: getting 12317 links ...
+1753.2s 30 Thread 16: finished !!!
+1753.2s 31 Thread 19: getting 12283 links ...
+1834.3s 32 Thread 14: finished !!!
+1834.3s 33 Thread 20: getting 12212 links ...
+1844.0s 34 Thread 12: finished !!!
+1844.0s 35 Thread 21: getting 11963 links ...
+1853.1s 36 Thread 9: finished !!!
+1853.1s 37 Thread 22: getting 11868 links ...
+1939.3s 38 Thread 11: finished !!!
+1939.3s 39 Thread 23: getting 11763 links ...
+1951.8s 40 Thread 15: finished !!!
+1951.8s 41 Thread 24: getting 11752 links ...
+2335.3s 42 Thread 17: finished !!!
+2335.3s 43 Thread 25: getting 11677 links ...
+2371.0s 44 Thread 18: finished !!!
+2371.0s 45 Thread 26: getting 11605 links ...
+2408.9s 46 Thread 20: finished !!!
+2408.9s 47 Thread 27: getting 11531 links ...
+2433.0s 48 Thread 19: finished !!!
+2433.0s 49 Thread 28: getting 11450 links ...
+2508.6s 50 Thread 22: finished !!!
+2508.6s 51 Thread 29: getting 11344 links ...
+2634.7s 52 Thread 21: finished !!!
+2634.7s 53 Thread 30: getting 11225 links ...
+2637.6s 54 Thread 24: finished !!!
+2637.6s 55 Thread 31: getting 11109 links ...
+2673.9s 56 Thread 23: finished !!!
+2673.9s 57 Thread 32: getting 10911 links ...
+2944.3s 58 Thread 26: finished !!!
+2944.3s 59 Thread 33: getting 10769 links ...
+3054.7s 60 Thread 29: finished !!!
+3054.7s 61 Thread 34: getting 10251 links ...
+3140.2s 62 Thread 25: finished !!!
+3140.2s 63 Thread 35: getting 10148 links ...
+3140.7s 64 Thread 27: finished !!!
+3180.3s 65 Thread 30: finished !!!
+3194.2s 66 Thread 28: finished !!!
+3273.0s 67 Thread 31: finished !!!
+3293.3s 68 Thread 32: finished !!!
+3407.6s 69 Thread 33: finished !!!
+3425.0s 70 Thread 34: finished !!!
+3461.9s 71 Thread 35: finished !!!
+3463.3s 72 !!!!!! Finished Scraping Links !!!!!!
+3463.3s 73 for-rent data len: 87679
+3463.3s 74 for-sale data len: 28121
+3466.5s 75 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+3466.5s 76 warn(
+3466.6s 77 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+3466.6s 78 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+3466.6s 79 [NbConvertApp] ERROR | Notebook JSON is invalid: Additional properties are not allowed ('kernelspec', 'language_info' were unexpected)
+3466.6s 80 
+3466.6s 81 Failed validating 'additionalProperties' in notebook:
+3466.6s 82 
+3466.6s 83 On instance:
+3466.6s 84 {'cells': ['...5 cells...'],
+3466.6s 85 'kernelspec': {'display_name': 'Python 3',
+3466.6s 86 'language': 'python',
+3466.6s 87 'name': 'python3'},
+3466.6s 88 'language_info': {'codemirror_mode': {'name': 'ipython', 'version': 3},
+3466.6s 89 'file_extension': '.py',
+3466.6s 90 'mimetype': 'text/x-python',
+3466.6s 91 'name': 'python',
+3466.6s 92 'nbconvert_exporter': 'python',
+3466.6s 93 'pygments_lexer': 'ipython3',
+3466.6s 94 'version': '3.6.4'},
+3466.6s 95 'metadata': {'kernelspec': {'display_name': 'Python 3',
+3466.6s 96 'language': 'python',
+3466.6s 97 'name': 'python3'},
+3466.6s 98 'language_info': {'codemirror_mode': {'name': 'ipython',
+3466.6s 99 'version': 3},
+3466.6s 100 'file_extension': '.py',
+3466.6s 101 'mimetype': 'text/x-python',
+3466.6s 102 'name': 'python',
+3466.6s 103 'nbconvert_exporter': 'python',
+3466.6s 104 'pygments_lexer': 'ipython3',
+3466.6s 105 'version': '3.10.10'},
+3466.6s 106 'papermill': {'default_parameters': {},
+3466.6s 107 'duration': 3459.345483,
+3466.6s 108 'end_time': '2023-08-31T10:44:18.699125',
+3466.6s 109 'environment_variables': {},
+3466.6s 110 'exception': None,
+3466.6s 111 'input_path': '__notebook__.ipynb',
+3466.6s 112 'output_path': '__notebook__.ipynb',
+3466.6s 113 'parameters': {},
+3466.6s 114 'start_time': '2023-08-31T09:46:39.353642',
+3466.6s 115 'version': '2.4.0'}},
+3466.6s 116 'nbformat': 4,
+3466.6s 117 'nbformat_minor': 5}
+3467.0s 118 [NbConvertApp] Writing 16507 bytes to __notebook__.ipynb
+3468.4s 119 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+3468.4s 120 warn(
+3468.4s 121 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+3468.5s 122 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+3468.5s 123 [NbConvertApp] ERROR | Notebook JSON is invalid: Additional properties are not allowed ('kernelspec', 'language_info' were unexpected)
+3468.5s 124 
+3468.5s 125 Failed validating 'additionalProperties' in notebook:
+3468.5s 126 
+3468.5s 127 On instance:
+3468.5s 128 {'cells': ['...5 cells...'],
+3468.5s 129 'kernelspec': {'display_name': 'Python 3',
+3468.5s 130 'language': 'python',
+3468.5s 131 'name': 'python3'},
+3468.5s 132 'language_info': {'codemirror_mode': {'name': 'ipython', 'version': 3},
+3468.5s 133 'file_extension': '.py',
+3468.5s 134 'mimetype': 'text/x-python',
+3468.5s 135 'name': 'python',
+3468.5s 136 'nbconvert_exporter': 'python',
+3468.5s 137 'pygments_lexer': 'ipython3',
+3468.5s 138 'version': '3.6.4'},
+3468.5s 139 'metadata': {'kernelspec': {'display_name': 'Python 3',
+3468.5s 140 'language': 'python',
+3468.5s 141 'name': 'python3'},
+3468.5s 142 'language_info': {'codemirror_mode': {'name': 'ipython',
+3468.5s 143 'version': 3},
+3468.5s 144 'file_extension': '.py',
+3468.5s 145 'mimetype': 'text/x-python',
+3468.5s 146 'name': 'python',
+3468.5s 147 'nbconvert_exporter': 'python',
+3468.5s 148 'pygments_lexer': 'ipython3',
+3468.5s 149 'version': '3.10.10'},
+3468.5s 150 'papermill': {'default_parameters': {},
+3468.5s 151 'duration': 3459.345483,
+3468.5s 152 'end_time': '2023-08-31T10:44:18.699125',
+3468.5s 153 'environment_variables': {},
+3468.5s 154 'exception': None,
+3468.5s 155 'input_path': '__notebook__.ipynb',
+3468.5s 156 'output_path': '__notebook__.ipynb',
+3468.5s 157 'parameters': {},
+3468.5s 158 'start_time': '2023-08-31T09:46:39.353642',
+3468.5s 159 'version': '2.4.0'}},
+3468.5s 160 'nbformat': 4,
+3468.5s 161 'nbformat_minor': 5}
+3469.3s 162 [NbConvertApp] Writing 315435 bytes to __results__.html

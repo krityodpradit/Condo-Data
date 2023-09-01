@@ -1,0 +1,148 @@
+21.8s 1 1st batch: for-rent data len: 21560
+22.0s 2 Thread 1: Scraping 1347 links ...
+22.0s 3 Thread 2: Scraping 1348 links ...
+22.0s 4 Thread 3: Scraping 1347 links ...
+22.0s 5 Thread 4: Scraping 1348 links ...
+22.0s 6 Thread 5: Scraping 1347 links ...
+22.0s 7 Thread 6: Scraping 1348 links ...
+22.0s 8 Thread 7: Scraping 1347 links ...
+22.0s 9 Thread 8: Scraping 1348 links ...
+212.5s 10 Error at https://propertyhub.in.th/en/listings/for-rent-life-asoke-1-bedroom-12th-floor-near-mrt-phetchaburi--c9ea0a37---3897953
+1914.6s 11 Error at https://propertyhub.in.th/en/listings/for-rent-life-asoke-hype-1bed-32sq-m-line-id-pfagent---3466848
+2299.8s 12 Error at https://propertyhub.in.th/en/listings/condo-ashton-chula-silom-furnished--b2d20956---3792001
+3561.7s 13 Error at https://propertyhub.in.th/en/listings/lth7463-maestro-02-ruamrudee-for-rent-2-beds-2-baths-size-58-sq-m-near-bts-phloen-chit-station-only-37k-month---3875051
+3675.8s 14 Error at https://propertyhub.in.th/en/listings/noble-ploenchitnicely-decorated-high-floor-ready-to-move-in-ask-more-info-lineofficial-promptyou---3402194
+3730.2s 15 Error at https://propertyhub.in.th/en/listings/for-rent-baan-klang-krung-siam-pathumwan-2-bedrooms-20th-floor-building-a-near-co-co-walk-plaza-⭕line-id-876lxpvc---3809565
+3772.3s 16 Error at https://propertyhub.in.th/en/listings/for-rent-ideo-q-chula-samyan-studio-21st-floor-near-mrt-sam-yan-line-id-179ehpai---3842961
+3822.8s 17 Error at https://propertyhub.in.th/en/listings/for-rent-the-grand-regent-1-bedroom-11th-floor-near-bdms-wellness-clinic-⭕line-id-876lxpvc---3812705
+3833.1s 18 Error at https://propertyhub.in.th/en/listings/1-br-condo-at-life-asoke-hype-near-bts-nana-id-992641--af8b096c---3831358
+3991.5s 19 Error at https://propertyhub.in.th/en/listings/lth6694-the-address-sathorn-for-rent-1-bed-1-bath-size-46-5-sq-m-near-bts-chong-nonsi-stations-only-30k-month---3882824
+4041.6s 20 Error at https://propertyhub.in.th/en/listings/spectacular-high-rise-1-br-condo-at-saladaeng-one-near-bts-sala-daeng-id-617805---3845093
+4173.0s 21 Error at https://propertyhub.in.th/en/listings/dl23070974-condo-for-rent-life-one-wireless-near-bts-ploen-chit-ready-to-move-in-call-urgently-0656259498-lineid-523dslwi--cb6b0aa0---3851240
+4230.7s 22 Error at https://propertyhub.in.th/en/listings/the-esse-asoke-nice-room-2-bed-2-bath-75-sq-m-price-negotiable-close-to-bts-asoke--ae3e0980---3277152
+4361.4s 23 Error at https://propertyhub.in.th/en/listings/exclusive-for-rent-life-asoke-hype-1-bed-plus-21st-floor-near-fortune-town-line-id-247sbpis---3863736
+4561.2s 24 Error at https://propertyhub.in.th/en/listings/exclusive-for-rent-sindhorn-residence-studio-floor-3-building-1-near-central-embassy-line-id-167hmxgo---3868569
+4778.4s 25 Error at https://propertyhub.in.th/en/listings/for-rent-the-esse-asoke-1-bedroom-27th-floor-near-wattana-wittayalai-school--9aca0865---3881955
+4881.4s 26 Error at https://propertyhub.in.th/en/listings/exclusive-for-rent-ashton-asoke-1-bedroom-42nd-floor-near-terminal-21---3886083
+5002.9s 27 Error at https://propertyhub.in.th/en/listings/for-rent-noble-be-nineteen-1-bedroom-19th-floor-near-bts-asoke---3891578
+5126.5s 28 Error at https://propertyhub.in.th/en/listings/ashton-asokenice-room-nice-decoration-2-bed-1-bath-47-sq-m-price-negotiable-close-to-bts-asoke---3161679
+7335.9s 29 Error at https://propertyhub.in.th/en/listings/noble-recole-sukhumvit-19--95e108dd---3898645
+7643.9s 30 Error at https://propertyhub.in.th/en/listings/spectacular-high-rise-2-br-condo-at-q-langsuan-near-bts-ratchadamri-id-511933--b5be09a8---3565603
+7820.3s 31 Error at https://propertyhub.in.th/en/listings/m1275-condo-for-rent-maestro-12-ratchathewi-beautiful-room-fully-furnished-has-a-washing-machine-special-price---3364907
+8198.0s 32 Error at https://propertyhub.in.th/en/listings/vertiq-rama4-siam--b64009d4---3871819
+8713.7s 33 Error at https://propertyhub.in.th/en/listings/for-rent-life-asoke-1-bedroom-24th-floor-near-mrt-phetchaburi--aecf0948---3880296
+9175.6s 34 Error at https://propertyhub.in.th/en/listings/for-rent-life-asoke-1-bedroom-27th-floor-near-mrt-phetchaburi-⭕line-id-750ehxtn---3873743
+11850.0s 35 Thread 7: !!! Scraping completed (2 errors, 24 invalid links)
+11850.0s 36 Thread 9: Scraping 1347 links ...
+12026.1s 37 Thread 8: !!! Scraping completed (3 errors, 19 invalid links)
+12026.1s 38 Thread 10: Scraping 1348 links ...
+12112.4s 39 Thread 6: !!! Scraping completed (4 errors, 27 invalid links)
+12112.4s 40 Thread 11: Scraping 1347 links ...
+12240.1s 41 Thread 2: !!! Scraping completed (2 errors, 19 invalid links)
+12240.1s 42 Thread 12: Scraping 1348 links ...
+12683.8s 43 Thread 5: !!! Scraping completed (2 errors, 22 invalid links)
+12683.8s 44 Thread 13: Scraping 1347 links ...
+12943.7s 45 Thread 1: !!! Scraping completed (3 errors, 21 invalid links)
+12943.7s 46 Thread 14: Scraping 1348 links ...
+13839.8s 47 Thread 4: !!! Scraping completed
+13839.8s 48 Thread 15: Scraping 1347 links ...
+14176.6s 49 Thread 3: !!! Scraping completed (9 errors, 36 invalid links)
+14176.6s 50 Thread 16: Scraping 1348 links ...
+15506.2s 51 Error at https://propertyhub.in.th/en/listings/for-rent-ashton-asoke-rama-9-1-bedroom-27th-floor-building-o-near-yu-charoen-market-line-id-247sbpis---3826756
+20153.1s 52 Thread 11: !!! Scraping completed
+20156.3s 53 Thread 9: !!! Scraping completed
+20292.3s 54 Thread 10: !!! Scraping completed
+20376.6s 55 Thread 14: !!! Scraping completed
+20380.2s 56 Thread 12: !!! Scraping completed
+20552.3s 57 Thread 13: !!! Scraping completed
+20721.6s 58 Thread 16: !!! Scraping completed
+21224.4s 59 Thread 15: !!! Scraping completed (1 errors, 5 invalid links)
+21230.0s 60 Total output length: 21295
+21234.6s 61 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+21234.6s 62 warn(
+21234.6s 63 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+21234.7s 64 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+21234.7s 65 [NbConvertApp] ERROR | Notebook JSON is invalid: Additional properties are not allowed ('kernelspec', 'language_info' were unexpected)
+21234.7s 66 
+21234.7s 67 Failed validating 'additionalProperties' in notebook:
+21234.7s 68 
+21234.7s 69 On instance:
+21234.7s 70 {'cells': ['...6 cells...'],
+21234.7s 71 'kernelspec': {'display_name': 'Python 3',
+21234.7s 72 'language': 'python',
+21234.7s 73 'name': 'python3'},
+21234.7s 74 'language_info': {'codemirror_mode': {'name': 'ipython', 'version': 3},
+21234.7s 75 'file_extension': '.py',
+21234.7s 76 'mimetype': 'text/x-python',
+21234.7s 77 'name': 'python',
+21234.7s 78 'nbconvert_exporter': 'python',
+21234.7s 79 'pygments_lexer': 'ipython3',
+21234.7s 80 'version': '3.6.4'},
+21234.7s 81 'metadata': {'kernelspec': {'display_name': 'Python 3',
+21234.7s 82 'language': 'python',
+21234.7s 83 'name': 'python3'},
+21234.7s 84 'language_info': {'codemirror_mode': {'name': 'ipython',
+21234.7s 85 'version': 3},
+21234.7s 86 'file_extension': '.py',
+21234.7s 87 'mimetype': 'text/x-python',
+21234.7s 88 'name': 'python',
+21234.7s 89 'nbconvert_exporter': 'python',
+21234.7s 90 'pygments_lexer': 'ipython3',
+21234.7s 91 'version': '3.10.10'},
+21234.7s 92 'papermill': {'default_parameters': {},
+21234.7s 93 'duration': 21227.34623,
+21234.7s 94 'end_time': '2023-08-31T17:05:28.881902',
+21234.7s 95 'environment_variables': {},
+21234.7s 96 'exception': None,
+21234.7s 97 'input_path': '__notebook__.ipynb',
+21234.7s 98 'output_path': '__notebook__.ipynb',
+21234.7s 99 'parameters': {},
+21234.7s 100 'start_time': '2023-08-31T11:11:41.535672',
+21234.7s 101 'version': '2.4.0'}},
+21234.7s 102 'nbformat': 4,
+21234.7s 103 'nbformat_minor': 5}
+21235.2s 104 [NbConvertApp] Writing 27594 bytes to __notebook__.ipynb
+21237.3s 105 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+21237.3s 106 warn(
+21237.3s 107 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+21237.3s 108 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+21237.4s 109 [NbConvertApp] ERROR | Notebook JSON is invalid: Additional properties are not allowed ('kernelspec', 'language_info' were unexpected)
+21237.4s 110 
+21237.4s 111 Failed validating 'additionalProperties' in notebook:
+21237.4s 112 
+21237.4s 113 On instance:
+21237.4s 114 {'cells': ['...6 cells...'],
+21237.4s 115 'kernelspec': {'display_name': 'Python 3',
+21237.4s 116 'language': 'python',
+21237.4s 117 'name': 'python3'},
+21237.4s 118 'language_info': {'codemirror_mode': {'name': 'ipython', 'version': 3},
+21237.4s 119 'file_extension': '.py',
+21237.4s 120 'mimetype': 'text/x-python',
+21237.4s 121 'name': 'python',
+21237.4s 122 'nbconvert_exporter': 'python',
+21237.4s 123 'pygments_lexer': 'ipython3',
+21237.4s 124 'version': '3.6.4'},
+21237.4s 125 'metadata': {'kernelspec': {'display_name': 'Python 3',
+21237.4s 126 'language': 'python',
+21237.4s 127 'name': 'python3'},
+21237.4s 128 'language_info': {'codemirror_mode': {'name': 'ipython',
+21237.4s 129 'version': 3},
+21237.4s 130 'file_extension': '.py',
+21237.4s 131 'mimetype': 'text/x-python',
+21237.4s 132 'name': 'python',
+21237.4s 133 'nbconvert_exporter': 'python',
+21237.4s 134 'pygments_lexer': 'ipython3',
+21237.4s 135 'version': '3.10.10'},
+21237.4s 136 'papermill': {'default_parameters': {},
+21237.4s 137 'duration': 21227.34623,
+21237.4s 138 'end_time': '2023-08-31T17:05:28.881902',
+21237.4s 139 'environment_variables': {},
+21237.4s 140 'exception': None,
+21237.4s 141 'input_path': '__notebook__.ipynb',
+21237.4s 142 'output_path': '__notebook__.ipynb',
+21237.4s 143 'parameters': {},
+21237.4s 144 'start_time': '2023-08-31T11:11:41.535672',
+21237.4s 145 'version': '2.4.0'}},
+21237.4s 146 'nbformat': 4,
+21237.4s 147 'nbformat_minor': 5}
+21238.6s 148 [NbConvertApp] Writing 340403 bytes to __results__.html

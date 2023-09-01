@@ -1,0 +1,170 @@
+12.1s 1 [IPKernelApp] WARNING | Error in loading extension: bq_stats
+12.1s 2 Check your config files in /root/.ipython/profile_default
+12.1s 3 Traceback (most recent call last):
+12.1s 4 File "/opt/conda/lib/python3.10/site-packages/IPython/core/shellapp.py", line 282, in init_extensions
+12.1s 5 self.shell.extension_manager.load_extension(ext)
+12.1s 6 File "/opt/conda/lib/python3.10/site-packages/IPython/core/extensions.py", line 76, in load_extension
+12.1s 7 return self._load_extension(module_str)
+12.1s 8 File "/opt/conda/lib/python3.10/site-packages/IPython/core/extensions.py", line 91, in _load_extension
+12.1s 9 mod = import_module(module_str)
+12.1s 10 File "/opt/conda/lib/python3.10/importlib/__init__.py", line 126, in import_module
+12.1s 11 return _bootstrap._gcd_import(name[level:], package, level)
+12.1s 12 File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+12.1s 13 File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+12.1s 14 File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+12.1s 15 ModuleNotFoundError: No module named 'bq_stats'
+15.6s 16 4th batch: for-rent data len: 21560
+15.8s 17 Thread 65: Scraping for 1348 links ...
+15.8s 18 Thread 66: Scraping for 1347 links ...
+15.8s 19 Thread 67: Scraping for 1348 links ...
+15.8s 20 Thread 68: Scraping for 1347 links ...
+15.8s 21 Thread 69: Scraping for 1348 links ...
+15.8s 22 Thread 70: Scraping for 1347 links ...
+15.8s 23 Thread 71: Scraping for 1348 links ...
+15.8s 24 Thread 72: Scraping for 1347 links ...
+221.6s 25 Error at https://propertyhub.in.th/en/listings/for-rent-the-rich-rama-9-srinakarin-1-bedroom-21st-floor-near-lotus-pattanakarn-line-id-247sbpis---3850529
+407.3s 26 Error at https://propertyhub.in.th/en/listings/for-rent-decon-prime-rattanathibet-1-bedroom-31st-floor-near-central-rattanathibet-line-id-454hhbsx---3809529
+992.0s 27 Error at https://propertyhub.in.th/en/listings/for-rent-atmoz-ratchada-huay-kwang-2-bedrooms-6th-floor-building-a-near-golden-place-line-id-535iehwm---3862433
+3821.8s 28 Error at https://propertyhub.in.th/en/listings/knightsbridge-sukhumvit-thepharak--b2a90948---3812158
+3866.7s 29 Error at https://propertyhub.in.th/en/listings/metro-luxe-riverfront-rattanathibet--a7bd096f---3762508
+3928.4s 30 Error at https://propertyhub.in.th/en/listings/condominium-for-rent-lumpini-ville-pranangklao-riverview--aece09ae---2893692
+4560.9s 31 Error at https://propertyhub.in.th/en/listings/the-rich-rama-9-srinakarin-furnished--b1f1097f---3867722
+4722.1s 32 Error at https://propertyhub.in.th/en/listings/super-special-for-rent-atmoz-ratchada-huay-kwang-1-bedroom-4th-floor-building-a-near-golden-place-⭕line-id-589peqai---3839109
+5106.8s 33 Error at https://propertyhub.in.th/en/listings/condo-room-rich-park-triple-station-15th-floor-size-28-sqm-1-bedroom-1-bathroom-9-000-month-call-0958195559---3902710
+6198.0s 34 Error at https://propertyhub.in.th/en/listings/special-room-for-rent-atmoz-ratchada-huai-khwang-2-bedrooms-2nd-floor-building-a-near-golden-place-line-id-223ifjvn---3823844
+6344.2s 35 Error at https://propertyhub.in.th/en/listings/nice-room-for-rent-atmoz-ratchada-huay-kwang-1-bedroom-4th-floor-building-a-near-golden-place-line-id-197mqixl---3839254
+7015.8s 36 Error at https://propertyhub.in.th/en/listings/for-rent-supalai-veranda-ramkhamhaeng-studio-9th-floor-building-b-near-ramkhamhaeng-night-market-line-id-263qmehk---3812947
+7153.0s 37 Error at https://propertyhub.in.th/en/listings/for-rent-lumpini-ville-ramkhamhaeng-60-2-1-bedroom-12th-floor-building-a-near-the-mall-bangkapi--c00309e5---3903546
+7631.1s 38 Error at https://propertyhub.in.th/en/listings/r-00215-condo-for-rent-rich-park-triple-station-beautiful-room-high-view-fully-furnished-has-a-washing-machine-call-092-392-1688---3409666
+7791.9s 39 Error at https://propertyhub.in.th/en/listings/for-rent-supalai-veranda-ramkhamhaeng-1-bedroom-building-b-23rd-floor-near-airport-rail-link-ramkhamhaeng--b2b90936---3882051
+7910.3s 40 Error at https://propertyhub.in.th/en/listings/for-rent-nue-noble-srinakarin-lasalle-line-hubcondo---3824875
+10664.3s 41 Thread 72: !!! Scraping completed (1 errors, 31 invalid links)
+10664.3s 42 Thread 73: Scraping for 1348 links ...
+10967.1s 43 Thread 66: !!! Scraping completed
+10967.1s 44 Thread 74: Scraping for 1347 links ...
+10978.5s 45 Thread 65: !!! Scraping completed
+10978.5s 46 Thread 75: Scraping for 1348 links ...
+11020.3s 47 Thread 71: !!! Scraping completed
+11020.3s 48 Thread 76: Scraping for 1347 links ...
+11224.5s 49 Error at https://propertyhub.in.th/en/listings/for-rent-unio-ramkhamhaeng-serithai-1-bedroom-2nd-floor-building-a-near-nida--b00009a3---3888947
+11317.3s 50 Error at https://propertyhub.in.th/en/listings/for-rent-unio-ramkhamhaeng-serithai-1-bedroom-7th-floor-building-c-near-mrt-si-burapha-line-id-223ifjvn--9d9508e2---3844934
+11402.5s 51 Thread 70: !!! Scraping completed (5 errors, 44 invalid links)
+11402.5s 52 Thread 77: Scraping for 1348 links ...
+11411.2s 53 Thread 69: !!! Scraping completed (4 errors, 47 invalid links)
+11411.2s 54 Thread 78: Scraping for 1347 links ...
+11413.5s 55 Error at https://propertyhub.in.th/en/listings/for-rent-unio-ramkhamhaeng-serithai-1-bedroom-7th-floor-building-c-near-mrt-si-burapha--bf0f09b2---3898264
+11573.8s 56 Thread 68: !!! Scraping completed (2 errors, 61 invalid links)
+11573.8s 57 Thread 79: Scraping for 1348 links ...
+11641.9s 58 Thread 67: !!! Scraping completed (4 errors, 36 invalid links)
+11641.9s 59 Thread 80: Scraping for 1347 links ...
+15707.5s 60 Error at https://propertyhub.in.th/en/listings/for-rent-atmoz-chaengwattana-1-bedroom-2nd-floor-building-a-near-tesco-lotus-chaengwattana-⭕line-id-972wwrmd---3858970
+15869.7s 61 Error at https://propertyhub.in.th/en/listings/for-rent-atmoz-chaengwattana-1-bedroom-7th-floor-building-b-near-tesco-lotus-chaengwattana-line-id-263qmehk---3812943
+15887.1s 62 Error at https://propertyhub.in.th/en/listings/for-rent-atmoz-ladprao-71-1-bedroom-8th-floor-building-d-near-centralfestival-eastville-line-id-501farwc--b77e09ee---3847953
+15916.1s 63 Error at https://propertyhub.in.th/en/listings/for-rent-unio-ramkhamhaeng-serithai-1-bedroom-7th-floor-building-c-near-mrt-si-burapha-line-id-454hhbsx---3844845
+15979.8s 64 Error at https://propertyhub.in.th/en/listings/for-rent-atmoz-ladprao-71-1-bedroom-5th-floor-building-d-near-centralfestival-eastville-line-id-579gllfh---3849658
+16009.0s 65 Error at https://propertyhub.in.th/en/listings/for-rent-unio-ramkhamhaeng-serithai-1-bedroom-2nd-floor-building-a-near-nida--ada509c4---3888861
+16060.4s 66 Error at https://propertyhub.in.th/en/listings/for-rent-atmoz-chaengwattana-2-bedrooms-4th-floor-building-a-near-tesco-lotus-chaengwattana--a329091d---3896654
+16072.4s 67 Error at https://propertyhub.in.th/en/listings/for-rent-atmoz-ladprao-71-1-bedroom-8th-floor-near-centralfestival-eastville--aad70949---3888926
+16137.3s 68 Error at https://propertyhub.in.th/en/listings/for-rent-unio-ramkhamhaeng-serithai-1-bedroom-7th-floor-building-c-near-mrt-si-burapha--c0690a4f---3898074
+16165.1s 69 Error at https://propertyhub.in.th/en/listings/for-rent-atmoz-ladprao-71-1-bedroom-plus-2nd-floor-building-b-near-centralfestival-eastville--9d6b08b2---3903461
+16215.5s 70 Thread 73: !!! Scraping completed
+16230.1s 71 Error at https://propertyhub.in.th/en/listings/for-rent-unio-ramkhamhaeng-serithai-1-bedroom-6th-floor-building-b-near-nida---3900188
+16243.0s 72 Thread 74: !!! Scraping completed (4 errors, 5 invalid links)
+16247.2s 73 Error at https://propertyhub.in.th/en/listings/new-price-for-rent-atmoz-chaengwattana-1-bedroom-plus-3rd-floor-building-a-near-tesco-lotus-chaengwattana-line-id-535iehwm---3834516
+16258.5s 74 Error at https://propertyhub.in.th/en/listings/for-rent-atmoz-ladprao-71-1-bedroom-2nd-floor-building-b-near-centralfestival-eastville-line-id-579gllfh---3812857
+16340.4s 75 Error at https://propertyhub.in.th/en/listings/special-price-for-rent-atmoz-chaengwattana-1-bedroom-plus-3rd-floor-building-a-near-tesco-lotus-chaengwattana-⭕line-id-876lxpvc---3834218
+16478.8s 76 Thread 76: !!! Scraping completed
+16509.4s 77 Thread 80: !!! Scraping completed
+16812.1s 78 Thread 75: !!! Scraping completed (3 errors, 11 invalid links)
+16925.4s 79 Thread 78: !!! Scraping completed
+17900.2s 80 Thread 77: !!! Scraping completed (5 errors, 19 invalid links)
+18136.3s 81 Thread 79: !!! Scraping completed (5 errors, 10 invalid links)
+18139.6s 82 Total output length: 21126
+18143.0s 83 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+18143.0s 84 warn(
+18143.0s 85 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+18143.1s 86 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+18143.1s 87 [NbConvertApp] ERROR | Notebook JSON is invalid: Additional properties are not allowed ('kernelspec', 'language_info' were unexpected)
+18143.1s 88 
+18143.1s 89 Failed validating 'additionalProperties' in notebook:
+18143.1s 90 
+18143.1s 91 On instance:
+18143.1s 92 {'cells': ['...5 cells...'],
+18143.1s 93 'kernelspec': {'display_name': 'Python 3',
+18143.1s 94 'language': 'python',
+18143.1s 95 'name': 'python3'},
+18143.1s 96 'language_info': {'codemirror_mode': {'name': 'ipython', 'version': 3},
+18143.1s 97 'file_extension': '.py',
+18143.1s 98 'mimetype': 'text/x-python',
+18143.1s 99 'name': 'python',
+18143.1s 100 'nbconvert_exporter': 'python',
+18143.1s 101 'pygments_lexer': 'ipython3',
+18143.1s 102 'version': '3.6.4'},
+18143.1s 103 'metadata': {'kernelspec': {'display_name': 'Python 3',
+18143.1s 104 'language': 'python',
+18143.1s 105 'name': 'python3'},
+18143.1s 106 'language_info': {'codemirror_mode': {'name': 'ipython',
+18143.1s 107 'version': 3},
+18143.1s 108 'file_extension': '.py',
+18143.1s 109 'mimetype': 'text/x-python',
+18143.1s 110 'name': 'python',
+18143.1s 111 'nbconvert_exporter': 'python',
+18143.1s 112 'pygments_lexer': 'ipython3',
+18143.1s 113 'version': '3.10.12'},
+18143.1s 114 'papermill': {'default_parameters': {},
+18143.1s 115 'duration': 18139.191495,
+18143.1s 116 'end_time': '2023-08-31T16:14:36.320494',
+18143.1s 117 'environment_variables': {},
+18143.1s 118 'exception': None,
+18143.1s 119 'input_path': '__notebook__.ipynb',
+18143.1s 120 'output_path': '__notebook__.ipynb',
+18143.1s 121 'parameters': {},
+18143.1s 122 'start_time': '2023-08-31T11:12:17.128999',
+18143.1s 123 'version': '2.4.0'}},
+18143.1s 124 'nbformat': 4,
+18143.1s 125 'nbformat_minor': 5}
+18143.5s 126 [NbConvertApp] Writing 28862 bytes to __notebook__.ipynb
+18145.3s 127 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+18145.3s 128 warn(
+18145.3s 129 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+18145.3s 130 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+18145.4s 131 [NbConvertApp] ERROR | Notebook JSON is invalid: Additional properties are not allowed ('kernelspec', 'language_info' were unexpected)
+18145.4s 132 
+18145.4s 133 Failed validating 'additionalProperties' in notebook:
+18145.4s 134 
+18145.4s 135 On instance:
+18145.4s 136 {'cells': ['...5 cells...'],
+18145.4s 137 'kernelspec': {'display_name': 'Python 3',
+18145.4s 138 'language': 'python',
+18145.4s 139 'name': 'python3'},
+18145.4s 140 'language_info': {'codemirror_mode': {'name': 'ipython', 'version': 3},
+18145.4s 141 'file_extension': '.py',
+18145.4s 142 'mimetype': 'text/x-python',
+18145.4s 143 'name': 'python',
+18145.4s 144 'nbconvert_exporter': 'python',
+18145.4s 145 'pygments_lexer': 'ipython3',
+18145.4s 146 'version': '3.6.4'},
+18145.4s 147 'metadata': {'kernelspec': {'display_name': 'Python 3',
+18145.4s 148 'language': 'python',
+18145.4s 149 'name': 'python3'},
+18145.4s 150 'language_info': {'codemirror_mode': {'name': 'ipython',
+18145.4s 151 'version': 3},
+18145.4s 152 'file_extension': '.py',
+18145.4s 153 'mimetype': 'text/x-python',
+18145.4s 154 'name': 'python',
+18145.4s 155 'nbconvert_exporter': 'python',
+18145.4s 156 'pygments_lexer': 'ipython3',
+18145.4s 157 'version': '3.10.12'},
+18145.4s 158 'papermill': {'default_parameters': {},
+18145.4s 159 'duration': 18139.191495,
+18145.4s 160 'end_time': '2023-08-31T16:14:36.320494',
+18145.4s 161 'environment_variables': {},
+18145.4s 162 'exception': None,
+18145.4s 163 'input_path': '__notebook__.ipynb',
+18145.4s 164 'output_path': '__notebook__.ipynb',
+18145.4s 165 'parameters': {},
+18145.4s 166 'start_time': '2023-08-31T11:12:17.128999',
+18145.4s 167 'version': '2.4.0'}},
+18145.4s 168 'nbformat': 4,
+18145.4s 169 'nbformat_minor': 5}
+18146.3s 170 [NbConvertApp] Writing 341627 bytes to __results__.html
